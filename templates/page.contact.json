@@ -128,8 +128,11 @@
           "row-gap": "0px"
         },
         "size": {
+          "@media (--mobile)": {
+            "width": "auto"
+          },
           "height": "auto",
-          "width": "100%"
+          "width": "70%"
         },
         "spacing": {
           "padding-bottom": "0px",
