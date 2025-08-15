@@ -1,11 +1,372 @@
 {
   "sections": {
-    "main-page": {
-      "type": "main-page"
+    "17552500310299a40f03": {
+      "type": "custom-html",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "html": "\u003cdiv style=\"display: flex; justify-content: space-around; text-align: center; gap: 20px; font-family: sans-serif;\"\u003e\r\n\r\n  \u003cdiv\r\n    style=\"flex: 1; padding: 20px; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);\"\u003e\r\n    \u003cp style=\"font-size: 24px;\"\u003e📍\u003c/p\u003e\r\n    \u003ch3 style=\"margin: 10px 0;\"\u003eOur Address\u003c/h3\u003e\r\n    \u003cp style=\"color: #555; font-size: 14px;\"\u003eNo. 25, Zishan Road, Licheng District, Quanzhou City, Fujian 362000, China\r\n    \u003c/p\u003e\r\n  \u003c/div\u003e\r\n\r\n  \u003cdiv\r\n    style=\"flex: 1; padding: 20px; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);\"\u003e\r\n    \u003cp style=\"font-size: 24px;\"\u003e✉️\u003c/p\u003e\r\n    \u003ch3 style=\"margin: 10px 0;\"\u003eEmail Us\u003c/h3\u003e\r\n    \u003cp style=\"color: #555; font-size: 14px;\"\u003e\u003ca href=\"mailto:info@mudjean.com\"\r\n        style=\"color: #007bff; text-decoration: none;\"\u003einfo@mudjean.com\u003c/a\u003e\u003c/p\u003e\r\n  \u003c/div\u003e\r\n\r\n  \u003cdiv\r\n    style=\"flex: 1; padding: 20px; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);\"\u003e\r\n    \u003cp style=\"font-size: 24px;\"\u003e📞\u003c/p\u003e\r\n    \u003ch3 style=\"margin: 10px 0;\"\u003eCall Us\u003c/h3\u003e\r\n    \u003cp style=\"color: #555; font-size: 14px;\"\u003e\u003ca href=\"tel:+8619859538873\"\r\n        style=\"color: #007bff; text-decoration: none;\"\u003e+86 198 5953 8873\u003c/a\u003e\u003c/p\u003e\r\n  \u003c/div\u003e\r\n\r\n\u003c/div\u003e",
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "row-gap": "20px"
+          },
+          "align-items": "center",
+          "column-gap": "30px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "30px"
+        },
+        "size": {
+          "height": "auto",
+          "width": "100%"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-bottom": "40px",
+            "padding-top": "40px"
+          },
+          "padding-bottom": "80px",
+          "padding-top": "80px"
+        }
+      },
+      "disabled": false,
+      "blocks": {},
+      "block_order": [],
+      "custom_css": []
+    },
+    "175525081827324735e5": {
+      "type": "rich-text",
+      "settings": {
+        "background_image": {},
+        "color_scheme": "scheme-1",
+        "layout": {
+          "@media (--mobile)": {
+            "align-items": "center",
+            "column-gap": "14px",
+            "flex-direction": "column",
+            "flex-wrap": "nowrap",
+            "justify-content": "center",
+            "row-gap": "14px"
+          },
+          "align-items": "center",
+          "column-gap": "28px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "28px"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-bottom": "24px",
+            "padding-left": "20px",
+            "padding-right": "20px",
+            "padding-top": "24px"
+          },
+          "padding-bottom": "100px",
+          "padding-left": "30px",
+          "padding-right": "30px",
+          "padding-top": "100px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "17552508182747e422dd": {
+          "type": "heading",
+          "settings": {
+            "text": "Contact Us",
+            "text_align": "center",
+            "text_size": "title1"
+          },
+          "blocks": {}
+        },
+        "1755250818274a113465": {
+          "type": "rich-text",
+          "settings": {
+            "content": "\u003cdiv\u003e\n\u003cdiv\u003eWe're here to help! Our customer service team is available from Monday to Friday, 8:30 AM - 5:30 PM (Beijing Time, GMT+8). For any questions or assistance, please reach out through the contact details below.\u003c/div\u003e\n\u003c/div\u003e"
+          },
+          "blocks": {}
+        },
+        "1755250818274fb72f50": {
+          "type": "button-group",
+          "settings": {
+            "layout": {
+              "align-items": "center",
+              "column-gap": "14px",
+              "flex-direction": "row",
+              "flex-wrap": "nowrap",
+              "justify-content": "center",
+              "row-gap": "14px"
+            },
+            "size": {
+              "height": "auto",
+              "width": "100%"
+            },
+            "spacing": {
+              "padding-bottom": "0px",
+              "padding-left": "0px",
+              "padding-right": "0px",
+              "padding-top": "8px"
+            }
+          },
+          "disabled": true,
+          "blocks": {
+            "1755250818274dd632d8": {
+              "type": "button",
+              "settings": {
+                "text": "Shop this",
+                "use_secondary_style": true
+              },
+              "disabled": true,
+              "blocks": {}
+            },
+            "1755250818274f558b2c": {
+              "type": "button",
+              "settings": {
+                "text": "Shop all",
+                "use_secondary_style": false
+              },
+              "disabled": true,
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "1755250818274dd632d8",
+            "1755250818274f558b2c"
+          ]
+        }
+      },
+      "block_order": [
+        "17552508182747e422dd",
+        "1755250818274a113465",
+        "1755250818274fb72f50"
+      ],
+      "custom_css": []
+    },
+    "1755250966769d320713": {
+      "type": "custom-section",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "row-gap": "20px"
+          },
+          "align-items": "center",
+          "column-gap": "32px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "32px"
+        },
+        "size": {
+          "height": "auto",
+          "width": "100%"
+        },
+        "spacing": {}
+      },
+      "disabled": false,
+      "blocks": {},
+      "block_order": [],
+      "name": "t:sections.custom_section.presets.presets_0.name"
+    },
+    "1755251020829d31699c": {
+      "type": "custom-section",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "layout": {
+          "align-items": "center",
+          "column-gap": "0px",
+          "flex-direction": "row",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "0px"
+        },
+        "size": {
+          "height": "auto",
+          "width": "100%"
+        },
+        "spacing": {
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "175525102082906bec22": {
+          "type": "group",
+          "settings": {
+            "layout": {
+              "align-items": "center",
+              "column-gap": "0px",
+              "flex-direction": "column",
+              "flex-wrap": "nowrap",
+              "justify-content": "center",
+              "row-gap": "0px"
+            },
+            "size": {
+              "height": "auto",
+              "width": "33.33%"
+            },
+            "spacing": {
+              "padding-bottom": "0px",
+              "padding-left": "0px",
+              "padding-right": "0px",
+              "padding-top": "0px"
+            }
+          },
+          "blocks": {
+            "175525102082958f9046": {
+              "type": "heading",
+              "settings": {
+                "text": "1/3",
+                "text_align": "center",
+                "text_size": "title3"
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "175525102082958f9046"
+          ]
+        },
+        "17552510208291a1a2d6": {
+          "type": "group",
+          "settings": {
+            "layout": {
+              "align-items": "center",
+              "column-gap": "0px",
+              "flex-direction": "column",
+              "flex-wrap": "nowrap",
+              "justify-content": "center",
+              "row-gap": "0px"
+            },
+            "size": {
+              "height": "auto",
+              "width": "33.33%"
+            },
+            "spacing": {
+              "padding-bottom": "0px",
+              "padding-left": "0px",
+              "padding-right": "0px",
+              "padding-top": "0px"
+            }
+          },
+          "blocks": {
+            "17552510208297f53b5d": {
+              "type": "heading",
+              "settings": {
+                "text": "1/3",
+                "text_align": "center",
+                "text_size": "title3"
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "17552510208297f53b5d"
+          ]
+        },
+        "1755251020829dfdc007": {
+          "type": "group",
+          "settings": {
+            "layout": {
+              "align-items": "center",
+              "column-gap": "0px",
+              "flex-direction": "column",
+              "flex-wrap": "nowrap",
+              "justify-content": "center",
+              "row-gap": "0px"
+            },
+            "size": {
+              "height": "auto",
+              "width": "33.33%"
+            },
+            "spacing": {
+              "padding-bottom": "0px",
+              "padding-left": "0px",
+              "padding-right": "0px",
+              "padding-top": "0px"
+            }
+          },
+          "blocks": {
+            "1755251020829a2f3bc1": {
+              "type": "heading",
+              "settings": {
+                "text": "1/3",
+                "text_align": "center",
+                "text_size": "title3"
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "1755251020829a2f3bc1"
+          ]
+        }
+      },
+      "block_order": [
+        "1755251020829dfdc007",
+        "175525102082906bec22",
+        "17552510208291a1a2d6"
+      ],
+      "name": "t:sections.custom_section.presets.presets_2.name"
     },
     "form": {
-      "type": "contact-form"
+      "type": "contact-form",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "size": {
+          "@media (--mobile)": {
+            "height": "auto",
+            "width": "100%"
+          },
+          "height": "auto",
+          "width": "1000px"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-bottom": "40px",
+            "padding-top": "40px"
+          },
+          "padding-bottom": "60px",
+          "padding-top": "60px"
+        },
+        "title": "",
+        "title_size": "title3"
+      },
+      "disabled": false,
+      "blocks": {},
+      "custom_css": []
+    },
+    "main-page": {
+      "type": "main-page",
+      "settings": {
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-bottom": "40px",
+            "padding-left": "0",
+            "padding-right": "0",
+            "padding-top": "40px"
+          },
+          "padding-bottom": "80px",
+          "padding-left": "210px",
+          "padding-right": "210px",
+          "padding-top": "80px"
+        }
+      },
+      "disabled": true,
+      "blocks": {}
     }
   },
-  "order": ["main-page", "form"]
+  "order": [
+    "main-page",
+    "175525081827324735e5",
+    "1755250966769d320713",
+    "17552500310299a40f03",
+    "form",
+    "1755251020829d31699c"
+  ]
 }
