@@ -115,213 +115,78 @@
       ],
       "custom_css": []
     },
-    "1755251170593b2de7e2": {
-      "type": "custom-section",
+    "175525201697917027a4": {
+      "type": "faq",
       "settings": {
         "color_scheme": "scheme-1",
+        "expand_first_label": false,
         "layout": {
           "@media (--mobile)": {
-            "flex-direction": "column"
+            "column-gap": "20px",
+            "row-gap": "20px"
           },
           "align-items": "center",
-          "column-gap": "0px",
-          "flex-direction": "row",
+          "column-gap": "40px",
+          "flex-direction": "column",
           "flex-wrap": "nowrap",
           "justify-content": "center",
-          "row-gap": "0px"
+          "row-gap": "40px"
         },
         "size": {
-          "@media (--mobile)": {
-            "width": "auto"
-          },
           "height": "auto",
-          "width": "70%"
+          "width": "100%"
         },
         "spacing": {
-          "padding-bottom": "0px",
-          "padding-left": "0px",
-          "padding-right": "0px",
-          "padding-top": "0px"
+          "@media (--mobile)": {
+            "padding-block-end": "24px",
+            "padding-block-start": "24px",
+            "padding-inline-end": "20px",
+            "padding-inline-start": "20px"
+          },
+          "padding-block-end": "60px",
+          "padding-block-start": "60px",
+          "padding-inline-end": "30px",
+          "padding-inline-start": "30px"
         }
       },
       "disabled": false,
       "blocks": {
-        "1755251170593123e47e": {
-          "type": "group",
-          "settings": {
-            "layout": {
-              "align-items": "center",
-              "column-gap": "0px",
-              "flex-direction": "column",
-              "flex-wrap": "nowrap",
-              "justify-content": "center",
-              "row-gap": "0px"
-            },
-            "size": {
-              "height": "auto",
-              "width": "33.33%"
-            },
-            "spacing": {
-              "padding-block-end": "50px",
-              "padding-block-start": "50px",
-              "padding-inline-end": "50px",
-              "padding-inline-start": "50px"
-            }
-          },
+        "1755252016979c9eb64b": {
+          "type": "$group",
+          "settings": {},
           "blocks": {
-            "175525117059312eec3d": {
-              "type": "heading",
-              "settings": {
-                "text": "Our Address",
-                "text_align": "center",
-                "text_size": "title3"
+            "17552520169798ff3b58": {
+              "type": "$collapsible-group",
+              "settings": {},
+              "blocks": {
+                "17552520169793408c1a": {
+                  "type": "$collapsible-panel",
+                  "settings": {
+                    "content": "\u003cp\u003eYes! Our customer service team processes submissions from our contact form daily. For the quickest response to \u003cstrong\u003eproduct-related questions\u003c/strong\u003e, we highly recommend using the form.\u003c/p\u003e\n\u003cp\u003eFor all other inquiries, please feel free to use the contact methods below:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eEmail:\u003c/strong\u003e \u003ca class=\"ng-star-inserted\" href=\"mailto:info@mudjean.com\" target=\"_blank\" rel=\"noopener\"\u003einfo@mudjean.com\u003c/a\u003e\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003ePhone:\u003c/strong\u003e \u003ca class=\"ng-star-inserted\" href=\"https://www.google.com/search?q=tel:%2B8619859538873\u0026amp;authuser=1\" target=\"_blank\" rel=\"noopener\"\u003e+86 198 5953 8873\u003c/a\u003e\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eAddress:\u003c/strong\u003e No. 25, Zishan Road, Licheng District, Quanzhou City, Fujian 362000, China\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e",
+                    "icon": "chat_bubble",
+                    "title": "Do you have other ways to contact you?"
+                  },
+                  "blocks": {}
+                }
               },
-              "blocks": {}
-            },
-            "17552511840439ec5b35": {
-              "type": "rich-text",
-              "settings": {
-                "content": "No. 25, Zishan Road, Licheng District, Quanzhou City, Fujian 362000, China.",
-                "size": {
-                  "height": "auto",
-                  "width": "100%"
-                },
-                "spacing": {
-                  "padding-bottom": "0px",
-                  "padding-left": "0px",
-                  "padding-right": "0px",
-                  "padding-top": "0px"
-                },
-                "text_align": "center"
-              },
-              "blocks": {},
-              "block_order": []
+              "block_order": [
+                "17552520169793408c1a"
+              ]
             }
           },
           "block_order": [
-            "175525117059312eec3d",
-            "17552511840439ec5b35"
+            "17552520169798ff3b58"
           ]
         },
-        "175525117059342ae779": {
-          "type": "group",
-          "settings": {
-            "layout": {
-              "align-items": "center",
-              "column-gap": "0px",
-              "flex-direction": "column",
-              "flex-wrap": "nowrap",
-              "justify-content": "center",
-              "row-gap": "0px"
-            },
-            "size": {
-              "height": "auto",
-              "width": "33.33%"
-            },
-            "spacing": {
-              "padding-bottom": "0px",
-              "padding-left": "0px",
-              "padding-right": "0px",
-              "padding-top": "0px"
-            }
-          },
-          "blocks": {
-            "17552511705934b612e2": {
-              "type": "heading",
-              "settings": {
-                "text": "Email Us",
-                "text_align": "center",
-                "text_size": "title3"
-              },
-              "blocks": {}
-            },
-            "1755251281765d8d7644": {
-              "type": "rich-text",
-              "settings": {
-                "content": "\u003ca href=\"mailto:info@mudjean.com\"\u003einfo@mudjean.com\u003c/a\u003e",
-                "size": {
-                  "height": "auto",
-                  "width": "100%"
-                },
-                "spacing": {
-                  "padding-bottom": "0px",
-                  "padding-left": "0px",
-                  "padding-right": "0px",
-                  "padding-top": "0px"
-                },
-                "text_align": "center"
-              },
-              "blocks": {},
-              "block_order": []
-            }
-          },
-          "block_order": [
-            "17552511705934b612e2",
-            "1755251281765d8d7644"
-          ]
-        },
-        "175525117059373f0394": {
-          "type": "group",
-          "settings": {
-            "layout": {
-              "align-items": "center",
-              "column-gap": "0px",
-              "flex-direction": "column",
-              "flex-wrap": "nowrap",
-              "justify-content": "center",
-              "row-gap": "0px"
-            },
-            "size": {
-              "height": "auto",
-              "width": "33.33%"
-            },
-            "spacing": {
-              "padding-bottom": "0px",
-              "padding-left": "0px",
-              "padding-right": "0px",
-              "padding-top": "0px"
-            }
-          },
-          "blocks": {
-            "17552511705937b24f01": {
-              "type": "heading",
-              "settings": {
-                "text": "Call Us\n",
-                "text_align": "center",
-                "text_size": "title3"
-              },
-              "blocks": {}
-            },
-            "175525145335385994dd": {
-              "type": "rich-text",
-              "settings": {
-                "content": "\u003ca href=\"tel:+8619859538873\"\u003e+86 198 5953 8873\u003c/a\u003e",
-                "size": {
-                  "height": "auto",
-                  "width": "100%"
-                },
-                "spacing": {
-                  "padding-bottom": "0px",
-                  "padding-left": "0px",
-                  "padding-right": "0px",
-                  "padding-top": "0px"
-                },
-                "text_align": "center"
-              },
-              "blocks": {},
-              "block_order": []
-            }
-          },
-          "block_order": [
-            "17552511705937b24f01",
-            "175525145335385994dd"
-          ]
+        "1755252016979e40bda8": {
+          "type": "$heading",
+          "settings": {},
+          "blocks": {}
         }
       },
       "block_order": [
-        "1755251170593123e47e",
-        "175525117059342ae779",
-        "175525117059373f0394"
+        "1755252016979e40bda8",
+        "1755252016979c9eb64b"
       ],
       "custom_css": []
     },
@@ -376,6 +241,6 @@
     "main-page",
     "175525081827324735e5",
     "form",
-    "1755251170593b2de7e2"
+    "175525201697917027a4"
   ]
 }
