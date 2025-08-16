@@ -1,4 +1,5 @@
 {
+  "id": null,
   "current": "Default",
   "presets": {
     "Default": {
@@ -7,62 +8,91 @@
           "scheme-1": {
             "settings": {
               "color_background": "#FFFFFF",
-              "color_text": "#1F2937",
-              "color_light_text": "#6B7280",
-              "color_entry_line": "#E5E7EB",
               "color_button_background": "#EA008E",
-              "color_button_text": "#FFFFFF",
               "color_button_secondary_background": "#6789C6",
-              "color_button_secondary_text": "#FFFFFF",
               "color_button_secondary_border": "#6789C6",
-              "color_button_text_link": "#146834"
+              "color_button_secondary_text": "#FFFFFF",
+              "color_button_text": "#FFFFFF",
+              "color_button_text_link": "#146834",
+              "color_entry_line": "#E5E7EB",
+              "color_light_text": "#6B7280",
+              "color_text": "#1F2937"
             }
           },
           "scheme-2": {
             "settings": {
               "color_background": "#146834",
-              "color_text": "#FFFFFF",
-              "color_light_text": "#A3B8A9",
-              "color_entry_line": "#2A8551",
               "color_button_background": "#EA008E",
-              "color_button_text": "#FFFFFF",
               "color_button_secondary_background": "transparent",
-              "color_button_secondary_text": "#FFFFFF",
               "color_button_secondary_border": "#FFFFFF",
-              "color_button_text_link": "#A8D4FF"
+              "color_button_secondary_text": "#FFFFFF",
+              "color_button_text": "#FFFFFF",
+              "color_button_text_link": "#A8D4FF",
+              "color_entry_line": "#2A8551",
+              "color_light_text": "#A3B8A9",
+              "color_text": "#FFFFFF"
             }
           },
           "scheme-3": {
             "settings": {
               "color_background": "#F0F4FA",
-              "color_text": "#1F2937",
-              "color_light_text": "#6789C6",
-              "color_entry_line": "#DDE3EE",
               "color_button_background": "#EA008E",
-              "color_button_text": "#FFFFFF",
               "color_button_secondary_background": "#FFFFFF",
-              "color_button_secondary_text": "#6789C6",
               "color_button_secondary_border": "#6789C6",
-              "color_button_text_link": "#146834"
+              "color_button_secondary_text": "#6789C6",
+              "color_button_text": "#FFFFFF",
+              "color_button_text_link": "#146834",
+              "color_entry_line": "#DDE3EE",
+              "color_light_text": "#6789C6",
+              "color_text": "#1F2937"
             }
           },
           "scheme-4": {
             "settings": {
               "color_background": "#1E1E1E",
-              "color_text": "#FFFFFF",
-              "color_light_text": "#9A9A9A",
-              "color_entry_line": "#FFFFFF",
               "color_button_background": "#FFFFFF",
-              "color_button_text": "#1E1E1E",
               "color_button_secondary_background": "rgba(0,0,0,0)",
-              "color_button_secondary_text": "#FFFFFF",
               "color_button_secondary_border": "#FFFFFF",
-              "color_button_text_link": "#FFFFFF"
+              "color_button_secondary_text": "#FFFFFF",
+              "color_button_text": "#1E1E1E",
+              "color_button_text_link": "#FFFFFF",
+              "color_entry_line": "#FFFFFF",
+              "color_light_text": "#9A9A9A",
+              "color_text": "#FFFFFF"
             }
           }
         }
       },
-      "sections": {}
+      "sections": {},
+      "blocks": {
+        "175533727035613ba3ce": {
+          "type": "shopline://apps/EasyRank SEO All-in-one/blocks/easyrank_404_monitor/61323553-618d-4754-80da-829c681c52ab",
+          "settings": {},
+          "disabled": false
+        },
+        "175533727035653c5e8b": {
+          "type": "shopline://apps/商品评价/blocks/comment-structure/bd4a09d9-7542-4e11-931c-19fe441576aa",
+          "settings": {},
+          "disabled": true
+        },
+        "17553372703567046ab8": {
+          "type": "shopline://apps/商品评价/blocks/comment-pop/bd4a09d9-7542-4e11-931c-19fe441576aa",
+          "settings": {},
+          "disabled": true
+        },
+        "1755337270356a4ab000": {
+          "type": "shopline://apps/商品评价/blocks/app_embed_block/bd4a09d9-7542-4e11-931c-19fe441576aa",
+          "settings": {
+            "comment_html": ""
+          },
+          "disabled": true
+        },
+        "1755337270356d72b45c": {
+          "type": "shopline://apps/EasyRank SEO All-in-one/blocks/app_embed_block/61323553-618d-4754-80da-829c681c52ab",
+          "settings": {},
+          "disabled": false
+        }
+      }
     }
   }
 }
