@@ -3,26 +3,45 @@
     "main-collection-cover": {
       "type": "main-collection-cover",
       "settings": {},
+      "disabled": false,
       "blocks": {
         "banner": {
           "type": "$banner",
           "settings": {},
           "blocks": {
             "banner_heading": {
-              "type": "$heading"
+              "type": "$heading",
+              "settings": {},
+              "blocks": {}
             }
           },
-          "block_order": ["banner_heading"]
+          "block_order": [
+            "banner_heading"
+          ]
         },
         "description": {
-          "type": "$description"
+          "type": "$description",
+          "settings": {},
+          "blocks": {}
         }
       },
-      "block_order": ["banner", "description"]
+      "block_order": [
+        "banner",
+        "description"
+      ]
     },
     "main-collection-products": {
       "type": "main-collection-products",
-      "settings": {},
+      "settings": {
+        "color_scheme": "scheme-1",
+        "desktop_columns": 4,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "filter_layout": "vertical",
+        "mobile_columns": 2,
+        "page_size": 16
+      },
+      "disabled": false,
       "blocks": {
         "main-collection-products__card": {
           "type": "product-list/card",
@@ -30,7 +49,10 @@
           "blocks": {
             "main-collection-products__card__image": {
               "type": "product-list/image",
-              "settings": {},
+              "settings": {
+                "aspect_ratio": "3/4",
+                "fit_type": "contain"
+              },
               "blocks": {
                 "main-collection__product-list__card__image__layer-1": {
                   "type": "product-list/layer",
@@ -41,7 +63,9 @@
                   },
                   "blocks": {
                     "main-collection__product-list__card__image__layer__quick-add-to-cart": {
-                      "type": "product-list/quick_add"
+                      "type": "product-list/quick_add",
+                      "settings": {},
+                      "blocks": {}
                     }
                   },
                   "block_order": [
@@ -50,9 +74,12 @@
                 },
                 "main-collection__product-list__card__image__layer-2": {
                   "type": "product-list/layer",
+                  "settings": {},
                   "blocks": {
                     "main-collection__product-list__card__image__layer__discount-tag": {
-                      "type": "product-list/discount_tag"
+                      "type": "product-list/discount_tag",
+                      "settings": {},
+                      "blocks": {}
                     }
                   },
                   "block_order": [
@@ -60,15 +87,20 @@
                   ]
                 }
               },
-              "block_order": ["main-collection__product-list__card__image__layer-1", "main-collection__product-list__card__image__layer-2"]
-            },
-            "main-collection-products__card__title": {
-              "type": "product-list/title",
-              "settings": {}
+              "block_order": [
+                "main-collection__product-list__card__image__layer-1",
+                "main-collection__product-list__card__image__layer-2"
+              ]
             },
             "main-collection-products__card__price": {
               "type": "product-list/price",
-              "settings": {}
+              "settings": {},
+              "blocks": {}
+            },
+            "main-collection-products__card__title": {
+              "type": "product-list/title",
+              "settings": {},
+              "blocks": {}
             }
           },
           "block_order": [
@@ -78,8 +110,14 @@
           ]
         }
       },
-      "block_order": ["main-collection-products__card"]
+      "block_order": [
+        "main-collection-products__card"
+      ],
+      "custom_css": []
     }
   },
-  "order": ["main-collection-cover", "main-collection-products"]
+  "order": [
+    "main-collection-cover",
+    "main-collection-products"
+  ]
 }
