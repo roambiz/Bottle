@@ -303,6 +303,18 @@
               "blocks": {},
               "block_order": []
             },
+            "1755597926486b566fc5": {
+              "type": "product/detail-additional",
+              "settings": {
+                "custom_page": "7124649019058450283",
+                "description": "100% Polyester",
+                "enabled_fold": true,
+                "icon": "mudjean-texture",
+                "title": "Fabric"
+              },
+              "blocks": {},
+              "block_order": []
+            },
             "additional": {
               "type": "product/detail-additional",
               "settings": {
@@ -387,6 +399,7 @@
             "buy-buttons",
             "description",
             "175516235341738a0178",
+            "1755597926486b566fc5",
             "175558685649445de272",
             "17551608959438aad171",
             "additional",
