@@ -273,7 +273,7 @@
                 "custom_page": "",
                 "description": "10.9 x 7.9 x 1.3 inches; 2.4 Ounces.",
                 "enabled_fold": true,
-                "icon": "none",
+                "icon": "mudjean-package",
                 "title": "Package Dimensions"
               },
               "blocks": {},
@@ -285,7 +285,7 @@
                 "custom_page": "7124649019058450283",
                 "description": "\u003cstrong\u003e2-Piece Set\u003c/strong\u003e: \u003cbr\u003e\u003cem\u003e1 x Soccer Jersey\u003c/em\u003e\u003cbr\u003e\u003cem\u003e1 x Soccer Shorts\u003c/em\u003e\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003e3-Piece Set:\u003c/strong\u003e\u003cbr\u003e\u003cem\u003e1 x Soccer Jersey\u003c/em\u003e\u003cbr\u003e\u003cem\u003e1 x Soccer Shorts\u0026nbsp;\u003c/em\u003e\u003cbr\u003e\u003cem\u003e1 x Soccer Socks\u003c/em\u003e",
                 "enabled_fold": true,
-                "icon": "none",
+                "icon": "mudjean-shirt",
                 "title": "Bundle Details"
               },
               "blocks": {},
@@ -297,7 +297,7 @@
                 "custom_page": "7124649019058450283",
                 "description": "Check Styles and Sizes",
                 "enabled_fold": true,
-                "icon": "none",
+                "icon": "mudjean-ruler-measure",
                 "title": "Size Chart"
               },
               "blocks": {},
@@ -309,7 +309,7 @@
                 "custom_page": "",
                 "description": "All orders ship Monday - Friday, excluding China Holidays.",
                 "enabled_fold": true,
-                "icon": "none",
+                "icon": "mudjean-truck-delivery",
                 "title": "Shipping \u0026 Delivery"
               },
               "blocks": {}
