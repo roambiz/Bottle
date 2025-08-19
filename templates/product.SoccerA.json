@@ -283,10 +283,10 @@
               "type": "product/detail-additional",
               "settings": {
                 "custom_page": "7124649019058450283",
-                "description": "\u003cspan style=\"color: #000000;\"\u003eBundle Pack\u003c/span\u003e\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e2-Piece Set: Includes a T-shirt and shorts.\u003c/li\u003e\n\u003cli\u003e3-Piece Set: Includes a T-shirt, shorts, and a pair of socks.\u003c/li\u003e\n\u003c/ul\u003e",
+                "description": "\u003cstrong\u003e2-Piece Set\u003c/strong\u003e: \u003cbr\u003e\u003cem\u003e1 x Soccer Jersey\u003c/em\u003e\u003cbr\u003e\u003cem\u003e1 x Soccer Shorts\u003c/em\u003e\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003e3-Piece Set:\u003c/strong\u003e\u003cbr\u003e\u003cem\u003e1 x Soccer Jersey\u003c/em\u003e\u003cbr\u003e\u003cem\u003e1 x Soccer Shorts\u0026nbsp;\u003c/em\u003e\u003cbr\u003e\u003cem\u003e1 x Soccer Socks\u003c/em\u003e",
                 "enabled_fold": true,
                 "icon": "faq",
-                "title": "Specifications"
+                "title": "Bundle Details"
               },
               "blocks": {},
               "block_order": []
@@ -559,8 +559,7 @@
       "block_order": [
         "recommended-product__heading",
         "recommended-product__product-list"
-      ],
-      "custom_css": []
+      ]
     }
   },
   "order": [
