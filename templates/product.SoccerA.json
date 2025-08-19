@@ -1,0 +1,541 @@
+{
+  "sections": {
+    "1755161232232fbc3705": {
+      "type": "faq",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "expand_first_label": false,
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "row-gap": "20px"
+          },
+          "align-items": "center",
+          "column-gap": "40px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "40px"
+        },
+        "size": {
+          "height": "auto",
+          "width": "100%"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-block-end": "24px",
+            "padding-block-start": "24px",
+            "padding-inline-end": "20px",
+            "padding-inline-start": "20px"
+          },
+          "padding-block-end": "60px",
+          "padding-block-start": "60px",
+          "padding-inline-end": "30px",
+          "padding-inline-start": "30px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "17551612322332e69efe": {
+          "type": "$group",
+          "settings": {},
+          "blocks": {
+            "1755161232233efa1104": {
+              "type": "$collapsible-group",
+              "settings": {},
+              "blocks": {
+                "1755161232233a2299fa": {
+                  "type": "$collapsible-panel",
+                  "settings": {
+                    "content": "To ensure the utmost longevity and integrity, there are recommended care instructions to follow:\u003cbr\u003e1) Turn the clothes inside out;\u003cbr\u003e2) Machine wash cold setting, on a delicate cycle;\u003cbr\u003e3) Tumble dries on a low heat setting;\u003cbr\u003e4) Never bleach it or get it dry-cleaned;\u003cbr\u003e5) Avoid ironing directly on the design.",
+                    "icon": "chat_bubble",
+                    "title": "How should I care for my set?"
+                  },
+                  "blocks": {}
+                },
+                "175516150200625f2a8b": {
+                  "type": "$collapsible-panel",
+                  "settings": {
+                    "content": "We have a 60-day return policy. You have a maximum of 60 days from the date of your purchase to make a return. Your return package must be postmarked within 60 days after the purchase date. Returns postmarked after 60 days from the purchase date will not be accepted.\u003cbr\u003e\u003cbr\u003eTo be eligible for a return, your item must be in the same condition that you received it, unworn or unused, with tags, and in its original packaging. You’ll also need the receipt or proof of purchase.",
+                    "icon": "chat_bubble",
+                    "title": "What is your return policy?"
+                  },
+                  "blocks": {},
+                  "block_order": []
+                }
+              },
+              "block_order": [
+                "1755161232233a2299fa",
+                "175516150200625f2a8b"
+              ]
+            }
+          },
+          "block_order": [
+            "1755161232233efa1104"
+          ]
+        },
+        "1755161232233307ecbd": {
+          "type": "$heading",
+          "settings": {
+            "text_align": "left",
+            "text_size": "title4"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "1755161232233307ecbd",
+        "17551612322332e69efe"
+      ]
+    },
+    "175516125711694704df": {
+      "type": "text-columns-with-image",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "row-gap": "20px"
+          },
+          "align-items": "center",
+          "column-gap": "30px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "30px"
+        },
+        "size": {
+          "height": "auto",
+          "width": "100%"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-block-end": "24px",
+            "padding-block-start": "24px"
+          },
+          "padding-block-end": "80px",
+          "padding-block-start": "80px",
+          "padding-inline-end": "0",
+          "padding-inline-start": "0"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "17551612571161de69c8": {
+          "type": "$card-group",
+          "settings": {},
+          "blocks": {
+            "17551612571161de65e0": {
+              "type": "$card",
+              "settings": {
+                "button_text": "Read More"
+              },
+              "blocks": {
+                "17551612571164476e9d": {
+                  "type": "$image",
+                  "settings": {},
+                  "blocks": {}
+                },
+                "17551612571166904455": {
+                  "type": "$title",
+                  "settings": {
+                    "title": "Special Soccer Jersey"
+                  },
+                  "blocks": {}
+                },
+                "175516125711692eb76b": {
+                  "type": "$text",
+                  "settings": {},
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "17551612571164476e9d",
+                "17551612571166904455",
+                "175516125711692eb76b"
+              ]
+            },
+            "175516125711625484bc": {
+              "type": "$card",
+              "settings": {
+                "button_text": "Read More"
+              },
+              "blocks": {
+                "1755161257116290c68f": {
+                  "type": "$title",
+                  "settings": {
+                    "title": "Support Personalization"
+                  },
+                  "blocks": {}
+                },
+                "175516125711637ca851": {
+                  "type": "$text",
+                  "settings": {},
+                  "blocks": {}
+                },
+                "1755161257116ba53f10": {
+                  "type": "$image",
+                  "settings": {},
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "1755161257116ba53f10",
+                "1755161257116290c68f",
+                "175516125711637ca851"
+              ]
+            },
+            "17551612571163c5e33f": {
+              "type": "$card",
+              "settings": {
+                "button_text": "Read More"
+              },
+              "blocks": {
+                "17551612571167a58264": {
+                  "type": "$image",
+                  "settings": {},
+                  "blocks": {}
+                },
+                "1755161257116b3c4bec": {
+                  "type": "$title",
+                  "settings": {
+                    "title": "Breathable Fabric"
+                  },
+                  "blocks": {}
+                },
+                "1755161257116d6006d8": {
+                  "type": "$text",
+                  "settings": {},
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "17551612571167a58264",
+                "1755161257116b3c4bec",
+                "1755161257116d6006d8"
+              ]
+            }
+          },
+          "block_order": [
+            "17551612571163c5e33f",
+            "175516125711625484bc",
+            "17551612571161de65e0"
+          ]
+        },
+        "175516125711622ddd98": {
+          "type": "$heading",
+          "settings": {
+            "font_size": "title4",
+            "link_text": "",
+            "title": "Product Features"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "175516125711622ddd98",
+        "17551612571161de69c8"
+      ]
+    },
+    "main-product-info": {
+      "type": "main-product",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "flex-direction": "column",
+            "row-gap": "20px"
+          },
+          "column-gap": "60px",
+          "flex-direction": "row",
+          "flex-wrap": "nowrap",
+          "row-gap": "60px"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-block-end": "20px",
+            "padding-block-start": "20px"
+          },
+          "padding-block-end": "60px",
+          "padding-block-start": "60px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "info": {
+          "type": "$product-info",
+          "settings": {},
+          "blocks": {
+            "17551608959438aad171": {
+              "type": "product/detail-additional",
+              "settings": {
+                "custom_page": "",
+                "description": "10.9 x 7.9 x 1.3 inches; 2.4 Ounces.",
+                "enabled_fold": true,
+                "icon": "package",
+                "title": "Package Dimensions"
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "175516235341738a0178": {
+              "type": "product/detail-additional",
+              "settings": {
+                "custom_page": "7124649019058450283",
+                "description": "\u003cspan style=\"color: #000000;\"\u003eSize Chart: \u003cbr\u003e\u003c/span\u003e\n\u003cul\u003e\n\u003cli\u003eStyles and Sizes\u003c/li\u003e\n\u003c/ul\u003e\n\u003cbr\u003e\u003cspan style=\"color: #000000;\"\u003eBundle Pack\u003c/span\u003e\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e2-Piece Set: Includes a T-shirt and shorts.\u003c/li\u003e\n\u003cli\u003e3-Piece Set: Includes a T-shirt, shorts, and a pair of socks.\u003c/li\u003e\n\u003c/ul\u003e",
+                "enabled_fold": true,
+                "icon": "faq",
+                "title": "Specifications"
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "additional": {
+              "type": "product/detail-additional",
+              "settings": {
+                "custom_page": "",
+                "description": "All orders ship Monday - Friday, excluding China Holidays.",
+                "enabled_fold": true,
+                "icon": "logistics",
+                "title": "Shipping \u0026 Delivery"
+              },
+              "blocks": {}
+            },
+            "buy-buttons": {
+              "type": "product/detail-buy-buttons",
+              "settings": {},
+              "blocks": {}
+            },
+            "description": {
+              "type": "product/detail-description",
+              "settings": {},
+              "blocks": {}
+            },
+            "price": {
+              "type": "product/detail-price",
+              "settings": {},
+              "blocks": {}
+            },
+            "quantity-selector": {
+              "type": "product/detail-quantity-selector",
+              "settings": {},
+              "blocks": {}
+            },
+            "sell-info": {
+              "type": "product/detail-sell-info",
+              "settings": {},
+              "blocks": {
+                "sell_info_2": {
+                  "type": "product/detail-sell-info-row",
+                  "settings": {
+                    "info_icon": "checkmark",
+                    "info_text": "60-Day Return\n\n"
+                  },
+                  "blocks": {}
+                },
+                "sell_info_4": {
+                  "type": "product/detail-sell-info-row",
+                  "settings": {
+                    "info_icon": "lock",
+                    "info_text": "Secure Payments"
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "sell_info_2",
+                "sell_info_4"
+              ]
+            },
+            "share": {
+              "type": "product/detail-share",
+              "settings": {},
+              "blocks": {}
+            },
+            "title": {
+              "type": "product/detail-heading",
+              "settings": {},
+              "blocks": {}
+            },
+            "variant-picker": {
+              "type": "product/detail-variant-picker",
+              "settings": {
+                "picker_type": "flatten"
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "title",
+            "price",
+            "sell-info",
+            "variant-picker",
+            "quantity-selector",
+            "buy-buttons",
+            "description",
+            "175516235341738a0178",
+            "17551608959438aad171",
+            "additional",
+            "share"
+          ]
+        },
+        "media-group": {
+          "type": "$product-media-group",
+          "settings": {},
+          "blocks": {
+            "media": {
+              "type": "$product-media",
+              "settings": {},
+              "blocks": {
+                "media-layer": {
+                  "type": "$product-media-layer",
+                  "settings": {},
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "media-layer"
+              ]
+            }
+          },
+          "block_order": [
+            "media"
+          ]
+        }
+      },
+      "block_order": [
+        "media-group",
+        "info"
+      ],
+      "custom_css": []
+    },
+    "recommended-product": {
+      "type": "recommended-product",
+      "settings": {
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "row-gap": "20px"
+          },
+          "column-gap": "40px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "row-gap": "40px"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-bottom": "20px",
+            "padding-top": "20px"
+          },
+          "padding-bottom": "60px",
+          "padding-top": "60px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "recommended-product__heading": {
+          "type": "heading",
+          "settings": {
+            "text": "You may also like",
+            "text_align": "left",
+            "text_size": "title4"
+          },
+          "blocks": {}
+        },
+        "recommended-product__product-list": {
+          "type": "product-list/list",
+          "settings": {
+            "desktop_columns": 4,
+            "desktop_enable_slider": true,
+            "mobile_columns": 2,
+            "mobile_enable_slider": true,
+            "page_size": 4
+          },
+          "blocks": {
+            "recommended-product__product-list__card": {
+              "type": "product-list/card",
+              "settings": {},
+              "blocks": {
+                "recommended-product__product-list__card__image": {
+                  "type": "product-list/image",
+                  "settings": {},
+                  "blocks": {
+                    "recommended-product__product-list__card__image__layer-1": {
+                      "type": "product-list/layer",
+                      "settings": {
+                        "layout": {
+                          "align-items": "flex-end"
+                        }
+                      },
+                      "blocks": {
+                        "recommended-product__product-list__card__image__layer__discount-tag": {
+                          "type": "product-list/discount_tag",
+                          "settings": {},
+                          "blocks": {}
+                        }
+                      },
+                      "block_order": [
+                        "recommended-product__product-list__card__image__layer__discount-tag"
+                      ]
+                    },
+                    "recommended-product__product-list__card__image__layer-2": {
+                      "type": "product-list/layer",
+                      "settings": {
+                        "layout": {
+                          "justify-content": "flex-end"
+                        }
+                      },
+                      "blocks": {
+                        "recommended-product__product-list__card__image__layer__quick-add-to-cart": {
+                          "type": "product-list/quick_add",
+                          "settings": {},
+                          "blocks": {}
+                        }
+                      },
+                      "block_order": [
+                        "recommended-product__product-list__card__image__layer__quick-add-to-cart"
+                      ]
+                    }
+                  },
+                  "block_order": [
+                    "recommended-product__product-list__card__image__layer-1",
+                    "recommended-product__product-list__card__image__layer-2"
+                  ]
+                },
+                "recommended-product__product-list__card__price": {
+                  "type": "product-list/price",
+                  "settings": {},
+                  "blocks": {}
+                },
+                "recommended-product__product-list__card__title": {
+                  "type": "product-list/title",
+                  "settings": {},
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "recommended-product__product-list__card__image",
+                "recommended-product__product-list__card__title",
+                "recommended-product__product-list__card__price"
+              ]
+            }
+          },
+          "block_order": [
+            "recommended-product__product-list__card"
+          ]
+        }
+      },
+      "block_order": [
+        "recommended-product__heading",
+        "recommended-product__product-list"
+      ]
+    }
+  },
+  "order": [
+    "main-product-info",
+    "175516125711694704df",
+    "1755161232232fbc3705",
+    "recommended-product"
+  ]
+}
