@@ -273,7 +273,7 @@
                 "custom_page": "",
                 "description": "10.9 x 7.9 x 1.3 inches; 2.4 Ounces.",
                 "enabled_fold": true,
-                "icon": "package",
+                "icon": "none",
                 "title": "Package Dimensions"
               },
               "blocks": {},
@@ -285,7 +285,7 @@
                 "custom_page": "7124649019058450283",
                 "description": "\u003cstrong\u003e2-Piece Set\u003c/strong\u003e: \u003cbr\u003e\u003cem\u003e1 x Soccer Jersey\u003c/em\u003e\u003cbr\u003e\u003cem\u003e1 x Soccer Shorts\u003c/em\u003e\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003e3-Piece Set:\u003c/strong\u003e\u003cbr\u003e\u003cem\u003e1 x Soccer Jersey\u003c/em\u003e\u003cbr\u003e\u003cem\u003e1 x Soccer Shorts\u0026nbsp;\u003c/em\u003e\u003cbr\u003e\u003cem\u003e1 x Soccer Socks\u003c/em\u003e",
                 "enabled_fold": true,
-                "icon": "faq",
+                "icon": "none",
                 "title": "Bundle Details"
               },
               "blocks": {},
@@ -295,22 +295,10 @@
               "type": "product/detail-additional",
               "settings": {
                 "custom_page": "7124649019058450283",
-                "description": "\u003cul\u003e\n\u003cli\u003eStyles and Sizes\u003c/li\u003e\n\u003c/ul\u003e",
+                "description": "Check Styles and Sizes",
                 "enabled_fold": true,
                 "icon": "none",
                 "title": "Size Chart"
-              },
-              "blocks": {},
-              "block_order": []
-            },
-            "1755586862233ee6b0c8": {
-              "type": "product/detail-additional",
-              "settings": {
-                "custom_page": "7124649019058450283",
-                "description": "\u003cspan style=\"color: #000000;\"\u003eSize Chart: \u003cbr\u003e\u003c/span\u003e\n\u003cul\u003e\n\u003cli\u003eStyles and Sizes\u003c/li\u003e\n\u003c/ul\u003e\n\u003cbr\u003e\u003cspan style=\"color: #000000;\"\u003eBundle Pack\u003c/span\u003e\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e2-Piece Set: Includes a T-shirt and shorts.\u003c/li\u003e\n\u003cli\u003e3-Piece Set: Includes a T-shirt, shorts, and a pair of socks.\u003c/li\u003e\n\u003c/ul\u003e",
-                "enabled_fold": true,
-                "icon": "faq",
-                "title": "Specifications"
               },
               "blocks": {},
               "block_order": []
@@ -321,7 +309,7 @@
                 "custom_page": "",
                 "description": "All orders ship Monday - Friday, excluding China Holidays.",
                 "enabled_fold": true,
-                "icon": "logistics",
+                "icon": "none",
                 "title": "Shipping \u0026 Delivery"
               },
               "blocks": {}
@@ -400,7 +388,6 @@
             "description",
             "175516235341738a0178",
             "175558685649445de272",
-            "1755586862233ee6b0c8",
             "17551608959438aad171",
             "additional",
             "share"
