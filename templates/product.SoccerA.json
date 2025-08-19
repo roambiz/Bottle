@@ -283,6 +283,30 @@
               "type": "product/detail-additional",
               "settings": {
                 "custom_page": "7124649019058450283",
+                "description": "\u003cspan style=\"color: #000000;\"\u003eBundle Pack\u003c/span\u003e\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e2-Piece Set: Includes a T-shirt and shorts.\u003c/li\u003e\n\u003cli\u003e3-Piece Set: Includes a T-shirt, shorts, and a pair of socks.\u003c/li\u003e\n\u003c/ul\u003e",
+                "enabled_fold": true,
+                "icon": "faq",
+                "title": "Specifications"
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "175558685649445de272": {
+              "type": "product/detail-additional",
+              "settings": {
+                "custom_page": "7124649019058450283",
+                "description": "\u003cul\u003e\n\u003cli\u003eStyles and Sizes\u003c/li\u003e\n\u003c/ul\u003e",
+                "enabled_fold": true,
+                "icon": "none",
+                "title": "Size Chart"
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "1755586862233ee6b0c8": {
+              "type": "product/detail-additional",
+              "settings": {
+                "custom_page": "7124649019058450283",
                 "description": "\u003cspan style=\"color: #000000;\"\u003eSize Chart: \u003cbr\u003e\u003c/span\u003e\n\u003cul\u003e\n\u003cli\u003eStyles and Sizes\u003c/li\u003e\n\u003c/ul\u003e\n\u003cbr\u003e\u003cspan style=\"color: #000000;\"\u003eBundle Pack\u003c/span\u003e\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e2-Piece Set: Includes a T-shirt and shorts.\u003c/li\u003e\n\u003cli\u003e3-Piece Set: Includes a T-shirt, shorts, and a pair of socks.\u003c/li\u003e\n\u003c/ul\u003e",
                 "enabled_fold": true,
                 "icon": "faq",
@@ -375,6 +399,8 @@
             "buy-buttons",
             "description",
             "175516235341738a0178",
+            "175558685649445de272",
+            "1755586862233ee6b0c8",
             "17551608959438aad171",
             "additional",
             "share"
@@ -459,7 +485,11 @@
               "blocks": {
                 "recommended-product__product-list__card__image": {
                   "type": "product-list/image",
-                  "settings": {},
+                  "settings": {
+                    "aspect_ratio": "4/3",
+                    "fit_type": "contain",
+                    "shape": "square"
+                  },
                   "blocks": {
                     "recommended-product__product-list__card__image__layer-1": {
                       "type": "product-list/layer",
@@ -529,7 +559,8 @@
       "block_order": [
         "recommended-product__heading",
         "recommended-product__product-list"
-      ]
+      ],
+      "custom_css": []
     }
   },
   "order": [
