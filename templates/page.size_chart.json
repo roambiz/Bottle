@@ -1,8 +1,211 @@
 {
   "sections": {
+    "175559760160523bf95d": {
+      "type": "rich-text",
+      "settings": {
+        "background_image": {},
+        "color_scheme": "scheme-1",
+        "layout": {
+          "@media (--mobile)": {
+            "align-items": "center",
+            "column-gap": "14px",
+            "flex-direction": "column",
+            "flex-wrap": "nowrap",
+            "justify-content": "center",
+            "row-gap": "14px"
+          },
+          "align-items": "center",
+          "column-gap": "28px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "28px"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-bottom": "24px",
+            "padding-left": "20px",
+            "padding-right": "20px",
+            "padding-top": "24px"
+          },
+          "padding-bottom": "100px",
+          "padding-left": "30px",
+          "padding-right": "30px",
+          "padding-top": "100px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "17555976016067b1327d": {
+          "type": "heading",
+          "settings": {
+            "text": "Rich text",
+            "text_align": "center",
+            "text_size": "title1"
+          },
+          "blocks": {}
+        },
+        "1755597601606f0efe29": {
+          "type": "rich-text",
+          "settings": {},
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "17555976016067b1327d",
+        "1755597601606f0efe29"
+      ],
+      "name": "t:sections.rich_text.presets.presets_0.name"
+    },
+    "1755597811121e98165f": {
+      "type": "custom-section",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "row-gap": "20px"
+          },
+          "align-items": "center",
+          "column-gap": "32px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "32px"
+        },
+        "size": {
+          "height": "auto",
+          "width": "100%"
+        },
+        "spacing": {}
+      },
+      "disabled": false,
+      "blocks": {
+        "1755597817105a18e8bb": {
+          "type": "group",
+          "settings": {
+            "layout": {
+              "align-items": "center",
+              "column-gap": "32px",
+              "flex-direction": "column",
+              "flex-wrap": "nowrap",
+              "justify-content": "center",
+              "row-gap": "32px"
+            },
+            "size": {
+              "height": "auto",
+              "width": "100%"
+            },
+            "spacing": {}
+          },
+          "blocks": {},
+          "block_order": []
+        },
+        "1755597819147ad5093a": {
+          "type": "group",
+          "settings": {
+            "layout": {
+              "align-items": "center",
+              "column-gap": "32px",
+              "flex-direction": "column",
+              "flex-wrap": "nowrap",
+              "justify-content": "center",
+              "row-gap": "32px"
+            },
+            "size": {
+              "height": "auto",
+              "width": "100%"
+            },
+            "spacing": {}
+          },
+          "blocks": {
+            "17555978359912f7985c": {
+              "type": "description",
+              "settings": {
+                "content": "A short description.",
+                "size": {
+                  "height": "auto",
+                  "width": "100%"
+                },
+                "spacing": {
+                  "padding-bottom": "0",
+                  "padding-left": "0",
+                  "padding-right": "0",
+                  "padding-top": "0"
+                },
+                "text_align": "center"
+              },
+              "blocks": {}
+            },
+            "17555978466719824495": {
+              "type": "rich-text",
+              "settings": {
+                "content": "A sentence or two introducing your brand, what you sell, and what makes your brand compelling to customers.",
+                "size": {
+                  "height": "auto",
+                  "width": "100%"
+                },
+                "spacing": {
+                  "padding-bottom": "0px",
+                  "padding-left": "0px",
+                  "padding-right": "0px",
+                  "padding-top": "0px"
+                },
+                "text_align": "center"
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "17555978639333db2cac": {
+              "type": "custom-html",
+              "settings": {
+                "color_scheme": "scheme-1",
+                "html": "\u003cdiv style=\"text-align:center;\"\u003e\u003ch2\u003eUse HTML to format your text so it can be easily read.\u003c/h2\u003eThis text can be used to share information about your brand with customers.\u003c/div\u003e",
+                "size": {
+                  "height": "auto",
+                  "width": "100%"
+                }
+              },
+              "blocks": {},
+              "block_order": []
+            }
+          },
+          "block_order": [
+            "17555978359912f7985c",
+            "17555978466719824495",
+            "17555978639333db2cac"
+          ]
+        }
+      },
+      "block_order": [
+        "1755597817105a18e8bb",
+        "1755597819147ad5093a"
+      ],
+      "name": "t:sections.custom_section.presets.presets_0.name"
+    },
     "main-page": {
-      "type": "main-page"
+      "type": "main-page",
+      "settings": {
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-bottom": "40px",
+            "padding-left": "0",
+            "padding-right": "0",
+            "padding-top": "40px"
+          },
+          "padding-bottom": "80px",
+          "padding-left": "210px",
+          "padding-right": "210px",
+          "padding-top": "80px"
+        }
+      },
+      "disabled": true,
+      "blocks": {}
     }
   },
-  "order": ["main-page"]
+  "order": [
+    "main-page",
+    "175559760160523bf95d",
+    "1755597811121e98165f"
+  ]
 }
