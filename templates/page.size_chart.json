@@ -264,7 +264,9 @@
           "blocks": {
             "17556720139832f05c84": {
               "type": "$heading",
-              "settings": {},
+              "settings": {
+                "heading": "Size Chart"
+              },
               "blocks": {}
             },
             "1755672013983dd5085f": {
