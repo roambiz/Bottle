@@ -39,9 +39,9 @@
         "17555976016067b1327d": {
           "type": "heading",
           "settings": {
-            "text": "Rich text",
+            "text": "Size Chart",
             "text_align": "center",
-            "text_size": "title1"
+            "text_size": "title2"
           },
           "blocks": {}
         },
@@ -55,7 +55,7 @@
         "17555976016067b1327d",
         "1755597601606f0efe29"
       ],
-      "name": "t:sections.rich_text.presets.presets_0.name"
+      "custom_css": []
     },
     "1755597811121e98165f": {
       "type": "custom-section",
@@ -100,107 +100,97 @@
           },
           "blocks": {},
           "block_order": []
-        },
-        "1755597819147ad5093a": {
-          "type": "group",
-          "settings": {
-            "layout": {
-              "align-items": "center",
-              "column-gap": "32px",
-              "flex-direction": "column",
-              "flex-wrap": "nowrap",
-              "justify-content": "center",
-              "row-gap": "32px"
-            },
-            "size": {
-              "height": "auto",
-              "width": "100%"
-            },
-            "spacing": {}
-          },
-          "blocks": {
-            "17555978359912f7985c": {
-              "type": "description",
-              "settings": {
-                "content": "A short description.",
-                "size": {
-                  "height": "auto",
-                  "width": "100%"
-                },
-                "spacing": {
-                  "padding-bottom": "0",
-                  "padding-left": "0",
-                  "padding-right": "0",
-                  "padding-top": "0"
-                },
-                "text_align": "center"
-              },
-              "blocks": {}
-            },
-            "17555978639333db2cac": {
-              "type": "custom-html",
-              "settings": {
-                "color_scheme": "scheme-1",
-                "html": "\u003cdiv style=\"text-align:center;\"\u003e\u003ch2\u003eUse HTML to format your text so it can be easily read.\u003c/h2\u003eThis text can be used to share information about your brand with customers.\u003c/div\u003e",
-                "size": {
-                  "height": "auto",
-                  "width": "100%"
-                }
-              },
-              "blocks": {},
-              "block_order": []
-            }
-          },
-          "block_order": [
-            "17555978359912f7985c",
-            "17555978639333db2cac"
-          ]
         }
       },
       "block_order": [
-        "1755597817105a18e8bb",
-        "1755597819147ad5093a"
+        "1755597817105a18e8bb"
       ],
       "name": "t:sections.custom_section.presets.presets_0.name"
     },
-    "175566228555506f3150": {
-      "type": "custom-page",
+    "1755662373711ee2900a": {
+      "type": "image-with-text",
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-3",
         "layout": {
           "@media (--mobile)": {
-            "column-gap": "20px",
-            "row-gap": "20px"
+            "align-items": "flex-start",
+            "column-gap": "10px",
+            "flex-direction": "column",
+            "flex-wrap": "nowrap",
+            "justify-content": "center",
+            "row-gap": "10px"
           },
           "align-items": "center",
-          "column-gap": "30px",
-          "flex-direction": "column",
+          "column-gap": "80px",
+          "flex-direction": "row",
           "flex-wrap": "nowrap",
           "justify-content": "center",
-          "row-gap": "30px"
+          "row-gap": "10px"
         },
-        "page": "7129001889895553047",
         "size": {
           "height": "auto",
           "width": "100%"
         },
         "spacing": {
           "@media (--mobile)": {
-            "padding-bottom": "40px",
-            "padding-left": "0",
-            "padding-right": "0",
-            "padding-top": "40px"
+            "padding-block-end": "20px",
+            "padding-block-start": "30px",
+            "padding-inline-end": "20px",
+            "padding-inline-start": "20px"
           },
-          "padding-bottom": "80px",
-          "padding-left": "210px",
-          "padding-right": "210px",
-          "padding-top": "80px"
-        },
-        "title_size": "title3"
+          "padding-block-end": "60px",
+          "padding-block-start": "60px",
+          "padding-inline-end": "30px",
+          "padding-inline-start": "30px"
+        }
       },
       "disabled": false,
-      "blocks": {},
-      "block_order": [],
+      "blocks": {
+        "17556623737127ad4baf": {
+          "type": "$image",
+          "settings": {
+            "aspect_ratio": "unset",
+            "image": "shopline://shop_images/Childrens Soccer Kits Size Chart.png"
+          },
+          "blocks": {}
+        },
+        "1755662373712f617b2a": {
+          "type": "$group",
+          "settings": {},
+          "blocks": {
+            "17556623737123abe54e": {
+              "type": "$subheading",
+              "settings": {},
+              "blocks": {}
+            },
+            "17556623737123c29c59": {
+              "type": "$button",
+              "settings": {},
+              "blocks": {}
+            },
+            "17556623737124710f3a": {
+              "type": "$heading",
+              "settings": {},
+              "blocks": {}
+            },
+            "1755662373712a84bef8": {
+              "type": "$rich-text",
+              "settings": {},
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "17556623737123abe54e",
+            "17556623737124710f3a",
+            "1755662373712a84bef8",
+            "17556623737123c29c59"
+          ]
+        }
+      },
+      "block_order": [
+        "17556623737127ad4baf",
+        "1755662373712f617b2a"
+      ],
       "custom_css": []
     },
     "main-page": {
@@ -227,6 +217,6 @@
     "main-page",
     "175559760160523bf95d",
     "1755597811121e98165f",
-    "175566228555506f3150"
+    "1755662373711ee2900a"
   ]
 }
