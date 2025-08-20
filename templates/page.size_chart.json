@@ -61,7 +61,9 @@
             },
             "1755662373712a84bef8": {
               "type": "$rich-text",
-              "settings": {},
+              "settings": {
+                "content": "Our sets are for ages 2-14, but for the best fit, please consider your child's build. For toddlers, choose size 2T for ages 1-2 and 3T for ages 2-3. We recommend sizing up if your child is between sizes (e.g., age 7), taller, or has a sturdier build, as a looser fit is ideal for activewear. For slimmer children, the size matching their age should be perfect. When in doubt, size up for comfort and longer wear."
+              },
               "blocks": {}
             },
             "17556794585967b1d9bf": {
