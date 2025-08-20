@@ -3,7 +3,7 @@
     "1755662373711ee2900a": {
       "type": "image-with-text",
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-3",
         "layout": {
           "@media (--mobile)": {
             "align-items": "flex-start",
@@ -51,16 +51,6 @@
           "type": "$group",
           "settings": {},
           "blocks": {
-            "17556623737123abe54e": {
-              "type": "$subheading",
-              "settings": {},
-              "blocks": {}
-            },
-            "17556623737123c29c59": {
-              "type": "$button",
-              "settings": {},
-              "blocks": {}
-            },
             "17556623737124710f3a": {
               "type": "$heading",
               "settings": {},
@@ -73,10 +63,8 @@
             }
           },
           "block_order": [
-            "17556623737123abe54e",
             "17556623737124710f3a",
-            "1755662373712a84bef8",
-            "17556623737123c29c59"
+            "1755662373712a84bef8"
           ]
         }
       },
@@ -137,11 +125,6 @@
           "type": "$group",
           "settings": {},
           "blocks": {
-            "17556707472946bc91dc": {
-              "type": "$button",
-              "settings": {},
-              "blocks": {}
-            },
             "175567074729472e7687": {
               "type": "$rich-text",
               "settings": {},
@@ -151,24 +134,153 @@
               "type": "$heading",
               "settings": {},
               "blocks": {}
-            },
-            "1755670747294d367d00": {
-              "type": "$subheading",
-              "settings": {},
-              "blocks": {}
             }
           },
           "block_order": [
-            "1755670747294d367d00",
             "1755670747294c54c96b",
-            "175567074729472e7687",
-            "17556707472946bc91dc"
+            "175567074729472e7687"
           ]
         }
       },
       "block_order": [
         "175567074729405b0618",
         "1755670747294b5b2550"
+      ],
+      "custom_css": []
+    },
+    "17556719782265be18ab": {
+      "type": "image-with-text",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "layout": {
+          "@media (--mobile)": {
+            "align-items": "flex-start",
+            "column-gap": "10px",
+            "flex-direction": "column",
+            "flex-wrap": "nowrap",
+            "justify-content": "center",
+            "row-gap": "10px"
+          },
+          "align-items": "center",
+          "column-gap": "80px",
+          "flex-direction": "row",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "10px"
+        },
+        "size": {
+          "height": "auto",
+          "width": "100%"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-block-end": "20px",
+            "padding-block-start": "30px",
+            "padding-inline-end": "20px",
+            "padding-inline-start": "20px"
+          },
+          "padding-block-end": "60px",
+          "padding-block-start": "60px",
+          "padding-inline-end": "50px",
+          "padding-inline-start": "50px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "17556719782262291fae": {
+          "type": "$image",
+          "settings": {
+            "aspect_ratio": "unset",
+            "image": "shopline://shop_images/Childrens Soccer Kits Size Chart.png"
+          },
+          "blocks": {}
+        },
+        "17556719782265dee6e8": {
+          "type": "$group",
+          "settings": {},
+          "blocks": {
+            "17556719782268cb5c2d": {
+              "type": "$rich-text",
+              "settings": {},
+              "blocks": {}
+            },
+            "1755671978226fe8caf4": {
+              "type": "$heading",
+              "settings": {},
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "1755671978226fe8caf4",
+            "17556719782268cb5c2d"
+          ]
+        }
+      },
+      "block_order": [
+        "17556719782262291fae",
+        "17556719782265dee6e8"
+      ],
+      "custom_css": []
+    },
+    "17556720139832020c7c": {
+      "type": "image-banner",
+      "settings": {
+        "first_image": {},
+        "image_height": "small",
+        "layout": {
+          "@media (--mobile)": {
+            "align-items": "center",
+            "column-gap": "0px",
+            "flex-direction": "row",
+            "flex-wrap": "nowrap",
+            "justify-content": "center",
+            "row-gap": "0px"
+          },
+          "align-items": "center",
+          "column-gap": "0px",
+          "flex-direction": "row",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "0px"
+        },
+        "match_height_to_first_image": false,
+        "overlay_opacity": 20,
+        "second_image": {},
+        "show_text_below_image": false,
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-inline-end": "20px",
+            "padding-inline-start": "20px"
+          },
+          "padding-inline-end": "30px",
+          "padding-inline-start": "30px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "1755672013983e2ea210": {
+          "type": "$container",
+          "settings": {},
+          "blocks": {
+            "17556720139832f05c84": {
+              "type": "$heading",
+              "settings": {},
+              "blocks": {}
+            },
+            "1755672013983dd5085f": {
+              "type": "$description",
+              "settings": {},
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "17556720139832f05c84",
+            "1755672013983dd5085f"
+          ]
+        }
+      },
+      "block_order": [
+        "1755672013983e2ea210"
       ],
       "custom_css": []
     },
@@ -188,13 +300,15 @@
           "padding-top": "80px"
         }
       },
-      "disabled": false,
+      "disabled": true,
       "blocks": {}
     }
   },
   "order": [
     "main-page",
+    "17556720139832020c7c",
     "1755662373711ee2900a",
-    "175567074729343ab199"
+    "175567074729343ab199",
+    "17556719782265be18ab"
   ]
 }
