@@ -1,62 +1,5 @@
 {
   "sections": {
-    "175559760160523bf95d": {
-      "type": "rich-text",
-      "settings": {
-        "background_image": {},
-        "color_scheme": "scheme-1",
-        "layout": {
-          "@media (--mobile)": {
-            "align-items": "center",
-            "column-gap": "14px",
-            "flex-direction": "column",
-            "flex-wrap": "nowrap",
-            "justify-content": "center",
-            "row-gap": "14px"
-          },
-          "align-items": "center",
-          "column-gap": "28px",
-          "flex-direction": "column",
-          "flex-wrap": "nowrap",
-          "justify-content": "center",
-          "row-gap": "28px"
-        },
-        "spacing": {
-          "@media (--mobile)": {
-            "padding-bottom": "24px",
-            "padding-left": "20px",
-            "padding-right": "20px",
-            "padding-top": "24px"
-          },
-          "padding-bottom": "100px",
-          "padding-left": "30px",
-          "padding-right": "30px",
-          "padding-top": "100px"
-        }
-      },
-      "disabled": false,
-      "blocks": {
-        "17555976016067b1327d": {
-          "type": "heading",
-          "settings": {
-            "text": "Size Chart",
-            "text_align": "center",
-            "text_size": "title2"
-          },
-          "blocks": {}
-        },
-        "1755597601606f0efe29": {
-          "type": "rich-text",
-          "settings": {},
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "17555976016067b1327d",
-        "1755597601606f0efe29"
-      ],
-      "custom_css": []
-    },
     "1755597811121e98165f": {
       "type": "custom-section",
       "settings": {
@@ -193,6 +136,92 @@
       ],
       "custom_css": []
     },
+    "1755670614737ecb22b0": {
+      "type": "image-with-text",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "layout": {
+          "@media (--mobile)": {
+            "align-items": "flex-start",
+            "column-gap": "10px",
+            "flex-direction": "column",
+            "flex-wrap": "nowrap",
+            "justify-content": "center",
+            "row-gap": "10px"
+          },
+          "align-items": "center",
+          "column-gap": "80px",
+          "flex-direction": "row",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "10px"
+        },
+        "size": {
+          "height": "auto",
+          "width": "auto"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-block-end": "20px",
+            "padding-block-start": "30px",
+            "padding-inline-end": "20px",
+            "padding-inline-start": "20px"
+          },
+          "padding-block-end": "60px",
+          "padding-block-start": "60px",
+          "padding-inline-end": "30px",
+          "padding-inline-start": "30px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "1755670614738105ecac": {
+          "type": "$image",
+          "settings": {
+            "aspect_ratio": "unset",
+            "image": "shopline://shop_images/Childrens Soccer Kits Size Chart.png"
+          },
+          "blocks": {}
+        },
+        "1755670614738e103b02": {
+          "type": "$group",
+          "settings": {},
+          "blocks": {
+            "1755670614738012a243": {
+              "type": "$subheading",
+              "settings": {},
+              "blocks": {}
+            },
+            "17556706147383096449": {
+              "type": "$heading",
+              "settings": {},
+              "blocks": {}
+            },
+            "1755670614738976771c": {
+              "type": "$button",
+              "settings": {},
+              "blocks": {}
+            },
+            "1755670614738e6edeae": {
+              "type": "$rich-text",
+              "settings": {},
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "1755670614738012a243",
+            "17556706147383096449",
+            "1755670614738e6edeae",
+            "1755670614738976771c"
+          ]
+        }
+      },
+      "block_order": [
+        "1755670614738105ecac",
+        "1755670614738e103b02"
+      ],
+      "custom_css": []
+    },
     "main-page": {
       "type": "main-page",
       "settings": {
@@ -215,8 +244,8 @@
   },
   "order": [
     "main-page",
-    "175559760160523bf95d",
     "1755597811121e98165f",
-    "1755662373711ee2900a"
+    "1755662373711ee2900a",
+    "1755670614737ecb22b0"
   ]
 }
