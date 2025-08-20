@@ -222,70 +222,6 @@
       ],
       "custom_css": []
     },
-    "17556720139832020c7c": {
-      "type": "image-banner",
-      "settings": {
-        "first_image": {},
-        "image_height": "small",
-        "layout": {
-          "@media (--mobile)": {
-            "align-items": "center",
-            "column-gap": "0px",
-            "flex-direction": "row",
-            "flex-wrap": "nowrap",
-            "justify-content": "center",
-            "row-gap": "0px"
-          },
-          "align-items": "center",
-          "column-gap": "0px",
-          "flex-direction": "row",
-          "flex-wrap": "nowrap",
-          "justify-content": "center",
-          "row-gap": "0px"
-        },
-        "match_height_to_first_image": false,
-        "overlay_opacity": 20,
-        "second_image": {},
-        "show_text_below_image": false,
-        "spacing": {
-          "@media (--mobile)": {
-            "padding-inline-end": "20px",
-            "padding-inline-start": "20px"
-          },
-          "padding-inline-end": "30px",
-          "padding-inline-start": "30px"
-        }
-      },
-      "disabled": false,
-      "blocks": {
-        "1755672013983e2ea210": {
-          "type": "$container",
-          "settings": {},
-          "blocks": {
-            "17556720139832f05c84": {
-              "type": "$heading",
-              "settings": {
-                "heading": "Size Chart"
-              },
-              "blocks": {}
-            },
-            "1755672013983dd5085f": {
-              "type": "$description",
-              "settings": {},
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "17556720139832f05c84",
-            "1755672013983dd5085f"
-          ]
-        }
-      },
-      "block_order": [
-        "1755672013983e2ea210"
-      ],
-      "custom_css": []
-    },
     "main-page": {
       "type": "main-page",
       "settings": {
@@ -302,13 +238,13 @@
           "padding-top": "80px"
         }
       },
-      "disabled": true,
-      "blocks": {}
+      "disabled": false,
+      "blocks": {},
+      "custom_css": []
     }
   },
   "order": [
     "main-page",
-    "17556720139832020c7c",
     "1755662373711ee2900a",
     "175567074729343ab199",
     "17556719782265be18ab"
