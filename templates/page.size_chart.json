@@ -3,7 +3,7 @@
     "1755662373711ee2900a": {
       "type": "image-with-text",
       "settings": {
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-1",
         "layout": {
           "@media (--mobile)": {
             "align-items": "flex-start",
