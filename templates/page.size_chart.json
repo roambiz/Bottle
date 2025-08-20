@@ -142,7 +142,9 @@
           "blocks": {
             "175567074729472e7687": {
               "type": "$rich-text",
-              "settings": {},
+              "settings": {
+                "content": "While many people think rompers are for babies who are learning to crawl, we also offer them in newborn sizes. In our collection, the only difference between a romper and a bodysuit is the style, so you can choose based on your personal preference. For sizing, you can simply refer to our Bodysuit size guide."
+              },
               "blocks": {}
             },
             "1755670747294c54c96b": {
