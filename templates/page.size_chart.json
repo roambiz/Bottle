@@ -43,7 +43,7 @@
           "type": "$image",
           "settings": {
             "aspect_ratio": "unset",
-            "image": "shopline://shop_images/Childrens Soccer Kits Size Chart.png"
+            "image": "shopline://shop_images/Childrens Soccer Kits Size Chart inch.jpg"
           },
           "blocks": {}
         },
@@ -54,6 +54,7 @@
             "17556623737124710f3a": {
               "type": "$heading",
               "settings": {
+                "heading": "Childrens Soccer Kits Size Chart",
                 "text_size": "title4"
               },
               "blocks": {}
@@ -119,7 +120,7 @@
           "type": "$image",
           "settings": {
             "aspect_ratio": "unset",
-            "image": "shopline://shop_images/Childrens Soccer Kits Size Chart.png"
+            "image": "shopline://shop_images/Baby Romper Size Chart inch.jpg"
           },
           "blocks": {}
         },
@@ -135,6 +136,7 @@
             "1755670747294c54c96b": {
               "type": "$heading",
               "settings": {
+                "heading": "Baby Romper Size Chart",
                 "text_size": "title4"
               },
               "blocks": {}
@@ -195,7 +197,7 @@
           "type": "$image",
           "settings": {
             "aspect_ratio": "unset",
-            "image": "shopline://shop_images/Childrens Soccer Kits Size Chart.png"
+            "image": "shopline://shop_images/Baby Bodysuit Size Chart inch.jpg"
           },
           "blocks": {}
         },
@@ -211,6 +213,7 @@
             "1755671978226fe8caf4": {
               "type": "$heading",
               "settings": {
+                "heading": "Baby Bodysuit Size Chart",
                 "text_size": "title4"
               },
               "blocks": {}
