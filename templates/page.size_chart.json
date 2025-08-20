@@ -53,7 +53,9 @@
           "blocks": {
             "17556623737124710f3a": {
               "type": "$heading",
-              "settings": {},
+              "settings": {
+                "text_size": "title4"
+              },
               "blocks": {}
             },
             "1755662373712a84bef8": {
@@ -132,7 +134,9 @@
             },
             "1755670747294c54c96b": {
               "type": "$heading",
-              "settings": {},
+              "settings": {
+                "text_size": "title4"
+              },
               "blocks": {}
             }
           },
@@ -206,7 +210,9 @@
             },
             "1755671978226fe8caf4": {
               "type": "$heading",
-              "settings": {},
+              "settings": {
+                "text_size": "title4"
+              },
               "blocks": {}
             }
           },
