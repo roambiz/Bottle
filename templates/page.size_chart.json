@@ -137,25 +137,6 @@
               },
               "blocks": {}
             },
-            "17555978466719824495": {
-              "type": "rich-text",
-              "settings": {
-                "content": "A sentence or two introducing your brand, what you sell, and what makes your brand compelling to customers.",
-                "size": {
-                  "height": "auto",
-                  "width": "100%"
-                },
-                "spacing": {
-                  "padding-bottom": "0px",
-                  "padding-left": "0px",
-                  "padding-right": "0px",
-                  "padding-top": "0px"
-                },
-                "text_align": "center"
-              },
-              "blocks": {},
-              "block_order": []
-            },
             "17555978639333db2cac": {
               "type": "custom-html",
               "settings": {
@@ -172,7 +153,6 @@
           },
           "block_order": [
             "17555978359912f7985c",
-            "17555978466719824495",
             "17555978639333db2cac"
           ]
         }
@@ -182,6 +162,46 @@
         "1755597819147ad5093a"
       ],
       "name": "t:sections.custom_section.presets.presets_0.name"
+    },
+    "175566228555506f3150": {
+      "type": "custom-page",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "row-gap": "20px"
+          },
+          "align-items": "center",
+          "column-gap": "30px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "30px"
+        },
+        "page": "7129001889895553047",
+        "size": {
+          "height": "auto",
+          "width": "100%"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-bottom": "40px",
+            "padding-left": "0",
+            "padding-right": "0",
+            "padding-top": "40px"
+          },
+          "padding-bottom": "80px",
+          "padding-left": "210px",
+          "padding-right": "210px",
+          "padding-top": "80px"
+        },
+        "title_size": "title3"
+      },
+      "disabled": false,
+      "blocks": {},
+      "block_order": [],
+      "custom_css": []
     },
     "main-page": {
       "type": "main-page",
@@ -206,6 +226,7 @@
   "order": [
     "main-page",
     "175559760160523bf95d",
-    "1755597811121e98165f"
+    "1755597811121e98165f",
+    "175566228555506f3150"
   ]
 }
