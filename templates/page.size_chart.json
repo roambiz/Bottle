@@ -43,7 +43,7 @@
           "type": "$image",
           "settings": {
             "aspect_ratio": "unset",
-            "image": "shopline://shop_images/Childrens Soccer Kits Size Chart inch.jpg"
+            "image": "shopline://shop_images/Childrens Soccer Kits Size Chart inch_7136198417559080190.jpg"
           },
           "blocks": {}
         },
@@ -54,7 +54,7 @@
             "17556623737124710f3a": {
               "type": "$heading",
               "settings": {
-                "heading": "Childrens Soccer Kits Size Chart",
+                "heading": "Childrens Soccer Kits",
                 "text_size": "title4"
               },
               "blocks": {}
@@ -63,9 +63,19 @@
               "type": "$rich-text",
               "settings": {},
               "blocks": {}
+            },
+            "17556794585967b1d9bf": {
+              "type": "$subheading",
+              "settings": {
+                "subtitle": "Sizing \u0026 Fit Guide",
+                "text_align": "left"
+              },
+              "blocks": {},
+              "block_order": []
             }
           },
           "block_order": [
+            "17556794585967b1d9bf",
             "17556623737124710f3a",
             "1755662373712a84bef8"
           ]
@@ -120,7 +130,7 @@
           "type": "$image",
           "settings": {
             "aspect_ratio": "unset",
-            "image": "shopline://shop_images/Baby Romper Size Chart inch.jpg"
+            "image": "shopline://shop_images/Baby Romper Size Chart inch_7136198681431132886.jpg"
           },
           "blocks": {}
         },
@@ -136,13 +146,23 @@
             "1755670747294c54c96b": {
               "type": "$heading",
               "settings": {
-                "heading": "Baby Romper Size Chart",
+                "heading": "Baby Romper",
                 "text_size": "title4"
               },
               "blocks": {}
+            },
+            "1755679485716f71192d": {
+              "type": "$subheading",
+              "settings": {
+                "subtitle": "Sizing \u0026 Fit Guide",
+                "text_align": "left"
+              },
+              "blocks": {},
+              "block_order": []
             }
           },
           "block_order": [
+            "1755679485716f71192d",
             "1755670747294c54c96b",
             "175567074729472e7687"
           ]
@@ -197,7 +217,7 @@
           "type": "$image",
           "settings": {
             "aspect_ratio": "unset",
-            "image": "shopline://shop_images/Baby Bodysuit Size Chart inch.jpg"
+            "image": "shopline://shop_images/Baby Bodysuit Size Chart inch_7136198904853308419.jpg"
           },
           "blocks": {}
         },
@@ -213,13 +233,23 @@
             "1755671978226fe8caf4": {
               "type": "$heading",
               "settings": {
-                "heading": "Baby Bodysuit Size Chart",
+                "heading": "Baby Bodysuit",
                 "text_size": "title4"
               },
               "blocks": {}
+            },
+            "17556795068549a48a21": {
+              "type": "$subheading",
+              "settings": {
+                "subtitle": "Sizing \u0026 Fit Guide",
+                "text_align": "left"
+              },
+              "blocks": {},
+              "block_order": []
             }
           },
           "block_order": [
+            "17556795068549a48a21",
             "1755671978226fe8caf4",
             "17556719782268cb5c2d"
           ]
