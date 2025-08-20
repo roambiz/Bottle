@@ -232,7 +232,7 @@
             "17556719782268cb5c2d": {
               "type": "$rich-text",
               "settings": {
-                "content": "Babies grow so quickly from 0-6 months! Our one-pieces are designed to fit true-to-age, so you can typically select the size that matches your baby's age. Because our items are handmade, please allow for a slight size variance of up to 1 inch (3 cm). If your baby is growing fast or is larger than average, we highly recommend sizing up for a longer-lasting, comfortable fit. As a helpful note, many parents love our \u003cstrong\u003ebodysuits\u003c/strong\u003e for this stage, as their simple 3-snap design makes diaper changes much faster than the 5 snaps on our rompers."
+                "content": "Babies grow so quickly from 0-6 months! Our baby bodysuit are designed to fit true-to-age, so you can typically select the size that matches your baby's age. Because our items are handmade, please allow for a slight size variance of up to 1 inch (3 cm). If your baby is growing fast or is larger than average, we highly recommend sizing up for a longer-lasting, comfortable fit.\u0026nbsp;"
               },
               "blocks": {}
             },
@@ -293,7 +293,7 @@
   "order": [
     "main-page",
     "1755662373711ee2900a",
-    "175567074729343ab199",
-    "17556719782265be18ab"
+    "17556719782265be18ab",
+    "175567074729343ab199"
   ]
 }
