@@ -31,6 +31,8 @@
                     "layout": {
                       "align-items": "center",
                       "column-gap": "50px",
+                      "flex-direction": "row",
+                      "flex-wrap": "nowrap",
                       "justify-content": "center",
                       "row-gap": "50px"
                     },
