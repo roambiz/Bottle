@@ -295,7 +295,7 @@
               "type": "product/detail-additional",
               "settings": {
                 "custom_page": "7124649019058450283",
-                "description": "Check Styles and Sizes",
+                "description": "\u003ca id=\"17557403656071\" href=\"/pages/size-chart\" target=\"_self\" data-link=\"{\u0026quot;pageType\u0026quot;:3,\u0026quot;value\u0026quot;:\u0026quot;size-chart\u0026quot;,\u0026quot;linkType\u0026quot;:\u0026quot;select\u0026quot;,\u0026quot;label\u0026quot;:\u0026quot;Size Chart\u0026quot;}\"\u003eCheck Styles and Sizes\u003c/a\u003e",
                 "enabled_fold": true,
                 "icon": "mudjean-ruler-measure",
                 "title": "Size Chart"
