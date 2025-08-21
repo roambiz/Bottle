@@ -19,7 +19,7 @@
         },
         "size": {
           "height": "auto",
-          "width": "100%"
+          "width": "auto"
         },
         "spacing": {
           "@media (--mobile)": {
@@ -30,8 +30,8 @@
           },
           "padding-block-end": "60px",
           "padding-block-start": "60px",
-          "padding-inline-end": "290px",
-          "padding-inline-start": "290px"
+          "padding-inline-end": "80px",
+          "padding-inline-start": "80px"
         }
       },
       "disabled": false,
@@ -45,7 +45,21 @@
         },
         "1755771069808df22a8f": {
           "type": "$group",
-          "settings": {},
+          "settings": {
+            "layout": {
+              "@media (--mobile)": {
+                "column-gap": "20px",
+                "flex-direction": "column",
+                "row-gap": "20px"
+              },
+              "align-items": "flex-start",
+              "column-gap": "40px",
+              "flex-direction": "row",
+              "flex-wrap": "nowrap",
+              "justify-content": "center",
+              "row-gap": "40px"
+            }
+          },
           "blocks": {
             "175577106980899980dc": {
               "type": "$collapsible-group",
