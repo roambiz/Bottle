@@ -65,31 +65,56 @@
       },
       "sections": {},
       "blocks": {
-        "175533727035613ba3ce": {
-          "type": "shopline://apps/EasyRank SEO All-in-one/blocks/easyrank_404_monitor/61323553-618d-4754-80da-829c681c52ab",
-          "settings": {},
-          "disabled": false
-        },
-        "175533727035653c5e8b": {
+        "17557637525560dc038b": {
           "type": "shopline://apps/商品评价/blocks/comment-structure/bd4a09d9-7542-4e11-931c-19fe441576aa",
           "settings": {},
           "disabled": true
         },
-        "17553372703567046ab8": {
-          "type": "shopline://apps/商品评价/blocks/comment-pop/bd4a09d9-7542-4e11-931c-19fe441576aa",
-          "settings": {},
-          "disabled": true
-        },
-        "1755337270356a4ab000": {
+        "17557637525565ae98f1": {
           "type": "shopline://apps/商品评价/blocks/app_embed_block/bd4a09d9-7542-4e11-931c-19fe441576aa",
           "settings": {
             "comment_html": ""
           },
           "disabled": true
         },
-        "1755337270356d72b45c": {
+        "175576375255693f7fc4": {
+          "type": "shopline://apps/EasyRank SEO All-in-one/blocks/easyrank_404_monitor/61323553-618d-4754-80da-829c681c52ab",
+          "settings": {},
+          "disabled": false
+        },
+        "1755763752556ca954f1": {
+          "type": "shopline://apps/商品评价/blocks/comment-pop/bd4a09d9-7542-4e11-931c-19fe441576aa",
+          "settings": {},
+          "disabled": true
+        },
+        "1755763752556eff97ff": {
           "type": "shopline://apps/EasyRank SEO All-in-one/blocks/app_embed_block/61323553-618d-4754-80da-829c681c52ab",
           "settings": {},
+          "disabled": false
+        },
+        "175576375255778c45f1": {
+          "type": "shopline://apps/GDPR-隐私弹窗/blocks/gdpr-embeded-app-block/99b5bc7b-5971-4b60-8372-dc63df1cde73",
+          "settings": {
+            "banner_color": "#FFFFFF",
+            "button_bg_color": "#000000",
+            "button_border_color": "#FFFFFF",
+            "button_radius": 0,
+            "button_size": 12,
+            "button_text_color": "#FFFFFF",
+            "color_type": "0",
+            "description_color": "#000000",
+            "description_size": 14,
+            "modal_radius": 0,
+            "radius_type": "0",
+            "secondary_button_bg_color": "#FFFFFF",
+            "secondary_button_border_color": "#000000",
+            "secondary_button_size": 12,
+            "secondary_button_text_color": "#000000",
+            "size_type": "0",
+            "tip_text_color": "#7A8499",
+            "title_color": "#000000",
+            "title_size": 16
+          },
           "disabled": false
         }
       }
