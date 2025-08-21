@@ -1,8 +1,100 @@
 {
   "sections": {
+    "17557710698061dfa09f": {
+      "type": "faq",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "expand_first_label": false,
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "row-gap": "20px"
+          },
+          "align-items": "center",
+          "column-gap": "40px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "40px"
+        },
+        "size": {
+          "height": "auto",
+          "width": "100%"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-block-end": "24px",
+            "padding-block-start": "24px",
+            "padding-inline-end": "20px",
+            "padding-inline-start": "20px"
+          },
+          "padding-block-end": "60px",
+          "padding-block-start": "60px",
+          "padding-inline-end": "210px",
+          "padding-inline-start": "210px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "175577106980823c8421": {
+          "type": "$heading",
+          "settings": {
+            "text": "General Questions"
+          },
+          "blocks": {}
+        },
+        "1755771069808df22a8f": {
+          "type": "$group",
+          "settings": {},
+          "blocks": {
+            "175577106980899980dc": {
+              "type": "$collapsible-group",
+              "settings": {},
+              "blocks": {
+                "1755771069808d77e802": {
+                  "type": "$collapsible-panel",
+                  "settings": {},
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "1755771069808d77e802"
+              ]
+            }
+          },
+          "block_order": [
+            "175577106980899980dc"
+          ]
+        }
+      },
+      "block_order": [
+        "175577106980823c8421",
+        "1755771069808df22a8f"
+      ],
+      "custom_css": []
+    },
     "main-page": {
-      "type": "main-page"
+      "type": "main-page",
+      "settings": {
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-bottom": "40px",
+            "padding-left": "0",
+            "padding-right": "0",
+            "padding-top": "40px"
+          },
+          "padding-bottom": "80px",
+          "padding-left": "210px",
+          "padding-right": "210px",
+          "padding-top": "80px"
+        }
+      },
+      "disabled": false,
+      "blocks": {}
     }
   },
-  "order": ["main-page"]
+  "order": [
+    "main-page",
+    "17557710698061dfa09f"
+  ]
 }
