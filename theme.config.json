@@ -75,7 +75,7 @@
           "settings": {
             "comment_html": ""
           },
-          "disabled": true
+          "disabled": false
         },
         "175576375255693f7fc4": {
           "type": "shopline://apps/EasyRank SEO All-in-one/blocks/easyrank_404_monitor/61323553-618d-4754-80da-829c681c52ab",

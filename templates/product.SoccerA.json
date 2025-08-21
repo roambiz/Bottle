@@ -237,6 +237,64 @@
         "17551612571161de69c8"
       ]
     },
+    "1755763955381bd0280f": {
+      "type": "apps",
+      "settings": {
+        "sync_margins_with_theme": true
+      },
+      "blocks": {
+        "175576395538275cb82c": {
+          "type": "shopline://apps/商品评价/blocks/comment-image-swiper/bd4a09d9-7542-4e11-931c-19fe441576aa",
+          "settings": {
+            "color_btn_background": "#FFFFFF",
+            "color_btn_text": "#000000",
+            "color_star": "#FFFFFF",
+            "color_text": "#FFFFFF",
+            "image_radio": "1",
+            "image_swiper_name_title": "",
+            "mb_comment_num": "1",
+            "padding_config": {
+              "mobile": {
+                "bottom": 0,
+                "left": 0,
+                "right": 0,
+                "top": 0
+              },
+              "pc": {
+                "bottom": 0,
+                "left": 0,
+                "right": 0,
+                "top": 0
+              }
+            },
+            "pc_comment_num": "5",
+            "range_radius": 20,
+            "swiper_title_text_color": "#000000",
+            "text_align": "center"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "175576395538275cb82c"
+      ]
+    },
+    "17557639898350b438b5": {
+      "type": "apps",
+      "settings": {
+        "sync_margins_with_theme": true
+      },
+      "blocks": {
+        "17557639898351e46578": {
+          "type": "shopline://apps/商品评价/blocks/comment-start/bd4a09d9-7542-4e11-931c-19fe441576aa",
+          "settings": {},
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "17557639898351e46578"
+      ]
+    },
     "main-product-info": {
       "type": "main-product",
       "settings": {
@@ -433,8 +491,7 @@
       "block_order": [
         "media-group",
         "info"
-      ],
-      "custom_css": []
+      ]
     },
     "recommended-product": {
       "type": "recommended-product",
@@ -566,6 +623,8 @@
     "main-product-info",
     "175516125711694704df",
     "1755161232232fbc3705",
-    "recommended-product"
+    "recommended-product",
+    "17557639898350b438b5",
+    "1755763955381bd0280f"
   ]
 }
