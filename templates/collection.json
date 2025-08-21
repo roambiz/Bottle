@@ -7,11 +7,15 @@
       "blocks": {
         "banner": {
           "type": "$banner",
-          "settings": {},
+          "settings": {
+            "mobile_banner_image": null
+          },
           "blocks": {
             "banner_heading": {
               "type": "$heading",
-              "settings": {},
+              "settings": {
+                "text_size": "title2"
+              },
               "blocks": {}
             }
           },
@@ -28,7 +32,8 @@
       "block_order": [
         "banner",
         "description"
-      ]
+      ],
+      "custom_css": []
     },
     "main-collection-products": {
       "type": "main-collection-products",
@@ -38,7 +43,7 @@
         "enable_filtering": true,
         "enable_sorting": true,
         "filter_layout": "vertical",
-        "mobile_columns": 2,
+        "mobile_columns": "2",
         "page_size": 16
       },
       "disabled": false,
@@ -112,8 +117,7 @@
       },
       "block_order": [
         "main-collection-products__card"
-      ],
-      "custom_css": []
+      ]
     }
   },
   "order": [
