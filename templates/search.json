@@ -2,64 +2,43 @@
   "sections": {
     "main-search": {
       "type": "main-search",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "spacing": {}
+      },
+      "disabled": false,
       "blocks": {
         "main-search__results": {
           "type": "$results",
+          "settings": {},
           "blocks": {
-            "main-search__results__product-card": {
-              "type": "product-list/card",
-              "blocks": {
-                "main-search__results__product-card__image": {
-                  "type": "product-list/image",
-                  "blocks": {
-                    "main-search__results__product-card__image__layer": {
-                      "type": "product-list/layer",
-                      "blocks": {
-                        "main-search__results__product-card__image__layer__discount-tag": {
-                          "type": "product-list/discount_tag"
-                        },
-                        "main-search__results__product-card__image__layer__quick-add": {
-                          "type": "product-list/quick_add"
-                        }
-                      },
-                      "block_order": [
-                        "main-search__results__product-card__image__layer__discount-tag",
-                        "main-search__results__product-card__image__layer__quick-add"
-                      ]
-                    }
-                  },
-                  "block_order": ["main-search__results__product-card__image__layer"]
-                },
-                "main-search__results__product-card__title": {
-                  "type": "product-list/title"
-                },
-                "main-search__results__product-card__price": {
-                  "type": "product-list/price"
-                }
-              },
-              "block_order": [
-                "main-search__results__product-card__image",
-                "main-search__results__product-card__title",
-                "main-search__results__product-card__price"
-              ]
-            },
             "main-search__results__article-card": {
               "type": "article/card",
+              "settings": {},
               "blocks": {
                 "main-search__results__article-card__cover": {
-                  "type": "article/cover"
+                  "type": "article/cover",
+                  "settings": {},
+                  "blocks": {}
                 },
                 "main-search__results__article-card__info": {
                   "type": "article/info",
+                  "settings": {},
                   "blocks": {
-                    "main-search__results__article-card__title": {
-                      "type": "article/title"
-                    },
                     "main-search__results__article-card__date_author": {
-                      "type": "article/date_author"
+                      "type": "article/date_author",
+                      "settings": {},
+                      "blocks": {}
                     },
                     "main-search__results__article-card__excerpt": {
-                      "type": "article/excerpt"
+                      "type": "article/excerpt",
+                      "settings": {},
+                      "blocks": {}
+                    },
+                    "main-search__results__article-card__title": {
+                      "type": "article/title",
+                      "settings": {},
+                      "blocks": {}
                     }
                   },
                   "block_order": [
@@ -76,12 +55,17 @@
             },
             "main-search__results__collection-card": {
               "type": "collection/card",
+              "settings": {},
               "blocks": {
                 "main-search__results__collection-card__image": {
-                  "type": "collection/image"
+                  "type": "collection/image",
+                  "settings": {},
+                  "blocks": {}
                 },
                 "main-search__results__collection-card__title": {
-                  "type": "collection/title"
+                  "type": "collection/title",
+                  "settings": {},
+                  "blocks": {}
                 }
               },
               "block_order": [
@@ -90,7 +74,59 @@
               ]
             },
             "main-search__results__page-card": {
-              "type": "$page-card"
+              "type": "$page-card",
+              "settings": {},
+              "blocks": {}
+            },
+            "main-search__results__product-card": {
+              "type": "product-list/card",
+              "settings": {},
+              "blocks": {
+                "main-search__results__product-card__image": {
+                  "type": "product-list/image",
+                  "settings": {},
+                  "blocks": {
+                    "main-search__results__product-card__image__layer": {
+                      "type": "product-list/layer",
+                      "settings": {},
+                      "blocks": {
+                        "main-search__results__product-card__image__layer__discount-tag": {
+                          "type": "product-list/discount_tag",
+                          "settings": {},
+                          "blocks": {}
+                        },
+                        "main-search__results__product-card__image__layer__quick-add": {
+                          "type": "product-list/quick_add",
+                          "settings": {},
+                          "blocks": {}
+                        }
+                      },
+                      "block_order": [
+                        "main-search__results__product-card__image__layer__discount-tag",
+                        "main-search__results__product-card__image__layer__quick-add"
+                      ]
+                    }
+                  },
+                  "block_order": [
+                    "main-search__results__product-card__image__layer"
+                  ]
+                },
+                "main-search__results__product-card__price": {
+                  "type": "product-list/price",
+                  "settings": {},
+                  "blocks": {}
+                },
+                "main-search__results__product-card__title": {
+                  "type": "product-list/title",
+                  "settings": {},
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "main-search__results__product-card__image",
+                "main-search__results__product-card__title",
+                "main-search__results__product-card__price"
+              ]
             }
           },
           "block_order": [
@@ -101,8 +137,13 @@
           ]
         }
       },
-      "block_order": ["main-search__results"]
+      "block_order": [
+        "main-search__results"
+      ],
+      "custom_css": []
     }
   },
-  "order": ["main-search"]
+  "order": [
+    "main-search"
+  ]
 }
