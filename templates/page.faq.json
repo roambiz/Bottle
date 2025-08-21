@@ -19,7 +19,7 @@
         },
         "size": {
           "height": "auto",
-          "width": "auto"
+          "width": "90%"
         },
         "spacing": {
           "@media (--mobile)": {
