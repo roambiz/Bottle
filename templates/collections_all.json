@@ -28,6 +28,12 @@
                   "settings": {
                     "aspect_ratio": "unset",
                     "fit_type": "contain",
+                    "layout": {
+                      "align-items": "center",
+                      "column-gap": "50px",
+                      "justify-content": "center",
+                      "row-gap": "50px"
+                    },
                     "shape": "square"
                   },
                   "blocks": {
