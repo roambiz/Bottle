@@ -30,8 +30,8 @@
           },
           "padding-block-end": "60px",
           "padding-block-start": "60px",
-          "padding-inline-end": "80px",
-          "padding-inline-start": "80px"
+          "padding-inline-end": "100px",
+          "padding-inline-start": "100px"
         }
       },
       "disabled": false,
