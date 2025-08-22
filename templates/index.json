@@ -238,7 +238,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
+        "collection": "12271300679721655089760195",
         "layout": {
           "@media (--mobile)": {
             "column-gap": "20px",
@@ -344,7 +344,8 @@
       "block_order": [
         "featured-collection__heading-with-link",
         "featured-collection__product-list"
-      ]
+      ],
+      "custom_css": []
     },
     "image-banner": {
       "type": "image-banner",
@@ -896,15 +897,15 @@
         },
         "spacing": {
           "@media (--mobile)": {
-            "padding-bottom": "30px",
-            "padding-left": "0px",
-            "padding-right": "0px",
-            "padding-top": "30px"
+            "padding-block-end": "30px",
+            "padding-block-start": "30px",
+            "padding-inline-end": "0px",
+            "padding-inline-start": "0px"
           },
-          "padding-bottom": "60px",
-          "padding-left": "0px",
-          "padding-right": "0px",
-          "padding-top": "60px"
+          "padding-block-end": "10px",
+          "padding-block-start": "10px",
+          "padding-inline-end": "0px",
+          "padding-inline-start": "0px"
         }
       },
       "disabled": false,
