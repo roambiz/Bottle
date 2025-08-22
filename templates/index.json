@@ -658,7 +658,10 @@
         "slideshow__image": {
           "type": "$image",
           "settings": {
-            "desktop_image": "shopline://shop_images/banner-for-hero-002.png"
+            "desktop_image": "shopline://shop_images/banner-for-hero-002.png",
+            "image_mask_opacity": 34,
+            "mobile_image": "shopline://shop_images/banner-for-hero-002.png",
+            "show_text_mask": true
           },
           "blocks": {
             "slideshow__image__group": {
