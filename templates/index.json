@@ -906,6 +906,7 @@
           "settings": {
             "content": "A short description of the video."
           },
+          "disabled": true,
           "blocks": {}
         },
         "video__heading": {
@@ -923,6 +924,7 @@
             "poster_image": "shopline://shop_images/banner-for-hero-001.png",
             "video_local_media": "shopline://files/videos/Pink Soccer Kits Video.mp4"
           },
+          "disabled": false,
           "blocks": {}
         }
       },
