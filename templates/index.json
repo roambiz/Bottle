@@ -672,6 +672,7 @@
                     "slideshow__image__group__button-group__button1": {
                       "type": "button",
                       "settings": {
+                        "link": "shopline://products/16071230914312001326450195",
                         "text": "Shop this",
                         "use_secondary_style": true
                       },
@@ -680,6 +681,7 @@
                     "slideshow__image__group__button-group__button2": {
                       "type": "button",
                       "settings": {
+                        "link": "shopline://collections/12271300679721655089760195",
                         "text": "Shop all",
                         "use_secondary_style": false
                       },
