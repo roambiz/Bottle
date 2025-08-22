@@ -695,17 +695,23 @@
                 },
                 "slideshow__image__group__description": {
                   "type": "$description",
-                  "settings": {},
+                  "settings": {
+                    "text": "Fuel her passion with our vibrant pink soccer jersey and shorts. Built for comfort and confidence."
+                  },
                   "blocks": {}
                 },
                 "slideshow__image__group__subtitle": {
                   "type": "$subtitle",
-                  "settings": {},
+                  "settings": {
+                    "subtitle": ""
+                  },
                   "blocks": {}
                 },
                 "slideshow__image__group__title": {
                   "type": "$title",
-                  "settings": {},
+                  "settings": {
+                    "text": "Pink Power on the Pitch!"
+                  },
                   "blocks": {}
                 }
               },
@@ -863,7 +869,7 @@
     "video": {
       "type": "video",
       "settings": {
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-1",
         "layout": {
           "@media (--mobile)": {
             "align-items": "center",
