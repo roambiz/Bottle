@@ -914,12 +914,13 @@
             "text": "Video",
             "text_size": "title2"
           },
+          "disabled": true,
           "blocks": {}
         },
         "video__video": {
           "type": "$video",
           "settings": {
-            "poster_image": "shopline://shop_images/video-cover.jpg",
+            "poster_image": "shopline://shop_images/banner-for-hero-001.png",
             "video_local_media": "shopline://files/videos/Pink Soccer Kits Video.mp4"
           },
           "blocks": {}
