@@ -119,7 +119,7 @@
           "padding-top": "60px"
         }
       },
-      "disabled": false,
+      "disabled": true,
       "blocks": {
         "collection-list__heading-with-link": {
           "type": "heading-with-link/heading-with-link",
@@ -918,7 +918,10 @@
         },
         "video__video": {
           "type": "$video",
-          "settings": {},
+          "settings": {
+            "poster_image": "shopline://shop_images/video-cover.jpg",
+            "video_local_media": "shopline://files/videos/Pink Soccer Kits Video.mp4"
+          },
           "blocks": {}
         }
       },
@@ -926,7 +929,8 @@
         "video__heading",
         "video__video",
         "video__description"
-      ]
+      ],
+      "custom_css": []
     }
   },
   "order": [
