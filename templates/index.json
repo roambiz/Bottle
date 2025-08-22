@@ -344,8 +344,7 @@
       "block_order": [
         "featured-collection__heading-with-link",
         "featured-collection__product-list"
-      ],
-      "custom_css": []
+      ]
     },
     "image-banner": {
       "type": "image-banner",
@@ -941,8 +940,7 @@
         "video__heading",
         "video__video",
         "video__description"
-      ],
-      "custom_css": []
+      ]
     }
   },
   "order": [
