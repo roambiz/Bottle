@@ -233,8 +233,7 @@
       "block_order": [
         "collection-list__heading-with-link",
         "collection-list__list"
-      ],
-      "custom_css": []
+      ]
     },
     "featured-collection": {
       "type": "featured-collection",
@@ -658,7 +657,9 @@
       "blocks": {
         "slideshow__image": {
           "type": "$image",
-          "settings": {},
+          "settings": {
+            "desktop_image": "shopline://shop_images/banner-for-hero-002.png"
+          },
           "blocks": {
             "slideshow__image__group": {
               "type": "$group",
@@ -721,7 +722,8 @@
       },
       "block_order": [
         "slideshow__image"
-      ]
+      ],
+      "custom_css": []
     },
     "text-columns-with-image": {
       "type": "text-columns-with-image",
@@ -924,8 +926,7 @@
         "video__heading",
         "video__video",
         "video__description"
-      ],
-      "custom_css": []
+      ]
     }
   },
   "order": [
