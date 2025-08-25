@@ -88,8 +88,7 @@
       "block_order": [
         "175577106980823c8421",
         "1755771069808df22a8f"
-      ],
-      "custom_css": []
+      ]
     },
     "1756087446472cd3114a": {
       "type": "faq",
@@ -152,7 +151,7 @@
                 "1756087446472110b1cd": {
                   "type": "$collapsible-panel",
                   "settings": {
-                    "content": "Currently, we have a limited number of payment methods available. However, we have plans to expand and add more payment options in the future.",
+                    "content": "\u003cp\u003eCurrently, we have a limited number of payment methods available. However, we \u003cstrong\u003eplan\u003c/strong\u003e to add more payment options in the future.\u003c/p\u003e",
                     "icon": "chat_bubble",
                     "title": "Can I only use PayPal for payment?"
                   },
@@ -162,7 +161,7 @@
                 "1756087446472511209d": {
                   "type": "$collapsible-panel",
                   "settings": {
-                    "content": "Our customer service team is available in the Shanghai time zone from Monday to Friday, 9:00 am to 6:00 pm. If you have any questions during the shopping process, you can communicate with us online during these working hours.",
+                    "content": "Our customer service team is available \u003cstrong\u003eMonday to Friday, 9:00 am to 6:00 pm (Shanghai time)\u003c/strong\u003e. If you have any questions during the shopping process, you can communicate with us online during these working hours.",
                     "icon": "chat_bubble",
                     "title": "How can I communicate with customer service online?"
                   },
@@ -212,7 +211,8 @@
       "block_order": [
         "1756087446472e93e80a",
         "1756087446472adfd2ab"
-      ]
+      ],
+      "custom_css": []
     },
     "main-page": {
       "type": "main-page",
