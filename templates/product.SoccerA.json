@@ -188,24 +188,29 @@
             "17551612571163c5e33f": {
               "type": "$card",
               "settings": {
-                "button_text": "Read More"
+                "button_text": "Read More",
+                "link": "shopline://blogs/68abccec67e99d1f7440c2e1/68abcd329ee8bc740eb89aab"
               },
               "blocks": {
                 "17551612571167a58264": {
                   "type": "$image",
-                  "settings": {},
+                  "settings": {
+                    "image": "shopline://shop_images/Polyester Fabric.jpg"
+                  },
                   "blocks": {}
                 },
                 "1755161257116b3c4bec": {
                   "type": "$title",
                   "settings": {
-                    "title": "Breathable Fabric"
+                    "title": "Polyester Fabric"
                   },
                   "blocks": {}
                 },
                 "1755161257116d6006d8": {
                   "type": "$text",
-                  "settings": {},
+                  "settings": {
+                    "text": "Polyester is a durable, wrinkle-resistant, and moisture-wicking powerhouse, making it a low-maintenance, cost-effective, and reliable material for modern performance apparel and activewear."
+                  },
                   "blocks": {}
                 }
               },
@@ -235,13 +240,15 @@
       "block_order": [
         "175516125711622ddd98",
         "17551612571161de69c8"
-      ]
+      ],
+      "custom_css": []
     },
     "1755763955381bd0280f": {
       "type": "apps",
       "settings": {
         "sync_margins_with_theme": true
       },
+      "disabled": false,
       "blocks": {
         "175576395538275cb82c": {
           "type": "shopline://apps/商品评价/blocks/comment-image-swiper/bd4a09d9-7542-4e11-931c-19fe441576aa",
@@ -284,6 +291,7 @@
       "settings": {
         "sync_margins_with_theme": true
       },
+      "disabled": false,
       "blocks": {
         "17557639898351e46578": {
           "type": "shopline://apps/商品评价/blocks/comment-start/bd4a09d9-7542-4e11-931c-19fe441576aa",
