@@ -68,7 +68,7 @@
                 "1755771069808d77e802": {
                   "type": "$collapsible-panel",
                   "settings": {
-                    "content": "When you open the checkout page using the PayPal Express Checkout button, if you haven't completed the payment verification with PayPal, you will see this prompt. Currently, Shopify's payment system does not automatically redirect for verification. To avoid this issue, you may need to manually verify the PayPal payment or refrain from using the Express Checkout button.",
+                    "content": "When you open the checkout page using the PayPal Express Checkout button, if you haven't completed the payment verification with PayPal, you will see this prompt. To avoid this issue, you may need to manually verify the PayPal payment or refrain from using the Express Checkout button.",
                     "icon": "checkbox",
                     "title": "\"This transaction couldn't be completed. Please redirect your customer to PayPal.\""
                   },
@@ -212,8 +212,7 @@
       "block_order": [
         "1756087446472e93e80a",
         "1756087446472adfd2ab"
-      ],
-      "custom_css": []
+      ]
     },
     "main-page": {
       "type": "main-page",
