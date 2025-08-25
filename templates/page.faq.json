@@ -68,7 +68,7 @@
                 "1755771069808d77e802": {
                   "type": "$collapsible-panel",
                   "settings": {
-                    "content": "When you open the checkout page using the PayPal Express Checkout button, if you haven't completed the payment verification with PayPal, you will see this prompt. To avoid this issue, you may need to manually verify the PayPal payment or refrain from using the Express Checkout button.",
+                    "content": "\u003cstrong\u003eThis prompt appears\u003c/strong\u003e when you open the checkout page using the PayPal Express Checkout button \u003cstrong\u003ewithout first completing the payment verification with PayPal\u003c/strong\u003e. To avoid this issue, you may need to manually verify the PayPal payment or \u003cstrong\u003eavoid\u003c/strong\u003e using the Express Checkout button.",
                     "icon": "checkbox",
                     "title": "\"This transaction couldn't be completed. Please redirect your customer to PayPal.\""
                   },
@@ -88,7 +88,8 @@
       "block_order": [
         "175577106980823c8421",
         "1755771069808df22a8f"
-      ]
+      ],
+      "custom_css": []
     },
     "1756087446472cd3114a": {
       "type": "faq",
