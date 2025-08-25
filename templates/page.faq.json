@@ -68,48 +68,15 @@
                 "1755771069808d77e802": {
                   "type": "$collapsible-panel",
                   "settings": {
-                    "content": "Our customer service team is available in the Shanghai time zone from Monday to Friday, 9:00 am to 6:00 pm. If you have any questions during the shopping process, you can communicate with us online during these working hours.",
-                    "icon": "chat_bubble",
-                    "title": "How can I communicate with customer service online?"
+                    "content": "When you open the checkout page using the PayPal Express Checkout button, if you haven't completed the payment verification with PayPal, you will see this prompt. Currently, Shopify's payment system does not automatically redirect for verification. To avoid this issue, you may need to manually verify the PayPal payment or refrain from using the Express Checkout button.",
+                    "icon": "checkbox",
+                    "title": "\"This transaction couldn't be completed. Please redirect your customer to PayPal.\""
                   },
                   "blocks": {}
-                },
-                "1756087200046f591889": {
-                  "type": "$collapsible-panel",
-                  "settings": {
-                    "content": "Currently, we have a limited number of payment methods available. However, we have plans to expand and add more payment options in the future.",
-                    "icon": "chat_bubble",
-                    "title": "Can I only use PayPal for payment?"
-                  },
-                  "blocks": {},
-                  "block_order": []
-                },
-                "17560872263906f55a33": {
-                  "type": "$collapsible-panel",
-                  "settings": {
-                    "content": "After a successful payment, you will receive an email with your order information. If you provided an email address during the payment process, you will be automatically registered as a user. You can log in to our website using your email address to view your order. Alternatively, you can also register for a new account before making a payment.",
-                    "icon": "chat_bubble",
-                    "title": "How can I view my order?"
-                  },
-                  "blocks": {},
-                  "block_order": []
-                },
-                "17560873531189640d7d": {
-                  "type": "$collapsible-panel",
-                  "settings": {
-                    "content": "We will send you an email with the tracking number to the email address you provided after the shipment. You can use this number to track the shipment on the shipping company's website.\u003cbr\u003e\u003cbr\u003eSimilarly, you can also log into our website to view the tracking number for your shipment.\u003cbr\u003e\u003cbr\u003eTo track your shipment, please visit the following webpage:\u0026nbsp;\u003ca title=\"To track your shipment\" href=\"https://track.4px.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://track.4px.com/\u003c/a\u003e",
-                    "icon": "chat_bubble",
-                    "title": "How can I track the shipment?"
-                  },
-                  "blocks": {},
-                  "block_order": []
                 }
               },
               "block_order": [
-                "1755771069808d77e802",
-                "1756087200046f591889",
-                "17560872263906f55a33",
-                "17560873531189640d7d"
+                "1755771069808d77e802"
               ]
             }
           },
@@ -121,6 +88,130 @@
       "block_order": [
         "175577106980823c8421",
         "1755771069808df22a8f"
+      ],
+      "custom_css": []
+    },
+    "1756087446472cd3114a": {
+      "type": "faq",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "expand_first_label": false,
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "row-gap": "20px"
+          },
+          "align-items": "center",
+          "column-gap": "40px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "40px"
+        },
+        "size": {
+          "height": "auto",
+          "width": "auto"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-block-end": "24px",
+            "padding-block-start": "24px",
+            "padding-inline-end": "20px",
+            "padding-inline-start": "20px"
+          },
+          "padding-block-end": "60px",
+          "padding-block-start": "60px",
+          "padding-inline-end": "100px",
+          "padding-inline-start": "100px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "1756087446472adfd2ab": {
+          "type": "$group",
+          "settings": {
+            "layout": {
+              "@media (--mobile)": {
+                "column-gap": "20px",
+                "flex-direction": "column",
+                "row-gap": "20px"
+              },
+              "align-items": "flex-start",
+              "column-gap": "40px",
+              "flex-direction": "row",
+              "flex-wrap": "nowrap",
+              "justify-content": "center",
+              "row-gap": "40px"
+            }
+          },
+          "blocks": {
+            "1756087446472b63d6ce": {
+              "type": "$collapsible-group",
+              "settings": {},
+              "blocks": {
+                "1756087446472110b1cd": {
+                  "type": "$collapsible-panel",
+                  "settings": {
+                    "content": "Currently, we have a limited number of payment methods available. However, we have plans to expand and add more payment options in the future.",
+                    "icon": "chat_bubble",
+                    "title": "Can I only use PayPal for payment?"
+                  },
+                  "blocks": {},
+                  "block_order": []
+                },
+                "1756087446472511209d": {
+                  "type": "$collapsible-panel",
+                  "settings": {
+                    "content": "Our customer service team is available in the Shanghai time zone from Monday to Friday, 9:00 am to 6:00 pm. If you have any questions during the shopping process, you can communicate with us online during these working hours.",
+                    "icon": "chat_bubble",
+                    "title": "How can I communicate with customer service online?"
+                  },
+                  "blocks": {}
+                },
+                "17560874464728e5648f": {
+                  "type": "$collapsible-panel",
+                  "settings": {
+                    "content": "After a successful payment, you will receive an email with your order information. If you provided an email address during the payment process, you will be automatically registered as a user. You can log in to our website using your email address to view your order. Alternatively, you can also register for a new account before making a payment.",
+                    "icon": "chat_bubble",
+                    "title": "How can I view my order?"
+                  },
+                  "blocks": {},
+                  "block_order": []
+                },
+                "1756087446472b6bbf6c": {
+                  "type": "$collapsible-panel",
+                  "settings": {
+                    "content": "We will send you an email with the tracking number to the email address you provided after the shipment. You can use this number to track the shipment on the shipping company's website.\u003cbr\u003e\u003cbr\u003eSimilarly, you can also log into our website to view the tracking number for your shipment.\u003cbr\u003e\u003cbr\u003eTo track your shipment, please visit the following webpage:\u0026nbsp;\u003ca title=\"To track your shipment\" href=\"https://track.4px.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://track.4px.com/\u003c/a\u003e",
+                    "icon": "chat_bubble",
+                    "title": "How can I track the shipment?"
+                  },
+                  "blocks": {},
+                  "block_order": []
+                }
+              },
+              "block_order": [
+                "1756087446472511209d",
+                "1756087446472110b1cd",
+                "17560874464728e5648f",
+                "1756087446472b6bbf6c"
+              ]
+            }
+          },
+          "block_order": [
+            "1756087446472b63d6ce"
+          ]
+        },
+        "1756087446472e93e80a": {
+          "type": "$heading",
+          "settings": {
+            "text": "General Questions"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "1756087446472e93e80a",
+        "1756087446472adfd2ab"
       ],
       "custom_css": []
     },
@@ -146,6 +237,7 @@
   },
   "order": [
     "main-page",
+    "1756087446472cd3114a",
     "17557710698061dfa09f"
   ]
 }
