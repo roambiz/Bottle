@@ -119,5 +119,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "header__logo-link {}"
+    ]
   }
 }
