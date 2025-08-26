@@ -1,5 +1,95 @@
 {
   "sections": {
+    "1756173445910058f6a6": {
+      "type": "text-columns-with-image",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "row-gap": "20px"
+          },
+          "align-items": "center",
+          "column-gap": "30px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "30px"
+        },
+        "size": {
+          "height": "auto",
+          "width": "100%"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-block-end": "24px",
+            "padding-block-start": "24px"
+          },
+          "padding-block-end": "80px",
+          "padding-block-start": "80px",
+          "padding-inline-end": "0",
+          "padding-inline-start": "0"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "17561734459110f09f23": {
+          "type": "$heading",
+          "settings": {},
+          "disabled": true,
+          "blocks": {}
+        },
+        "17561734459114fa6453": {
+          "type": "$card-group",
+          "settings": {
+            "desktop_columns": "2"
+          },
+          "blocks": {
+            "175617344591109b2363": {
+              "type": "$card",
+              "settings": {},
+              "blocks": {
+                "17561734459116bd67b3": {
+                  "type": "$image",
+                  "settings": {
+                    "image": "shopline://shop_images/homepage-md-2502.jpg"
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "17561734459116bd67b3"
+              ]
+            },
+            "17561734459111850105": {
+              "type": "$card",
+              "settings": {},
+              "blocks": {
+                "17561734459118ebef19": {
+                  "type": "$image",
+                  "settings": {
+                    "image": "shopline://shop_images/homepage-md-2501.jpg"
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "17561734459118ebef19"
+              ]
+            }
+          },
+          "block_order": [
+            "17561734459111850105",
+            "175617344591109b2363"
+          ]
+        }
+      },
+      "block_order": [
+        "17561734459110f09f23",
+        "17561734459114fa6453"
+      ],
+      "custom_css": []
+    },
     "blog": {
       "type": "blog",
       "settings": {
@@ -733,8 +823,7 @@
       },
       "block_order": [
         "slideshow__image"
-      ],
-      "custom_css": []
+      ]
     },
     "text-columns-with-image": {
       "type": "text-columns-with-image",
@@ -950,6 +1039,7 @@
     "slideshow",
     "collection-list",
     "video",
+    "1756173445910058f6a6",
     "featured-collection",
     "image-banner",
     "blog",
