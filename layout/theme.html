@@ -8,6 +8,21 @@
     {{#component "script" src="base/index.js" | asset_url() /}}
     
     {{#content "header" /}}
+    {{! --- SEO 规范网址 (Canonical URL) 优化逻辑开始 --- }}
+  {{#if product}}
+    {{! 如果是商品页，强制使用 /products/handle 结构，避免集合路径 }}
+    <link rel="canonical" href="{{shop.url}}/products/{{product.handle}}" />
+  {{else if collection}}
+    {{! 如果是集合页，使用默认值以正确处理分页 }}
+    <link rel="canonical" href="{{canonical_url}}" />
+  {{else if page}}
+    {{! 如果是自定义页面，使用 /pages/handle 结构 }}
+    <link rel="canonical" href="{{shop.url}}/pages/{{page.handle}}" />
+  {{else}}
+    {{! 其他情况（如首页），使用默认值最安全 }}
+    <link rel="canonical" href="{{canonical_url}}" />
+  {{/if}}
+  {{! --- SEO 规范网址 (Canonical URL) 优化逻辑结束 --- }}
   </head>
   <body data-page-type="{{request.page_type}}" data-cart-add-type="{{settings.cart_add_type}}">
     {{#sections "header-group" /}}
