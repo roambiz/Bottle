@@ -55,7 +55,7 @@
                 "17561734459116bd67b3": {
                   "type": "$image",
                   "settings": {
-                    "image": "shopline://shop_images/homepage-md-2502.jpg"
+                    "image": "shopline://shop_images/US-soccer-girl-model.jpeg"
                   },
                   "blocks": {}
                 }
@@ -74,7 +74,7 @@
                 "17561734459118ebef19": {
                   "type": "$image",
                   "settings": {
-                    "image": "shopline://shop_images/homepage-md-2501.jpg"
+                    "image": "shopline://shop_images/MEX-soccer-boy-model.jpeg"
                   },
                   "blocks": {}
                 }
@@ -85,8 +85,8 @@
             }
           },
           "block_order": [
-            "17561734459111850105",
-            "175617344591109b2363"
+            "175617344591109b2363",
+            "17561734459111850105"
           ]
         }
       },
