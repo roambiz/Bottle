@@ -1,5 +1,90 @@
 {
   "sections": {
+    "17565245633437789fd0": {
+      "type": "collection-list",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "layout": {
+          "@media (--mobile)": {
+            "align-items": "flex-start",
+            "column-gap": "20px",
+            "row-gap": "20px"
+          },
+          "align-items": "center",
+          "column-gap": "40px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "40px"
+        },
+        "size": {},
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-bottom": "24px",
+            "padding-top": "24px"
+          },
+          "padding-bottom": "60px",
+          "padding-top": "60px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "17565245633447b2ec88": {
+          "type": "$list",
+          "settings": {},
+          "blocks": {
+            "1756524563344255e450": {
+              "type": "collection/card",
+              "settings": {
+                "collection": "12271300679721655089760195"
+              },
+              "blocks": {
+                "1756524563344abbbd70": {
+                  "type": "collection/image",
+                  "settings": {},
+                  "blocks": {
+                    "17565245633446462ab9": {
+                      "type": "collection/title",
+                      "settings": {},
+                      "blocks": {}
+                    }
+                  },
+                  "block_order": [
+                    "17565245633446462ab9"
+                  ]
+                },
+                "1756524563344d7a1d29": {
+                  "type": "collection/title",
+                  "settings": {},
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "1756524563344abbbd70",
+                "1756524563344d7a1d29"
+              ]
+            }
+          },
+          "block_order": [
+            "1756524563344255e450"
+          ]
+        },
+        "1756524563344b452f09": {
+          "type": "heading-with-link/heading-with-link",
+          "settings": {
+            "link_text": "View more",
+            "text": "Shop by category",
+            "text_size": "title2"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "1756524563344b452f09",
+        "17565245633447b2ec88"
+      ],
+      "custom_css": []
+    },
     "main-article": {
       "type": "main-article",
       "settings": {
@@ -67,6 +152,7 @@
     }
   },
   "order": [
-    "main-article"
+    "main-article",
+    "17565245633437789fd0"
   ]
 }
