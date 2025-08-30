@@ -63,8 +63,7 @@
         "main-article__share",
         "main-article__button_back",
         "main-article__comment"
-      ],
-      "custom_css": []
+      ]
     }
   },
   "order": [
