@@ -1,23 +1,19 @@
 {
   "sections": {
-    "17565245633437789fd0": {
-      "type": "collection-list",
+    "175652464219953a55e1": {
+      "type": "featured-collection",
       "settings": {
-        "color_scheme": "scheme-1",
+        "collection": "12271300679721655089760195",
         "layout": {
           "@media (--mobile)": {
-            "align-items": "flex-start",
             "column-gap": "20px",
             "row-gap": "20px"
           },
-          "align-items": "center",
           "column-gap": "40px",
           "flex-direction": "column",
           "flex-wrap": "nowrap",
-          "justify-content": "center",
           "row-gap": "40px"
         },
-        "size": {},
         "spacing": {
           "@media (--mobile)": {
             "padding-bottom": "24px",
@@ -29,59 +25,80 @@
       },
       "disabled": false,
       "blocks": {
-        "17565245633447b2ec88": {
-          "type": "$list",
+        "1756524642200388582a": {
+          "type": "product-list/list",
           "settings": {},
           "blocks": {
-            "1756524563344255e450": {
-              "type": "collection/card",
-              "settings": {
-                "collection": "12271300679721655089760195"
-              },
+            "17565246422005b4cce1": {
+              "type": "product-list/card",
+              "settings": {},
               "blocks": {
-                "1756524563344abbbd70": {
-                  "type": "collection/image",
+                "17565246422000487a5b": {
+                  "type": "product-list/title",
                   "settings": {},
+                  "blocks": {}
+                },
+                "175652464220037bda9d": {
+                  "type": "product-list/price",
+                  "settings": {},
+                  "blocks": {}
+                },
+                "1756524642200b1555fe": {
+                  "type": "product-list/image",
+                  "settings": {
+                    "aspect_ratio": "unset"
+                  },
                   "blocks": {
-                    "17565245633446462ab9": {
-                      "type": "collection/title",
+                    "175652464220021b876a": {
+                      "type": "product-list/layer",
                       "settings": {},
-                      "blocks": {}
+                      "blocks": {
+                        "175652464220031b48d3": {
+                          "type": "product-list/quick_add",
+                          "settings": {},
+                          "blocks": {}
+                        },
+                        "17565246422006d61c23": {
+                          "type": "product-list/discount_tag",
+                          "settings": {},
+                          "blocks": {}
+                        }
+                      },
+                      "block_order": [
+                        "17565246422006d61c23",
+                        "175652464220031b48d3"
+                      ]
                     }
                   },
                   "block_order": [
-                    "17565245633446462ab9"
+                    "175652464220021b876a"
                   ]
-                },
-                "1756524563344d7a1d29": {
-                  "type": "collection/title",
-                  "settings": {},
-                  "blocks": {}
                 }
               },
               "block_order": [
-                "1756524563344abbbd70",
-                "1756524563344d7a1d29"
+                "1756524642200b1555fe",
+                "17565246422000487a5b",
+                "175652464220037bda9d"
               ]
             }
           },
           "block_order": [
-            "1756524563344255e450"
+            "17565246422005b4cce1"
           ]
         },
-        "1756524563344b452f09": {
+        "17565246422004ca1e98": {
           "type": "heading-with-link/heading-with-link",
           "settings": {
             "link_text": "View more",
-            "text": "Shop by category",
+            "text": "Featured collection",
             "text_size": "title2"
           },
           "blocks": {}
         }
       },
       "block_order": [
-        "1756524563344b452f09",
-        "17565245633447b2ec88"
+        "17565246422004ca1e98",
+        "1756524642200388582a"
       ],
       "custom_css": []
     },
@@ -153,6 +170,6 @@
   },
   "order": [
     "main-article",
-    "17565245633437789fd0"
+    "175652464219953a55e1"
   ]
 }
