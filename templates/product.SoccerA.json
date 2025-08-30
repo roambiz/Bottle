@@ -49,7 +49,7 @@
                   "settings": {
                     "content": "To ensure the utmost longevity and integrity, there are recommended care instructions to follow:\u003cbr\u003e1) Turn the clothes inside out;\u003cbr\u003e2) Machine wash cold setting, on a delicate cycle;\u003cbr\u003e3) Tumble dries on a low heat setting;\u003cbr\u003e4) Never bleach it or get it dry-cleaned;\u003cbr\u003e5) Avoid ironing directly on the design.",
                     "icon": "chat_bubble",
-                    "title": "How should I care for my set?"
+                    "title": "How should I care for my clothes?"
                   },
                   "blocks": {}
                 },
@@ -86,7 +86,8 @@
       "block_order": [
         "1755161232233307ecbd",
         "17551612322332e69efe"
-      ]
+      ],
+      "custom_css": []
     },
     "175516125711694704df": {
       "type": "text-columns-with-image",
@@ -240,8 +241,7 @@
       "block_order": [
         "175516125711622ddd98",
         "17551612571161de69c8"
-      ],
-      "custom_css": []
+      ]
     },
     "1755763955381bd0280f": {
       "type": "apps",
