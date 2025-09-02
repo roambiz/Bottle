@@ -32,8 +32,7 @@
       "block_order": [
         "banner",
         "description"
-      ],
-      "custom_css": []
+      ]
     },
     "main-collection-products": {
       "type": "main-collection-products",
