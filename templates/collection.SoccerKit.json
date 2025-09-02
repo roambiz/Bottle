@@ -1,5 +1,99 @@
 {
   "sections": {
+    "17567853833877e8a8d5": {
+      "type": "blog",
+      "settings": {
+        "blog": "68ad1a8f67e99d1f744210a2",
+        "color_scheme": "scheme-3",
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "24px",
+            "row-gap": "24px"
+          },
+          "align-items": "center",
+          "column-gap": "60px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "60px"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-bottom": "24px",
+            "padding-top": "24px"
+          },
+          "padding-bottom": "60px",
+          "padding-top": "60px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "1756785383388d9ac325": {
+          "type": "heading-with-link/heading-with-link",
+          "settings": {
+            "link_text": "View more",
+            "text": "Blogs",
+            "text_size": "title4"
+          },
+          "blocks": {}
+        },
+        "1756785383389458b528": {
+          "type": "$articles",
+          "settings": {},
+          "blocks": {
+            "1756785383389f0c5715": {
+              "type": "article/card",
+              "settings": {},
+              "blocks": {
+                "175678538338914a3347": {
+                  "type": "article/cover",
+                  "settings": {},
+                  "blocks": {}
+                },
+                "17567853833896d8da49": {
+                  "type": "article/info",
+                  "settings": {},
+                  "blocks": {
+                    "17567853833892442502": {
+                      "type": "article/excerpt",
+                      "settings": {},
+                      "blocks": {}
+                    },
+                    "1756785383389b162722": {
+                      "type": "article/title",
+                      "settings": {},
+                      "blocks": {}
+                    },
+                    "1756785383389b9d4201": {
+                      "type": "article/date_author",
+                      "settings": {},
+                      "blocks": {}
+                    }
+                  },
+                  "block_order": [
+                    "1756785383389b162722",
+                    "1756785383389b9d4201",
+                    "17567853833892442502"
+                  ]
+                }
+              },
+              "block_order": [
+                "175678538338914a3347",
+                "17567853833896d8da49"
+              ]
+            }
+          },
+          "block_order": [
+            "1756785383389f0c5715"
+          ]
+        }
+      },
+      "block_order": [
+        "1756785383388d9ac325",
+        "1756785383389458b528"
+      ],
+      "custom_css": []
+    },
     "main-collection-cover": {
       "type": "main-collection-cover",
       "settings": {},
@@ -121,6 +215,7 @@
   },
   "order": [
     "main-collection-cover",
-    "main-collection-products"
+    "main-collection-products",
+    "17567853833877e8a8d5"
   ]
 }
