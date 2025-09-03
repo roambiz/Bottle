@@ -22,7 +22,6 @@
   {{page_title}}
   {{#if current_tags}} &ndash; Tagged "{{current_tags | join(`,`)}}"{{/if}}
   {{#if current_page != 1}} &ndash; Page {{current_page}}{{/if}}
-  {{~! --- 这是修正后的逻辑 --- }}
   {{~#if page_title|contains(shop.name)}}{{else}}
   &ndash; {{shop.name}}
   {{~/if}}
