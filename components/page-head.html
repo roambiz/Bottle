@@ -22,5 +22,6 @@
   {{page_title}}
   {{#if current_tags}} &ndash; Tagged "{{current_tags | join(`,`)}}"{{/if}}
   {{#if current_page != 1}} &ndash; Page {{current_page}}{{/if}}
-  {{~#if page_title|contains(shop.name)}} {{else}}&ndash; {{shop.name}}{{~/if}}
+  {{~#var page_has_shop_name = (page_title|contains(shop.name)) /}}
+{{~#if page_has_shop_name}}{{else}}&ndash; {{shop.name}}{{~/if}}
 </title>
