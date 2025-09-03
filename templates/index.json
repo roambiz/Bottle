@@ -93,7 +93,41 @@
       "block_order": [
         "17561734459110f09f23",
         "17561734459114fa6453"
-      ],
+      ]
+    },
+    "17568917910369d16f29": {
+      "type": "custom-html",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "html": "\u003cdiv style=\"background: yellow; color: black; padding: 10px; font-family: monospace; z-index: 9999; position: relative; text-align: left;\"\u003e\r\n  \u003cp style=\"margin: 0; padding: 0;\"\u003e\u003cstrong\u003e-- DEBUGGING START --\u003c/strong\u003e\u003c/p\u003e\r\n  \u003cp style=\"margin: 2px 0; padding: 0;\"\u003e\u003cstrong\u003ePage Title (页面标题):\u003c/strong\u003e \"{{page_title}}\"\u003c/p\u003e\r\n  \u003cp style=\"margin: 2px 0; padding: 0;\"\u003e\u003cstrong\u003eShop Name (店铺名称):\u003c/strong\u003e \"{{shop.name}}\"\u003c/p\u003e\r\n  \u003cp style=\"margin: 2px 0; padding: 0;\"\u003e\u003cstrong\u003e判断结果 (Does Title contain Shop Name?):\u003c/strong\u003e \r\n    {{#if page_title|contains(shop.name)}}\r\n      \u003cstrong\u003eYES (包含)\u003c/strong\u003e \u0026lt;-- 因此不应该执行 else\r\n    {{else}}\r\n      \u003cstrong\u003eNO (不包含)\u003c/strong\u003e \u0026lt;-- 因此会执行 else\r\n    {{/if}}\r\n  \u003c/p\u003e\r\n  \u003cp style=\"margin: 0; padding: 0;\"\u003e\u003cstrong\u003e-- DEBUGGING END --\u003c/strong\u003e\u003c/p\u003e\r\n\u003c/div\u003e",
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "row-gap": "20px"
+          },
+          "align-items": "center",
+          "column-gap": "30px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "30px"
+        },
+        "size": {
+          "height": "auto",
+          "width": "100%"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-bottom": "40px",
+            "padding-top": "40px"
+          },
+          "padding-bottom": "80px",
+          "padding-top": "80px"
+        }
+      },
+      "disabled": false,
+      "blocks": {},
+      "block_order": [],
       "custom_css": []
     },
     "blog": {
@@ -1052,6 +1086,7 @@
     "image-with-text",
     "text-columns-with-image",
     "rich-text",
-    "sign-up-and-save"
+    "sign-up-and-save",
+    "17568917910369d16f29"
   ]
 }
