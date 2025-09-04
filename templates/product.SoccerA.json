@@ -177,7 +177,7 @@
                 "1755161257116ba53f10": {
                   "type": "$image",
                   "settings": {
-                    "image": "shopline://shop_images/honeycomb vs birdeye vs milk silk.jpg"
+                    "image": "shopline://shop_images/honeycomb vs birdeye vs milk silk 16x9.jpg"
                   },
                   "blocks": {}
                 }
@@ -198,7 +198,7 @@
                 "17551612571167a58264": {
                   "type": "$image",
                   "settings": {
-                    "image": "shopline://shop_images/polyester milk silk fabric.jpg"
+                    "image": "shopline://shop_images/white polyester milk silk fabric 16x9.jpg"
                   },
                   "blocks": {}
                 },
