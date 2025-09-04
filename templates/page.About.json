@@ -47,7 +47,8 @@
               "type": "$button",
               "settings": {
                 "link": "shopline://home",
-                "text": "Go Shopping"
+                "text": "Go Shopping",
+                "use_secondary_style": false
               },
               "blocks": {}
             },
@@ -75,6 +76,7 @@
         "1756978566601829cc8b": {
           "type": "$image",
           "settings": {},
+          "disabled": true,
           "blocks": {}
         }
       },
