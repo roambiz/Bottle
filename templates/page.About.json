@@ -3,7 +3,7 @@
     "17569785666008a7a512": {
       "type": "image-with-text",
       "settings": {
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-1",
         "layout": {
           "@media (--mobile)": {
             "align-items": "flex-start",
@@ -41,7 +41,20 @@
       "blocks": {
         "17569785666011d53194": {
           "type": "$group",
-          "settings": {},
+          "settings": {
+            "layout": {
+              "@media (--mobile)": {
+                "column-gap": "8px",
+                "row-gap": "8px"
+              },
+              "align-items": "flex-start",
+              "column-gap": "10px",
+              "flex-direction": "column",
+              "flex-wrap": "nowrap",
+              "justify-content": "center",
+              "row-gap": "10px"
+            }
+          },
           "blocks": {
             "175697856660124d5f16": {
               "type": "$button",
@@ -55,7 +68,7 @@
             "1756978566601a002564": {
               "type": "$rich-text",
               "settings": {
-                "content": "MUDJEAN is a kids sports fashion brand, established on 2022. we conveys the positive values of sports to babies \u0026amp; kids. assisting them to feel the meaning of the sports: team spirit,confidence and enjoy the joyful to achieve success."
+                "content": "\u003cp\u003eFounded in 2022, MUDJEAN was born from a simple belief: sports are one of childhood's greatest classrooms. It's on the field, the court, and the playground where essential lessons are learned. We’re not just making clothes; we’re crafting the uniform for those first big lessons in\u0026nbsp;\u003cstrong\u003eteam spirit\u003c/strong\u003e, the quiet growth of\u0026nbsp;\u003cstrong\u003econfidence\u003c/strong\u003e, and the pure, unfiltered\u0026nbsp;\u003cstrong\u003ejoy of achieving a goal\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003eEvery piece of MUDJEAN apparel is designed to empower babies and kids to move, play, and discover the champion within themselves. We create high-performance gear that’s as resilient and vibrant as the children who wear it.\u003c/p\u003e\n\u003cp\u003eBy owning our factory and selling directly to you, we ensure that our commitment to quality is woven into every stitch, delivering exceptional value straight from our hands to your family. Join us in celebrating the journey of play.\u003c/p\u003e"
               },
               "blocks": {}
             },
