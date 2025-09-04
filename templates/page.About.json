@@ -1,8 +1,111 @@
 {
   "sections": {
+    "17569785666008a7a512": {
+      "type": "image-with-text",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "layout": {
+          "@media (--mobile)": {
+            "align-items": "flex-start",
+            "column-gap": "10px",
+            "flex-direction": "column",
+            "flex-wrap": "nowrap",
+            "justify-content": "center",
+            "row-gap": "10px"
+          },
+          "align-items": "center",
+          "column-gap": "80px",
+          "flex-direction": "row",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "80px"
+        },
+        "size": {
+          "height": "auto",
+          "width": "100%"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-block-end": "20px",
+            "padding-block-start": "30px",
+            "padding-inline-end": "20px",
+            "padding-inline-start": "20px"
+          },
+          "padding-block-end": "60px",
+          "padding-block-start": "60px",
+          "padding-inline-end": "30px",
+          "padding-inline-start": "30px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "17569785666011d53194": {
+          "type": "$group",
+          "settings": {},
+          "blocks": {
+            "175697856660124d5f16": {
+              "type": "$button",
+              "settings": {
+                "link": "shopline://home",
+                "text": "Go Shopping"
+              },
+              "blocks": {}
+            },
+            "1756978566601a002564": {
+              "type": "$rich-text",
+              "settings": {
+                "content": "MUDJEAN is a kids sports fashion brand, established on 2022. we conveys the positive values of sports to babies \u0026amp; kids. assisting them to feel the meaning of the sports: team spirit,confidence and enjoy the joyful to achieve success."
+              },
+              "blocks": {}
+            },
+            "1756978566601ee4d587": {
+              "type": "$heading",
+              "settings": {
+                "heading": "About MUDJEAN"
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "1756978566601ee4d587",
+            "1756978566601a002564",
+            "175697856660124d5f16"
+          ]
+        },
+        "1756978566601829cc8b": {
+          "type": "$image",
+          "settings": {},
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "1756978566601829cc8b",
+        "17569785666011d53194"
+      ],
+      "custom_css": []
+    },
     "main-page": {
-      "type": "main-page"
+      "type": "main-page",
+      "settings": {
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-bottom": "40px",
+            "padding-left": "0",
+            "padding-right": "0",
+            "padding-top": "40px"
+          },
+          "padding-bottom": "80px",
+          "padding-left": "210px",
+          "padding-right": "210px",
+          "padding-top": "80px"
+        }
+      },
+      "disabled": false,
+      "blocks": {}
     }
   },
-  "order": ["main-page"]
+  "order": [
+    "main-page",
+    "17569785666008a7a512"
+  ]
 }
