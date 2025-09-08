@@ -180,11 +180,11 @@
             "1757320284666446c68b": {
               "type": "$button",
               "settings": {
-                "link": "shopline://home",
-                "text": "Go Shopping",
+                "link": "shopline://pages/7129001889895553047",
+                "text": "Contact Us",
                 "use_secondary_style": false
               },
-              "disabled": true,
+              "disabled": false,
               "blocks": {}
             },
             "1757320284666a188149": {
