@@ -98,7 +98,7 @@
     "1757324704568f4a6d43": {
       "type": "text-columns-with-image",
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-4",
         "layout": {
           "@media (--mobile)": {
             "column-gap": "20px",
@@ -134,7 +134,10 @@
           "blocks": {
             "175732470456986da732": {
               "type": "$card",
-              "settings": {},
+              "settings": {
+                "button_text": "Shop the Look",
+                "link": "shopline://products/16071344848284019680100195"
+              },
               "blocks": {
                 "17573247045698ccdc4c": {
                   "type": "$text",
@@ -165,7 +168,10 @@
             },
             "175732470456997b9498": {
               "type": "$card",
-              "settings": {},
+              "settings": {
+                "button_text": "Shop the Look",
+                "link": "shopline://products/16071230914312001326450195"
+              },
               "blocks": {
                 "17573247045695ce2f3a": {
                   "type": "$image",
@@ -196,7 +202,10 @@
             },
             "1757324704569d51d8fe": {
               "type": "$card",
-              "settings": {},
+              "settings": {
+                "button_text": "Shop the Look",
+                "link": "shopline://products/16071432476948022297010195"
+              },
               "blocks": {
                 "1757324704569b45a8d6": {
                   "type": "$text",
@@ -236,7 +245,8 @@
           "type": "$heading",
           "settings": {
             "link": "shopline://collections/12271300679721655089760195",
-            "link_text": ""
+            "link_text": "",
+            "title": "Why Parents Love MUDJEAN"
           },
           "blocks": {}
         }
