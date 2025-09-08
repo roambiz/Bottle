@@ -98,15 +98,18 @@
         },
         "1756978566601829cc8b": {
           "type": "$image",
-          "settings": {},
-          "disabled": true,
+          "settings": {
+            "image": "shopline://shop_images/brand-logo.png"
+          },
+          "disabled": false,
           "blocks": {}
         }
       },
       "block_order": [
         "1756978566601829cc8b",
         "17569785666011d53194"
-      ]
+      ],
+      "custom_css": []
     },
     "175732028466647c19f3": {
       "type": "image-with-text",
@@ -216,8 +219,7 @@
       "block_order": [
         "175732028466680db934",
         "1757320284666e7fba91"
-      ],
-      "custom_css": []
+      ]
     },
     "main-page": {
       "type": "main-page",
