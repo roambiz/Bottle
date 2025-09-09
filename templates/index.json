@@ -126,7 +126,7 @@
           "padding-inline-start": "0"
         }
       },
-      "disabled": true,
+      "disabled": false,
       "blocks": {
         "17573247045691981b50": {
           "type": "$card-group",
@@ -295,7 +295,7 @@
         },
         "spacing": {}
       },
-      "disabled": false,
+      "disabled": true,
       "blocks": {
         "17574080536618c5bf58": {
           "type": "group",
