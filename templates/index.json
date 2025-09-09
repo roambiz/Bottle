@@ -255,8 +255,65 @@
         "1757324704569d152471",
         "17573247045691981b50"
       ],
-      "custom_css": [],
       "name": "t:sections.text_columns_with_image.presets.presets_0.name"
+    },
+    "1757408051255910fc77": {
+      "type": "custom-section",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "row-gap": "20px"
+          },
+          "align-items": "center",
+          "column-gap": "32px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "32px"
+        },
+        "size": {
+          "height": "auto",
+          "width": "100%"
+        },
+        "spacing": {}
+      },
+      "disabled": false,
+      "blocks": {
+        "17574080536618c5bf58": {
+          "type": "group",
+          "settings": {
+            "layout": {
+              "align-items": "center",
+              "column-gap": "32px",
+              "flex-direction": "column",
+              "flex-wrap": "nowrap",
+              "justify-content": "center",
+              "row-gap": "32px"
+            },
+            "size": {
+              "height": "auto",
+              "width": "100%"
+            },
+            "spacing": {}
+          },
+          "blocks": {
+            "1757408063411aeba35e": {
+              "type": "shopline://apps/商品评价/blocks/product-card-star/bd4a09d9-7542-4e11-931c-19fe441576aa",
+              "settings": {},
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "1757408063411aeba35e"
+          ]
+        }
+      },
+      "block_order": [
+        "17574080536618c5bf58"
+      ],
+      "name": "t:sections.custom_section.presets.presets_0.name"
     },
     "blog": {
       "type": "blog",
@@ -1208,6 +1265,7 @@
     "collection-list",
     "video",
     "1756173445910058f6a6",
+    "1757408051255910fc77",
     "1757324704568f4a6d43",
     "featured-collection",
     "image-banner",
