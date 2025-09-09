@@ -296,7 +296,12 @@
               "height": "auto",
               "width": "100%"
             },
-            "spacing": {}
+            "spacing": {
+              "padding-block-end": "60px",
+              "padding-block-start": "60px",
+              "padding-inline-end": "100px",
+              "padding-inline-start": "100px"
+            }
           },
           "blocks": {
             "1757408111085537d66f": {
@@ -328,9 +333,20 @@
                 "pc_turn_page": "2"
               },
               "blocks": {}
+            },
+            "1757408369253eccf8e4": {
+              "type": "heading",
+              "settings": {
+                "text": "Why Parents Love MUDJEAN",
+                "text_align": "center",
+                "text_size": "title3"
+              },
+              "blocks": {},
+              "block_order": []
             }
           },
           "block_order": [
+            "1757408369253eccf8e4",
             "1757408111085537d66f"
           ]
         }
@@ -338,7 +354,10 @@
       "block_order": [
         "17574080536618c5bf58"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".default-title {font-color: white !important;}",
+        "svg {font-color: white !important;}"
+      ],
       "name": "t:sections.custom_section.presets.presets_0.name"
     },
     "blog": {
