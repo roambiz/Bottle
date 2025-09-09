@@ -126,16 +126,31 @@
           "padding-inline-start": "0"
         }
       },
-      "disabled": true,
+      "disabled": false,
       "blocks": {
         "17573247045691981b50": {
           "type": "$card-group",
-          "settings": {},
+          "settings": {
+            "desktop_columns": "3"
+          },
           "blocks": {
             "175732470456986da732": {
               "type": "$card",
               "settings": {
                 "button_text": "Shop the Look",
+                "layout": {
+                  "@media (--mobile)": {
+                    "column-gap": "8px",
+                    "flex-wrap": "nowrap",
+                    "row-gap": "8px"
+                  },
+                  "align-items": "flex-start",
+                  "column-gap": "16px",
+                  "flex-direction": "column",
+                  "flex-wrap": "nowrap",
+                  "justify-content": "flex-start",
+                  "row-gap": "16px"
+                },
                 "link": "shopline://products/16071344848284019680100195"
               },
               "blocks": {
@@ -244,7 +259,7 @@
         "1757324704569d152471": {
           "type": "$heading",
           "settings": {
-            "link": "shopline://collections/12271300679721655089760195",
+            "link": "",
             "link_text": "",
             "title": "Why Parents Love MUDJEAN"
           },
@@ -255,6 +270,7 @@
         "1757324704569d152471",
         "17573247045691981b50"
       ],
+      "custom_css": [],
       "name": "t:sections.text_columns_with_image.presets.presets_0.name"
     },
     "1757408051255910fc77": {
@@ -279,7 +295,7 @@
         },
         "spacing": {}
       },
-      "disabled": false,
+      "disabled": true,
       "blocks": {
         "17574080536618c5bf58": {
           "type": "group",
@@ -626,7 +642,9 @@
         },
         "featured-collection__product-list": {
           "type": "product-list/list",
-          "settings": {},
+          "settings": {
+            "mobile_enable_slider": true
+          },
           "blocks": {
             "featured-collection__product-list__card": {
               "type": "product-list/card",
@@ -700,7 +718,8 @@
       "block_order": [
         "featured-collection__heading-with-link",
         "featured-collection__product-list"
-      ]
+      ],
+      "custom_css": []
     },
     "image-banner": {
       "type": "image-banner",
