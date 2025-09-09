@@ -260,7 +260,7 @@
     "1757408051255910fc77": {
       "type": "custom-section",
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-4",
         "layout": {
           "@media (--mobile)": {
             "column-gap": "20px",
@@ -299,20 +299,46 @@
             "spacing": {}
           },
           "blocks": {
-            "1757408063411aeba35e": {
-              "type": "shopline://apps/商品评价/blocks/product-card-star/bd4a09d9-7542-4e11-931c-19fe441576aa",
-              "settings": {},
+            "1757408111085537d66f": {
+              "type": "shopline://apps/商品评价/blocks/comment-group/bd4a09d9-7542-4e11-931c-19fe441576aa",
+              "settings": {
+                "head_text_align": "left",
+                "isOpen_store_comment": false,
+                "isShow_btnWrite": true,
+                "isShow_productLink": true,
+                "mb_comment_num": "4",
+                "mb_header_size": "3",
+                "mb_turn_page": "2",
+                "padding_config": {
+                  "mobile": {
+                    "bottom": 0,
+                    "left": 0,
+                    "right": 0,
+                    "top": 0
+                  },
+                  "pc": {
+                    "bottom": 0,
+                    "left": 0,
+                    "right": 0,
+                    "top": 0
+                  }
+                },
+                "pc_comment_num": "8",
+                "pc_header_size": "3",
+                "pc_turn_page": "2"
+              },
               "blocks": {}
             }
           },
           "block_order": [
-            "1757408063411aeba35e"
+            "1757408111085537d66f"
           ]
         }
       },
       "block_order": [
         "17574080536618c5bf58"
       ],
+      "custom_css": [],
       "name": "t:sections.custom_section.presets.presets_0.name"
     },
     "blog": {
