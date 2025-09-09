@@ -248,38 +248,6 @@
         "17551612571161de69c8"
       ]
     },
-    "17574072747030a01603": {
-      "type": "apps",
-      "settings": {
-        "sync_margins_with_theme": true
-      },
-      "blocks": {
-        "17574072747032ec84cc": {
-          "type": "shopline://apps/商品评价/blocks/product-card-star/bd4a09d9-7542-4e11-931c-19fe441576aa",
-          "settings": {},
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "17574072747032ec84cc"
-      ]
-    },
-    "1757407508429e90f85b": {
-      "type": "apps",
-      "settings": {
-        "sync_margins_with_theme": true
-      },
-      "blocks": {
-        "17574075084293d3da53": {
-          "type": "shopline://apps/商品评价/blocks/product-card-star/bd4a09d9-7542-4e11-931c-19fe441576aa",
-          "settings": {},
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "17574075084293d3da53"
-      ]
-    },
     "17574075127353d1e8fc": {
       "type": "apps",
       "settings": {
@@ -654,10 +622,8 @@
   "order": [
     "main-product-info",
     "175516125711694704df",
-    "17574072747030a01603",
     "1755161232232fbc3705",
-    "recommended-product",
-    "1757407508429e90f85b",
-    "17574075127353d1e8fc"
+    "17574075127353d1e8fc",
+    "recommended-product"
   ]
 }
