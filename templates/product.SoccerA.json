@@ -307,6 +307,104 @@
         "17574072747032ec84cc"
       ]
     },
+    "175740749583913aef84": {
+      "type": "apps",
+      "settings": {
+        "sync_margins_with_theme": true
+      },
+      "blocks": {
+        "1757407495840a6d1762": {
+          "type": "shopline://apps/商品评价/blocks/comment-group/bd4a09d9-7542-4e11-931c-19fe441576aa",
+          "settings": {
+            "head_text_align": "left",
+            "isOpen_store_comment": false,
+            "isShow_btnWrite": true,
+            "isShow_productLink": true,
+            "mb_comment_num": "4",
+            "mb_header_size": "3",
+            "mb_turn_page": "2",
+            "padding_config": {
+              "mobile": {
+                "bottom": 0,
+                "left": 0,
+                "right": 0,
+                "top": 0
+              },
+              "pc": {
+                "bottom": 0,
+                "left": 0,
+                "right": 0,
+                "top": 0
+              }
+            },
+            "pc_comment_num": "8",
+            "pc_header_size": "3",
+            "pc_turn_page": "2"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "1757407495840a6d1762"
+      ]
+    },
+    "1757407508429e90f85b": {
+      "type": "apps",
+      "settings": {
+        "sync_margins_with_theme": true
+      },
+      "blocks": {
+        "17574075084293d3da53": {
+          "type": "shopline://apps/商品评价/blocks/product-card-star/bd4a09d9-7542-4e11-931c-19fe441576aa",
+          "settings": {},
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "17574075084293d3da53"
+      ]
+    },
+    "17574075127353d1e8fc": {
+      "type": "apps",
+      "settings": {
+        "sync_margins_with_theme": true
+      },
+      "blocks": {
+        "1757407512735cd47831": {
+          "type": "shopline://apps/商品评价/blocks/comment-list/bd4a09d9-7542-4e11-931c-19fe441576aa",
+          "settings": {
+            "head_text_align": "left",
+            "hide_component": false,
+            "mb_comment_num": "6",
+            "mb_header_size": "3",
+            "mb_turn_page": "2",
+            "mobile_sort_type": "1",
+            "padding_config": {
+              "mobile": {
+                "bottom": 0,
+                "left": 0,
+                "right": 0,
+                "top": 0
+              },
+              "pc": {
+                "bottom": 0,
+                "left": 0,
+                "right": 0,
+                "top": 0
+              }
+            },
+            "pc_comment_num": "12",
+            "pc_header_size": "3",
+            "pc_turn_page": "2",
+            "sort_by": "1"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "1757407512735cd47831"
+      ]
+    },
     "main-product-info": {
       "type": "main-product",
       "settings": {
@@ -643,6 +741,9 @@
     "1755763955381bd0280f",
     "17574072747030a01603",
     "1755161232232fbc3705",
-    "recommended-product"
+    "recommended-product",
+    "175740749583913aef84",
+    "1757407508429e90f85b",
+    "17574075127353d1e8fc"
   ]
 }
