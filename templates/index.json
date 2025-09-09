@@ -126,7 +126,7 @@
           "padding-inline-start": "0"
         }
       },
-      "disabled": false,
+      "disabled": true,
       "blocks": {
         "17573247045691981b50": {
           "type": "$card-group",
@@ -355,8 +355,8 @@
         "17574080536618c5bf58"
       ],
       "custom_css": [
-        ".default-title {font-color: white !important;}",
-        "svg {font-color: white !important;}"
+        ".default-title,.entry-arrow,.plugin-product-comment-commentSynthesize,.plugin-product-comment-arrow {color: white !important;}",
+        ".plugin-product-comment-infoWrap {background-color: white !important;}"
       ],
       "name": "t:sections.custom_section.presets.presets_0.name"
     },
