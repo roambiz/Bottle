@@ -248,49 +248,6 @@
         "17551612571161de69c8"
       ]
     },
-    "1755763955381bd0280f": {
-      "type": "apps",
-      "settings": {
-        "sync_margins_with_theme": true
-      },
-      "disabled": false,
-      "blocks": {
-        "175576395538275cb82c": {
-          "type": "shopline://apps/商品评价/blocks/comment-image-swiper/bd4a09d9-7542-4e11-931c-19fe441576aa",
-          "settings": {
-            "color_btn_background": "#FFFFFF",
-            "color_btn_text": "#000000",
-            "color_star": "#FFFFFF",
-            "color_text": "#FFFFFF",
-            "image_radio": "1",
-            "image_swiper_name_title": "",
-            "mb_comment_num": "1",
-            "padding_config": {
-              "mobile": {
-                "bottom": 0,
-                "left": 0,
-                "right": 0,
-                "top": 0
-              },
-              "pc": {
-                "bottom": 0,
-                "left": 0,
-                "right": 0,
-                "top": 0
-              }
-            },
-            "pc_comment_num": "5",
-            "range_radius": 20,
-            "swiper_title_text_color": "#000000",
-            "text_align": "center"
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "175576395538275cb82c"
-      ]
-    },
     "17574072747030a01603": {
       "type": "apps",
       "settings": {
@@ -305,47 +262,6 @@
       },
       "block_order": [
         "17574072747032ec84cc"
-      ]
-    },
-    "175740749583913aef84": {
-      "type": "apps",
-      "settings": {
-        "sync_margins_with_theme": true
-      },
-      "blocks": {
-        "1757407495840a6d1762": {
-          "type": "shopline://apps/商品评价/blocks/comment-group/bd4a09d9-7542-4e11-931c-19fe441576aa",
-          "settings": {
-            "head_text_align": "left",
-            "isOpen_store_comment": false,
-            "isShow_btnWrite": true,
-            "isShow_productLink": true,
-            "mb_comment_num": "4",
-            "mb_header_size": "3",
-            "mb_turn_page": "2",
-            "padding_config": {
-              "mobile": {
-                "bottom": 0,
-                "left": 0,
-                "right": 0,
-                "top": 0
-              },
-              "pc": {
-                "bottom": 0,
-                "left": 0,
-                "right": 0,
-                "top": 0
-              }
-            },
-            "pc_comment_num": "8",
-            "pc_header_size": "3",
-            "pc_turn_page": "2"
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "1757407495840a6d1762"
       ]
     },
     "1757407508429e90f85b": {
@@ -738,11 +654,9 @@
   "order": [
     "main-product-info",
     "175516125711694704df",
-    "1755763955381bd0280f",
     "17574072747030a01603",
     "1755161232232fbc3705",
     "recommended-product",
-    "175740749583913aef84",
     "1757407508429e90f85b",
     "17574075127353d1e8fc"
   ]
