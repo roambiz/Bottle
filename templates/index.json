@@ -354,10 +354,7 @@
       "block_order": [
         "17574080536618c5bf58"
       ],
-      "custom_css": [
-        ".default-title,.entry-arrow,.plugin-product-comment-commentSynthesize,.plugin-product-comment-arrow {color: white !important;}",
-        ".plugin-product-comment-infoWrap {background-color: white !important;}"
-      ],
+      "custom_css": [],
       "name": "t:sections.custom_section.presets.presets_0.name"
     },
     "blog": {
