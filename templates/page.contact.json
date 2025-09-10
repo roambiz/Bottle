@@ -81,7 +81,7 @@
     "form": {
       "type": "contact-form",
       "settings": {
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-1",
         "size": {
           "@media (--mobile)": {
             "height": "auto",
@@ -103,7 +103,9 @@
       },
       "disabled": false,
       "blocks": {},
-      "custom_css": []
+      "custom_css": [
+        ".contact-form {background-color: rgb(var(--color-background))!important;}"
+      ]
     },
     "main-page": {
       "type": "main-page",
