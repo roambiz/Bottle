@@ -161,7 +161,7 @@
                 "1756087446472511209d": {
                   "type": "$collapsible-panel",
                   "settings": {
-                    "content": "Our customer service team is available \u003cstrong\u003eMonday to Friday, 8:30 am to 5:30 pm (Shanghai time)\u003c/strong\u003e. If you have any questions during the shopping process, you can communicate with us online during these working hours.",
+                    "content": "Our customer service team is available \u003cstrong\u003eMonday to Friday, 8:30 am to 5:30 pm (GMT+8 time zone)\u003c/strong\u003e. If you have any questions during the shopping process, you can communicate with us online during these working hours.",
                     "icon": "chat_bubble",
                     "title": "How can I communicate with customer service online?"
                   },
