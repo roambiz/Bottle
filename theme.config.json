@@ -65,34 +65,17 @@
       },
       "sections": {},
       "blocks": {
-        "17574698131800b99d2d": {
+        "17574707722065224e4d": {
           "type": "shopline://apps/商品评价/blocks/comment-structure/bd4a09d9-7542-4e11-931c-19fe441576aa",
           "settings": {},
           "disabled": false
         },
-        "175746981318015c520a": {
+        "175747077220676fe6ad": {
           "type": "shopline://apps/EasyRank SEO All-in-one/blocks/app_embed_block/61323553-618d-4754-80da-829c681c52ab",
           "settings": {},
           "disabled": false
         },
-        "1757469813180318ed2b": {
-          "type": "shopline://apps/商品评价/blocks/comment-pop/bd4a09d9-7542-4e11-931c-19fe441576aa",
-          "settings": {},
-          "disabled": true
-        },
-        "175746981318043d6208": {
-          "type": "shopline://apps/EasyRank SEO All-in-one/blocks/easyrank_404_monitor/61323553-618d-4754-80da-829c681c52ab",
-          "settings": {},
-          "disabled": false
-        },
-        "17574698131805d82d20": {
-          "type": "shopline://apps/商品评价/blocks/app_embed_block/bd4a09d9-7542-4e11-931c-19fe441576aa",
-          "settings": {
-            "comment_html": ""
-          },
-          "disabled": false
-        },
-        "1757469813180e324ce9": {
+        "175747077220686ce3a9": {
           "type": "shopline://apps/GDPR-隐私弹窗/blocks/gdpr-embeded-app-block/99b5bc7b-5971-4b60-8372-dc63df1cde73",
           "settings": {
             "banner_color": "#FFFFFF",
@@ -116,6 +99,23 @@
             "title_size": 16
           },
           "disabled": false
+        },
+        "17574707722069138041": {
+          "type": "shopline://apps/商品评价/blocks/app_embed_block/bd4a09d9-7542-4e11-931c-19fe441576aa",
+          "settings": {
+            "comment_html": ""
+          },
+          "disabled": true
+        },
+        "175747077220698f6267": {
+          "type": "shopline://apps/EasyRank SEO All-in-one/blocks/easyrank_404_monitor/61323553-618d-4754-80da-829c681c52ab",
+          "settings": {},
+          "disabled": false
+        },
+        "1757470772206dee042a": {
+          "type": "shopline://apps/商品评价/blocks/comment-pop/bd4a09d9-7542-4e11-931c-19fe441576aa",
+          "settings": {},
+          "disabled": true
         }
       }
     }
