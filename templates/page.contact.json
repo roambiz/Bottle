@@ -104,7 +104,7 @@
       "disabled": false,
       "blocks": {},
       "custom_css": [
-        ".contact-form {background-color: rgb(var(--color-background))!important;}"
+        ".contact-form {background-color: #f0f4fa !important;}"
       ]
     },
     "main-page": {
