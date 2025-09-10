@@ -170,7 +170,7 @@
                 "17560874464728e5648f": {
                   "type": "$collapsible-panel",
                   "settings": {
-                    "content": "After a successful payment, you will receive an email with your order information. If you provided an email address during the payment process, you will be automatically registered as a user. You can log in to our website using your email address to view your order. Alternatively, you can also register for a new account before making a payment.",
+                    "content": "After a successful payment, you will receive an email with your order information. If you provided an email address during the payment process, you will be automatically registered as a user. You can \u003ca id=\"17574957179284\" href=\"/user/center\" target=\"_self\" data-link=\"{\u0026quot;pageType\u0026quot;:13,\u0026quot;value\u0026quot;:\u0026quot;user/center\u0026quot;,\u0026quot;linkType\u0026quot;:\u0026quot;select\u0026quot;,\u0026quot;label\u0026quot;:\u0026quot;个人中心页\u0026quot;}\"\u003elog in to our website\u003c/a\u003e using your email address to view your order. Alternatively, you can also register for a new account before making a payment.",
                     "icon": "chat_bubble",
                     "title": "How can I view my order?"
                   },
