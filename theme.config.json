@@ -65,34 +65,24 @@
       },
       "sections": {},
       "blocks": {
-        "17557637525560dc038b": {
+        "17574692993570480267": {
           "type": "shopline://apps/商品评价/blocks/comment-structure/bd4a09d9-7542-4e11-931c-19fe441576aa",
+          "settings": {},
+          "disabled": false
+        },
+        "1757469299357f077875": {
+          "type": "shopline://apps/商品评价/blocks/comment-pop/bd4a09d9-7542-4e11-931c-19fe441576aa",
           "settings": {},
           "disabled": true
         },
-        "17557637525565ae98f1": {
+        "17574692993581729f64": {
           "type": "shopline://apps/商品评价/blocks/app_embed_block/bd4a09d9-7542-4e11-931c-19fe441576aa",
           "settings": {
             "comment_html": ""
           },
           "disabled": false
         },
-        "175576375255693f7fc4": {
-          "type": "shopline://apps/EasyRank SEO All-in-one/blocks/easyrank_404_monitor/61323553-618d-4754-80da-829c681c52ab",
-          "settings": {},
-          "disabled": false
-        },
-        "1755763752556ca954f1": {
-          "type": "shopline://apps/商品评价/blocks/comment-pop/bd4a09d9-7542-4e11-931c-19fe441576aa",
-          "settings": {},
-          "disabled": true
-        },
-        "1755763752556eff97ff": {
-          "type": "shopline://apps/EasyRank SEO All-in-one/blocks/app_embed_block/61323553-618d-4754-80da-829c681c52ab",
-          "settings": {},
-          "disabled": false
-        },
-        "175576375255778c45f1": {
+        "1757469299358359ea04": {
           "type": "shopline://apps/GDPR-隐私弹窗/blocks/gdpr-embeded-app-block/99b5bc7b-5971-4b60-8372-dc63df1cde73",
           "settings": {
             "banner_color": "#FFFFFF",
@@ -115,6 +105,16 @@
             "title_color": "#000000",
             "title_size": 16
           },
+          "disabled": false
+        },
+        "1757469299358cdcdeda": {
+          "type": "shopline://apps/EasyRank SEO All-in-one/blocks/easyrank_404_monitor/61323553-618d-4754-80da-829c681c52ab",
+          "settings": {},
+          "disabled": false
+        },
+        "1757469299358d0aa19f": {
+          "type": "shopline://apps/EasyRank SEO All-in-one/blocks/app_embed_block/61323553-618d-4754-80da-829c681c52ab",
+          "settings": {},
           "disabled": false
         }
       }
