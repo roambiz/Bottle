@@ -196,11 +196,22 @@
                   },
                   "blocks": {},
                   "block_order": []
+                },
+                "17574952383249c85baa": {
+                  "type": "$collapsible-panel",
+                  "settings": {
+                    "content": "We ship all orders directly from our facility in China to the U.S. via our trusted partner, 4PX. You can typically expect your order to arrive within 10 days. All applicable taxes and shipping costs will be calculated and added at checkout for a seamless delivery experience. \u003ca id=\"17574951291372\" href=\"/policies/shipping-policy\" target=\"_self\" data-link=\"{\u0026quot;pageType\u0026quot;:5,\u0026quot;value\u0026quot;:\u0026quot;/policies/shipping-policy\u0026quot;,\u0026quot;linkType\u0026quot;:\u0026quot;select\u0026quot;,\u0026quot;label\u0026quot;:\u0026quot;发货政策\u0026quot;}\"\u003eSee our Shipping Policy for all shipping details.\u003c/a\u003e",
+                    "icon": "chat_bubble",
+                    "title": "Can I change or cancel my order after I've placed it?"
+                  },
+                  "blocks": {},
+                  "block_order": []
                 }
               },
               "block_order": [
                 "1756087446472511209d",
                 "1757494736658f8363bd",
+                "17574952383249c85baa",
                 "1756087446472110b1cd",
                 "17560874464728e5648f",
                 "1756087446472b6bbf6c"
