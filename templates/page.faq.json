@@ -151,7 +151,7 @@
                 "1756087446472110b1cd": {
                   "type": "$collapsible-panel",
                   "settings": {
-                    "content": "\u003cp\u003eCurrently, we have a limited number of payment methods available. However, we \u003cstrong\u003eplan\u003c/strong\u003e to add more payment options in the future.\u003c/p\u003e",
+                    "content": "\u003cp\u003eCurrently, we have a limited number of \u003ca id=\"17574943265491\" href=\"/pages/payment-method\" target=\"_self\" data-link=\"{\u0026quot;pageType\u0026quot;:3,\u0026quot;value\u0026quot;:\u0026quot;payment-method\u0026quot;,\u0026quot;linkType\u0026quot;:\u0026quot;select\u0026quot;,\u0026quot;label\u0026quot;:\u0026quot;Payment Method\u0026quot;}\"\u003epayment methods\u003c/a\u003e available. However, we \u003cstrong\u003eplan\u003c/strong\u003e to add more payment options in the future.\u003c/p\u003e",
                     "icon": "chat_bubble",
                     "title": "Can I only use PayPal for payment?"
                   },
