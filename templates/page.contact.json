@@ -76,13 +76,12 @@
         "17574910473088044c13",
         "175749104730827f8e3d"
       ],
-      "custom_css": [],
       "name": "t:sections.image_with_text.presets.presets_0.name"
     },
     "form": {
       "type": "contact-form",
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-3",
         "size": {
           "@media (--mobile)": {
             "height": "auto",
