@@ -161,7 +161,7 @@
                 "1756087446472511209d": {
                   "type": "$collapsible-panel",
                   "settings": {
-                    "content": "Our customer service team is available \u003cstrong\u003eMonday to Friday, 8:30 am to 5:30 pm (GMT+8 time zone)\u003c/strong\u003e. If you have any questions during the shopping process, you can communicate with us online during these working hours.",
+                    "content": "Our customer service team is available \u003cstrong\u003eMonday to Friday, 8:30 am to 5:30 pm (GMT+8 time zone)\u003c/strong\u003e. If you have any questions during the shopping process, you can \u003ca id=\"17574940694041\" href=\"/pages/contact\" target=\"_self\" data-link=\"{\u0026quot;pageType\u0026quot;:3,\u0026quot;value\u0026quot;:\u0026quot;contact\u0026quot;,\u0026quot;linkType\u0026quot;:\u0026quot;select\u0026quot;,\u0026quot;label\u0026quot;:\u0026quot;Contact\u0026quot;}\"\u003ecommunicate with us online\u003c/a\u003e during these working hours.",
                     "icon": "chat_bubble",
                     "title": "How can I communicate with customer service online?"
                   },
