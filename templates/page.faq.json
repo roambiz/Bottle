@@ -206,6 +206,16 @@
                   },
                   "blocks": {},
                   "block_order": []
+                },
+                "17574973198435cc557f": {
+                  "type": "$collapsible-panel",
+                  "settings": {
+                    "content": "We know finding the right size can be tricky! To help you choose with confidence, we've created a detailed \u003ca id=\"17574975447896\" href=\"/pages/size-chart\" target=\"_self\" data-link=\"{\u0026quot;pageType\u0026quot;:3,\u0026quot;value\u0026quot;:\u0026quot;size-chart\u0026quot;,\u0026quot;linkType\u0026quot;:\u0026quot;select\u0026quot;,\u0026quot;label\u0026quot;:\u0026quot;Size Chart\u0026quot;}\"\u003esize chart\u003c/a\u003e along with some helpful tips. We highly recommend using this guide to find the perfect fit.",
+                    "icon": "chat_bubble",
+                    "title": "How do I find the right size for my child?"
+                  },
+                  "blocks": {},
+                  "block_order": []
                 }
               },
               "block_order": [
@@ -214,7 +224,8 @@
                 "17574952383249c85baa",
                 "1756087446472110b1cd",
                 "17560874464728e5648f",
-                "1756087446472b6bbf6c"
+                "1756087446472b6bbf6c",
+                "17574973198435cc557f"
               ]
             }
           },
