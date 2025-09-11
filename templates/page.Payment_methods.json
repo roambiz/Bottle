@@ -110,7 +110,7 @@
             "1757574386618aff940d": {
               "type": "rich-text",
               "settings": {
-                "content": "While PayPal is our payment processor, you do not need a PayPal account to complete your purchase. We accept all major credit and debit cards through the PayPal gateway. Simply select the 'Pay with Debit or Credit Card' option on the PayPal checkout page. We proudly accept the following cards:",
+                "content": "\u003cp\u003eWhile PayPal is our payment processor, you do not need a PayPal account to complete your purchase. We accept all major credit and debit cards through the PayPal gateway.\u003c/p\u003e\n\u003cp\u003eSimply select the 'Pay with Debit or Credit Card' option on the PayPal checkout page. We proudly accept the following cards:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003ePayPal\u003c/li\u003e\n\u003cli\u003eAmerican Express\u003c/li\u003e\n\u003cli\u003eDiners Club\u003c/li\u003e\n\u003cli\u003eDiscover\u003c/li\u003e\n\u003cli\u003eMasterCard\u003c/li\u003e\n\u003cli\u003eVISA\u003c/li\u003e\n\u003c/ul\u003e",
                 "size": {
                   "height": "auto",
                   "width": "100%"
