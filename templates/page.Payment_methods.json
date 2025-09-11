@@ -151,7 +151,7 @@
             "175757453781838ac891": {
               "type": "rich-text",
               "settings": {
-                "content": "\u003col\u003e\n\u003cli\u003eProceed to checkout with the items in your cart.\u003c/li\u003e\n\u003cli\u003eYou will be redirected to PayPal's secure payment page.\u003c/li\u003e\n\u003cli\u003eYou can either log in to your PayPal account OR select the option to 'Pay with Debit or Credit Card' to enter your card details as a guest.\u003c/li\u003e\n\u003cli\u003eComplete your purchase securely.\u003c/li\u003e\n\u003c/ol\u003e",
+                "content": "\u003col\u003e\n\u003cli\u003eProceed to checkout with the items in your cart.\u003c/li\u003e\n\u003cli\u003eYou will be redirected to PayPal's secure payment page.\u003c/li\u003e\n\u003cli\u003eYou can either log in to your PayPal account OR select the option to 'Pay with Debit or Credit Card' to enter your card details as a guest.\u003c/li\u003e\n\u003cli\u003eComplete your purchase securely.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cbr\u003ePrivacy Guaranteed: We do not store your credit card details on our servers. Your payment information is handled directly by PayPal.If you have any questions about our payment process, please do not hesitate to contact our customer service team.",
                 "size": {
                   "height": "auto",
                   "width": "100%"
