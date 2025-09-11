@@ -1,8 +1,208 @@
 {
   "sections": {
+    "1757574269799959dcef": {
+      "type": "custom-section",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "row-gap": "20px"
+          },
+          "align-items": "center",
+          "column-gap": "32px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "32px"
+        },
+        "size": {
+          "height": "auto",
+          "width": "100%"
+        },
+        "spacing": {}
+      },
+      "disabled": false,
+      "blocks": {
+        "17575742718167accd31": {
+          "type": "group",
+          "settings": {
+            "layout": {
+              "align-items": "center",
+              "column-gap": "32px",
+              "flex-direction": "column",
+              "flex-wrap": "nowrap",
+              "justify-content": "center",
+              "row-gap": "32px"
+            },
+            "size": {
+              "height": "auto",
+              "width": "100%"
+            },
+            "spacing": {}
+          },
+          "blocks": {
+            "1757574278970389e843": {
+              "type": "heading",
+              "settings": {
+                "text": "Secure Payments Processed by PayPal",
+                "text_align": "left",
+                "text_size": "title4"
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "17575742954620848370": {
+              "type": "rich-text",
+              "settings": {
+                "content": "All of our online transactions are securely processed through PayPal, one of the world's most trusted payment gateways. This ensures that your financial details are encrypted and protected at all times. You can shop with confidence knowing your data is safe.",
+                "size": {
+                  "height": "auto",
+                  "width": "100%"
+                },
+                "spacing": {
+                  "padding-bottom": "0px",
+                  "padding-left": "0px",
+                  "padding-right": "0px",
+                  "padding-top": "0px"
+                },
+                "text_align": "left"
+              },
+              "blocks": {},
+              "block_order": []
+            }
+          },
+          "block_order": [
+            "1757574278970389e843",
+            "17575742954620848370"
+          ]
+        },
+        "1757574273036a55f145": {
+          "type": "group",
+          "settings": {
+            "layout": {
+              "align-items": "center",
+              "column-gap": "32px",
+              "flex-direction": "column",
+              "flex-wrap": "nowrap",
+              "justify-content": "center",
+              "row-gap": "32px"
+            },
+            "size": {
+              "height": "auto",
+              "width": "100%"
+            },
+            "spacing": {}
+          },
+          "blocks": {
+            "175757431337418613e5": {
+              "type": "rich-text",
+              "settings": {
+                "content": "We prioritize your security and convenience. We have streamlined our checkout process to ensure your payment is safe, secure, and simple.",
+                "size": {
+                  "height": "auto",
+                  "width": "100%"
+                },
+                "spacing": {
+                  "padding-bottom": "0px",
+                  "padding-left": "0px",
+                  "padding-right": "0px",
+                  "padding-top": "0px"
+                },
+                "text_align": "center"
+              },
+              "blocks": {},
+              "block_order": []
+            }
+          },
+          "block_order": [
+            "175757431337418613e5"
+          ]
+        },
+        "17575743866185584248": {
+          "type": "group",
+          "settings": {
+            "layout": {
+              "align-items": "center",
+              "column-gap": "32px",
+              "flex-direction": "column",
+              "flex-wrap": "nowrap",
+              "justify-content": "center",
+              "row-gap": "32px"
+            },
+            "size": {
+              "height": "auto",
+              "width": "100%"
+            },
+            "spacing": {}
+          },
+          "blocks": {
+            "1757574386618aff940d": {
+              "type": "rich-text",
+              "settings": {
+                "content": "While PayPal is our payment processor, you do not need a PayPal account to complete your purchase. We accept all major credit and debit cards through the PayPal gateway. Simply select the 'Pay with Debit or Credit Card' option on the PayPal checkout page. We proudly accept the following cards:",
+                "size": {
+                  "height": "auto",
+                  "width": "100%"
+                },
+                "spacing": {
+                  "padding-bottom": "0px",
+                  "padding-left": "0px",
+                  "padding-right": "0px",
+                  "padding-top": "0px"
+                },
+                "text_align": "left"
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "1757574386618b0497b7": {
+              "type": "heading",
+              "settings": {
+                "text": "Pay with Your Preferred Card — No PayPal Account Needed",
+                "text_align": "left",
+                "text_size": "title4"
+              },
+              "blocks": {},
+              "block_order": []
+            }
+          },
+          "block_order": [
+            "1757574386618b0497b7",
+            "1757574386618aff940d"
+          ]
+        }
+      },
+      "block_order": [
+        "1757574273036a55f145",
+        "17575742718167accd31",
+        "17575743866185584248"
+      ],
+      "custom_css": [],
+      "name": "t:sections.custom_section.presets.presets_0.name"
+    },
     "main-page": {
-      "type": "main-page"
+      "type": "main-page",
+      "settings": {
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-bottom": "40px",
+            "padding-left": "0",
+            "padding-right": "0",
+            "padding-top": "40px"
+          },
+          "padding-bottom": "80px",
+          "padding-left": "210px",
+          "padding-right": "210px",
+          "padding-top": "80px"
+        }
+      },
+      "disabled": false,
+      "blocks": {}
     }
   },
-  "order": ["main-page"]
+  "order": [
+    "main-page",
+    "1757574269799959dcef"
+  ]
 }
