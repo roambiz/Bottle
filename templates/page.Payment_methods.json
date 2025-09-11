@@ -28,6 +28,8 @@
             "padding-inline-end": "20px",
             "padding-inline-start": "20px"
           },
+          "padding-block-end": "60px",
+          "padding-block-start": "60px",
           "padding-inline-end": "80px",
           "padding-inline-start": "80px"
         }
