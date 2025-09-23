@@ -253,6 +253,7 @@
       "settings": {
         "sync_margins_with_theme": true
       },
+      "disabled": false,
       "blocks": {
         "1757407512735cd47831": {
           "type": "shopline://apps/商品评价/blocks/comment-list/bd4a09d9-7542-4e11-931c-19fe441576aa",
@@ -359,7 +360,7 @@
               "type": "product/detail-additional",
               "settings": {
                 "custom_page": "7124649019058450283",
-                "description": "100% Polyester Fabric",
+                "description": "Polyester Fabric",
                 "enabled_fold": true,
                 "icon": "mudjean-texture",
                 "title": "Fabric"
@@ -491,7 +492,8 @@
       "block_order": [
         "media-group",
         "info"
-      ]
+      ],
+      "custom_css": []
     },
     "recommended-product": {
       "type": "recommended-product",

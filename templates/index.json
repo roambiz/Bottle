@@ -95,184 +95,6 @@
         "17561734459114fa6453"
       ]
     },
-    "1757324704568f4a6d43": {
-      "type": "text-columns-with-image",
-      "settings": {
-        "color_scheme": "scheme-4",
-        "layout": {
-          "@media (--mobile)": {
-            "column-gap": "20px",
-            "row-gap": "20px"
-          },
-          "align-items": "center",
-          "column-gap": "30px",
-          "flex-direction": "column",
-          "flex-wrap": "nowrap",
-          "justify-content": "center",
-          "row-gap": "30px"
-        },
-        "size": {
-          "height": "auto",
-          "width": "100%"
-        },
-        "spacing": {
-          "@media (--mobile)": {
-            "padding-block-end": "24px",
-            "padding-block-start": "24px"
-          },
-          "padding-block-end": "80px",
-          "padding-block-start": "80px",
-          "padding-inline-end": "0",
-          "padding-inline-start": "0"
-        }
-      },
-      "disabled": false,
-      "blocks": {
-        "17573247045691981b50": {
-          "type": "$card-group",
-          "settings": {
-            "desktop_columns": "3"
-          },
-          "blocks": {
-            "175732470456986da732": {
-              "type": "$card",
-              "settings": {
-                "button_text": "Shop the Look",
-                "layout": {
-                  "@media (--mobile)": {
-                    "column-gap": "8px",
-                    "flex-wrap": "nowrap",
-                    "row-gap": "8px"
-                  },
-                  "align-items": "flex-start",
-                  "column-gap": "16px",
-                  "flex-direction": "column",
-                  "flex-wrap": "nowrap",
-                  "justify-content": "flex-start",
-                  "row-gap": "16px"
-                },
-                "link": "shopline://products/16071344848284019680100195"
-              },
-              "blocks": {
-                "17573247045698ccdc4c": {
-                  "type": "$text",
-                  "settings": {
-                    "text": "\u003cp\u003eThis is a nice jersey. Got this for my daughter and it fits her perfectly well. She is 9 years old but wears size 14 so this was the perfect size. The color is nice and she said it feels comfortable on her. The material is also a nice material and looks well made. Great gift for someone that is into sport. \u0026nbsp;–– Blessed Hands\u003c/p\u003e"
-                  },
-                  "blocks": {}
-                },
-                "1757324704569bf90f04": {
-                  "type": "$title",
-                  "settings": {},
-                  "disabled": true,
-                  "blocks": {}
-                },
-                "1757324704569e9f6675": {
-                  "type": "$image",
-                  "settings": {
-                    "image": "shopline://shop_images/What customers say-1.png"
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "1757324704569e9f6675",
-                "1757324704569bf90f04",
-                "17573247045698ccdc4c"
-              ]
-            },
-            "175732470456997b9498": {
-              "type": "$card",
-              "settings": {
-                "button_text": "Shop the Look",
-                "link": "shopline://products/16071230914312001326450195"
-              },
-              "blocks": {
-                "17573247045695ce2f3a": {
-                  "type": "$image",
-                  "settings": {
-                    "image": "shopline://shop_images/What customers say-2.png"
-                  },
-                  "blocks": {}
-                },
-                "1757324704569cabe891": {
-                  "type": "$title",
-                  "settings": {},
-                  "disabled": true,
-                  "blocks": {}
-                },
-                "1757324704569f942cbe": {
-                  "type": "$text",
-                  "settings": {
-                    "text": "This set is absolutely adorable! The material is thin, lightweight, and soft...the print and colors are perfect! Easy to wear and seems durable. The set is true to size, each piece works well and can also be mixed/matched with solid alternatives. Great choice! –– Sean P. Ford"
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "17573247045695ce2f3a",
-                "1757324704569cabe891",
-                "1757324704569f942cbe"
-              ]
-            },
-            "1757324704569d51d8fe": {
-              "type": "$card",
-              "settings": {
-                "button_text": "Shop the Look",
-                "link": "shopline://products/16071432476948022297010195"
-              },
-              "blocks": {
-                "1757324704569b45a8d6": {
-                  "type": "$text",
-                  "settings": {
-                    "text": "Awesome set and value! Nice quality and good sizing! My son was very happy with this gift! Fit my ten year old as expected with age sizing! Bright coloring. –– Julia Jane"
-                  },
-                  "blocks": {}
-                },
-                "1757324704569d4dcae2": {
-                  "type": "$title",
-                  "settings": {},
-                  "disabled": true,
-                  "blocks": {}
-                },
-                "1757324704569dbf2168": {
-                  "type": "$image",
-                  "settings": {
-                    "image": "shopline://shop_images/What customers say-3.png"
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "1757324704569dbf2168",
-                "1757324704569d4dcae2",
-                "1757324704569b45a8d6"
-              ]
-            }
-          },
-          "block_order": [
-            "175732470456986da732",
-            "175732470456997b9498",
-            "1757324704569d51d8fe"
-          ]
-        },
-        "1757324704569d152471": {
-          "type": "$heading",
-          "settings": {
-            "link": "",
-            "link_text": "",
-            "title": "Why Parents Love MUDJEAN"
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "1757324704569d152471",
-        "17573247045691981b50"
-      ],
-      "custom_css": [],
-      "name": "t:sections.text_columns_with_image.presets.presets_0.name"
-    },
     "1757408051255910fc77": {
       "type": "custom-section",
       "settings": {
@@ -376,7 +198,6 @@
       "block_order": [
         "17574080536618c5bf58"
       ],
-      "custom_css": [],
       "name": "t:sections.custom_section.presets.presets_0.name"
     },
     "blog": {
@@ -725,8 +546,7 @@
       "block_order": [
         "featured-collection__heading-with-link",
         "featured-collection__product-list"
-      ],
-      "custom_css": []
+      ]
     },
     "image-banner": {
       "type": "image-banner",
@@ -1333,7 +1153,6 @@
     "video",
     "1756173445910058f6a6",
     "1757408051255910fc77",
-    "1757324704568f4a6d43",
     "featured-collection",
     "image-banner",
     "blog",
