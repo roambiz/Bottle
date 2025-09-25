@@ -68,7 +68,7 @@
             "1756978566601a002564": {
               "type": "$rich-text",
               "settings": {
-                "content": "\u003cp dir=\"auto\"\u003eWe believe every child is a natural explorer. From muddy soccer fields to running under the sun, our children's sportswear draws inspiration from these innocent moments. Founded in 2024, Mudjean is dedicated to providing durable, comfortable, and stylish athletic gear for kids aged 2-14, using high-performance fabrics like bird's eye mesh polyester to ensure they can play freely without restrictions.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eOur mission: Make sports fun, not a burden. Through sustainable materials and innovative designs, we help parents choose reliable companions for their children. Whether it's a family soccer game or daily activities, Mudjean accompanies every step of growth—because joy starts from the mud!\u003c/p\u003e"
+                "content": "\u003cp dir=\"auto\"\u003eWe believe every child is a natural explorer. From muddy soccer fields to sunny park runs, our children's sportswear is inspired by these joyful moments of play. Launched in 2024, Mudjean was born from a simple mission: to make sports fun for kids, not a burden.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eOur mission: Make sports fun, not a burden. Through sustainable materials and innovative designs, we help parents choose reliable companions for their children. Whether it's a family soccer game or daily activities, Mudjean accompanies every step of growth—because joy starts from the mud!\u003c/p\u003e"
               },
               "blocks": {}
             },
@@ -108,7 +108,8 @@
       "block_order": [
         "1756978566601829cc8b",
         "17569785666011d53194"
-      ]
+      ],
+      "custom_css": []
     },
     "175732028466647c19f3": {
       "type": "image-with-text",
@@ -152,7 +153,7 @@
         "175732028466680db934": {
           "type": "$image",
           "settings": {},
-          "disabled": true,
+          "disabled": false,
           "blocks": {}
         },
         "1757320284666e7fba91": {
@@ -175,7 +176,7 @@
             "175732028466605ee4ea": {
               "type": "$rich-text",
               "settings": {
-                "content": "\u003cp dir=\"auto\"\u003eQUANZHOU MUJIANE COMMERCE CO., LTD. is a vertically integrated manufacturer and trader specializing in children's apparel. Under our brand, MUDJEAN, we operate on a Direct-to-Consumer (DTC) model, allowing us to deliver high-quality, factory-direct sportswear for kids straight to your family.\u003c/p\u003e"
+                "content": "Your child's well-being is our highest priority. That's why the core fabrics in our apparel are certified by \u003cstrong\u003eOEKO-TEX® STANDARD 100,\u003c/strong\u003e one of the world's most trusted labels for textiles tested for harmful substances. This certification guarantees that every thread is safe for sensitive skin, giving you complete peace of mind.We combine this commitment to safety with high-performance materials, like our breathable bird's eye mesh polyester, to create durable and comfortable athletic gear for kids aged 2-14."
               },
               "blocks": {}
             },
@@ -192,7 +193,7 @@
             "1757320284666a188149": {
               "type": "$heading",
               "settings": {
-                "heading": "QUANZHOU MUJIANE COMMERCE CO., LTD."
+                "heading": "Our Commitment to Safety \u0026 Quality"
               },
               "blocks": {}
             },
@@ -218,13 +219,14 @@
       "block_order": [
         "175732028466680db934",
         "1757320284666e7fba91"
-      ]
+      ],
+      "custom_css": []
     },
     "1758791355730399080e": {
       "type": "custom-html",
       "settings": {
-        "color_scheme": "scheme-3",
-        "html": "\u003ch2 class=\"image-with-text__heading title3 text-left\"\u003e\r\n    Factory Gallery\r\n\u003c/h2\u003e\r\n\u003cdiv style=\"display: flex; flex-wrap: wrap; gap: 8px;\"\u003e\r\n\r\n    \u003cdiv style=\"flex: 1 1 calc(33.333% - 6px); box-sizing: border-box;\"\u003e\r\n        \u003cimg src=\"https://img-va.myshopline.com/image/store/1754883979727/mudjean-factory-1-(1).jpg\" alt=\"Mudjean Factory Image 1\" style=\"width: 100%; height: auto; display: block; border-radius: 4px;\"\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv style=\"flex: 1 1 calc(33.333% - 6px); box-sizing: border-box;\"\u003e\r\n        \u003cimg src=\"https://img-va.myshopline.com/image/store/1754883979727/mudjean-factory-1-(2).jpg\" alt=\"Mudjean Factory Image 2\" style=\"width: 100%; height: auto; display: block; border-radius: 4px;\"\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv style=\"flex: 1 1 calc(33.333% - 6px); box-sizing: border-box;\"\u003e\r\n        \u003cimg src=\"https://img-va.myshopline.com/image/store/1754883979727/mudjean-factory-1-(3).jpg\" alt=\"Mudjean Factory Image 3\" style=\"width: 100%; height: auto; display: block; border-radius: 4px;\"\u003e\r\n    \u003c/div\u003e\r\n\r\n    \u003cdiv style=\"flex: 1 1 calc(33.333% - 6px); box-sizing: border-box;\"\u003e\r\n        \u003cimg src=\"https://img-va.myshopline.com/image/store/1754883979727/mudjean-factory-1-(4).jpg\" alt=\"Mudjean Factory Image 4\" style=\"width: 100%; height: auto; display: block; border-radius: 4px;\"\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv style=\"flex: 1 1 calc(33.333% - 6px); box-sizing: border-box;\"\u003e\r\n        \u003cimg src=\"https://img-va.myshopline.com/image/store/1754883979727/mudjean-factory-1-(5).jpg\" alt=\"Mudjean Factory Image 5\" style=\"width: 100%; height: auto; display: block; border-radius: 4px;\"\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv style=\"flex: 1 1 calc(33.333% - 6px); box-sizing: border-box;\"\u003e\r\n        \u003cimg src=\"https://img-va.myshopline.com/image/store/1754883979727/mudjean-factory-1-(6).jpg\" alt=\"Mudjean Factory Image 6\" style=\"width: 100%; height: auto; display: block; border-radius: 4px;\"\u003e\r\n    \u003c/div\u003e\r\n\r\n\u003c/div\u003e",
+        "color_scheme": "scheme-1",
+        "html": "\u003cdiv style=\"display: flex; flex-wrap: wrap; gap: 8px;\"\u003e\u003c/p\u003e\r\n\r\n    \u003cdiv style=\"flex: 1 1 calc(33.333% - 6px); box-sizing: border-box;\"\u003e\r\n        \u003cimg src=\"https://img-va.myshopline.com/image/store/1754883979727/mudjean-factory-1-(1).jpg\" alt=\"Mudjean Factory Image 1\" style=\"width: 100%; height: auto; display: block; border-radius: 4px;\"\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv style=\"flex: 1 1 calc(33.333% - 6px); box-sizing: border-box;\"\u003e\r\n        \u003cimg src=\"https://img-va.myshopline.com/image/store/1754883979727/mudjean-factory-1-(2).jpg\" alt=\"Mudjean Factory Image 2\" style=\"width: 100%; height: auto; display: block; border-radius: 4px;\"\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv style=\"flex: 1 1 calc(33.333% - 6px); box-sizing: border-box;\"\u003e\r\n        \u003cimg src=\"https://img-va.myshopline.com/image/store/1754883979727/mudjean-factory-1-(3).jpg\" alt=\"Mudjean Factory Image 3\" style=\"width: 100%; height: auto; display: block; border-radius: 4px;\"\u003e\r\n    \u003c/div\u003e\r\n\r\n    \u003cdiv style=\"flex: 1 1 calc(33.333% - 6px); box-sizing: border-box;\"\u003e\r\n        \u003cimg src=\"https://img-va.myshopline.com/image/store/1754883979727/mudjean-factory-1-(4).jpg\" alt=\"Mudjean Factory Image 4\" style=\"width: 100%; height: auto; display: block; border-radius: 4px;\"\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv style=\"flex: 1 1 calc(33.333% - 6px); box-sizing: border-box;\"\u003e\r\n        \u003cimg src=\"https://img-va.myshopline.com/image/store/1754883979727/mudjean-factory-1-(5).jpg\" alt=\"Mudjean Factory Image 5\" style=\"width: 100%; height: auto; display: block; border-radius: 4px;\"\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv style=\"flex: 1 1 calc(33.333% - 6px); box-sizing: border-box;\"\u003e\r\n        \u003cimg src=\"https://img-va.myshopline.com/image/store/1754883979727/mudjean-factory-1-(6).jpg\" alt=\"Mudjean Factory Image 6\" style=\"width: 100%; height: auto; display: block; border-radius: 4px;\"\u003e\r\n    \u003c/div\u003e\r\n\r\n\u003c/div\u003e",
         "layout": {
           "@media (--mobile)": {
             "column-gap": "20px",
@@ -246,8 +248,8 @@
             "padding-block-end": "40px",
             "padding-block-start": "40px"
           },
-          "padding-block-end": "80px",
-          "padding-block-start": "0px"
+          "padding-block-end": "5px",
+          "padding-block-start": "5px"
         }
       },
       "disabled": false,
@@ -255,6 +257,66 @@
       "block_order": [],
       "custom_css": [],
       "name": "t:sections.custom_html.presets.presets_0.name"
+    },
+    "1758794640607ac1ea11": {
+      "type": "rich-text",
+      "settings": {
+        "background_image": {},
+        "color_scheme": "scheme-1",
+        "layout": {
+          "@media (--mobile)": {
+            "align-items": "center",
+            "column-gap": "14px",
+            "flex-direction": "column",
+            "flex-wrap": "nowrap",
+            "justify-content": "center",
+            "row-gap": "14px"
+          },
+          "align-items": "center",
+          "column-gap": "28px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "28px"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-bottom": "24px",
+            "padding-left": "20px",
+            "padding-right": "20px",
+            "padding-top": "24px"
+          },
+          "padding-bottom": "100px",
+          "padding-left": "30px",
+          "padding-right": "30px",
+          "padding-top": "100px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "17587946406082148575": {
+          "type": "rich-text",
+          "settings": {
+            "content": "Mudjean is the direct-to-consumer (DTC) brand of \u003cstrong\u003eQUANZHOU MUJIANE COMMERCE CO., LTD.\u003c/strong\u003e, a vertically integrated manufacturer specializing in children's apparel. By managing our own production and selling directly to you, we eliminate middlemen, ensuring you receive high-quality, factory-direct sportswear at a fair price."
+          },
+          "blocks": {}
+        },
+        "1758794640608b10d8fc": {
+          "type": "heading",
+          "settings": {
+            "text": "From Our Factory, To Your Family",
+            "text_align": "center",
+            "text_size": "title1"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "1758794640608b10d8fc",
+        "17587946406082148575"
+      ],
+      "custom_css": [],
+      "name": "t:sections.rich_text.presets.presets_0.name"
     },
     "main-page": {
       "type": "main-page",
@@ -280,6 +342,7 @@
     "main-page",
     "17569785666008a7a512",
     "175732028466647c19f3",
-    "1758791355730399080e"
+    "1758791355730399080e",
+    "1758794640607ac1ea11"
   ]
 }
