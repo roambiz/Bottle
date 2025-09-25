@@ -326,14 +326,6 @@
               "type": "product/detail-sell-info",
               "settings": {},
               "blocks": {
-                "sell_info_2": {
-                  "type": "product/detail-sell-info-row",
-                  "settings": {
-                    "info_icon": "checkmark",
-                    "info_text": "60-Day Return\n\n"
-                  },
-                  "blocks": {}
-                },
                 "sell_info_4": {
                   "type": "product/detail-sell-info-row",
                   "settings": {
@@ -344,7 +336,6 @@
                 }
               },
               "block_order": [
-                "sell_info_2",
                 "sell_info_4"
               ]
             },
@@ -407,8 +398,7 @@
       "block_order": [
         "media-group",
         "info"
-      ],
-      "custom_css": []
+      ]
     },
     "recommended-product": {
       "type": "recommended-product",
