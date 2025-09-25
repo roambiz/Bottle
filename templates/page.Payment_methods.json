@@ -67,7 +67,7 @@
             "17575742954620848370": {
               "type": "rich-text",
               "settings": {
-                "content": "We prioritize your security and convenience. We have streamlined our checkout process to ensure your payment is safe, secure, and simple. All of our online transactions are securely processed through PayPal, one of the world's most trusted payment gateways. This ensures that your financial details are encrypted and protected at all times. You can shop with confidence knowing your data is safe.",
+                "content": "\u003cp dir=\"auto\"\u003eWe prioritize your security and convenience. We have streamlined our checkout process to ensure your payment is safe, secure, and simple. All of our online transactions are securely processed through PayPal, a leading payment gateway known for its robust encryption and data protection. This ensures that your financial details are handled safely at all times. You can shop with confidence knowing your data is protected.\u003c/p\u003e",
                 "size": {
                   "height": "auto",
                   "width": "100%"
@@ -110,7 +110,7 @@
             "1757574386618aff940d": {
               "type": "rich-text",
               "settings": {
-                "content": "\u003cp\u003eWhile PayPal is our payment processor, you do not need a PayPal account to complete your purchase. We accept all major credit and debit cards through the PayPal gateway.\u003c/p\u003e\n\u003cp\u003eSimply select the 'Pay with Debit or Credit Card' option on the PayPal checkout page. We proudly accept the following cards:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003ePayPal\u003c/li\u003e\n\u003cli\u003eAmerican Express\u003c/li\u003e\n\u003cli\u003eDiners Club\u003c/li\u003e\n\u003cli\u003eDiscover\u003c/li\u003e\n\u003cli\u003eMasterCard\u003c/li\u003e\n\u003cli\u003eVISA\u003c/li\u003e\n\u003c/ul\u003e",
+                "content": "\u003cp dir=\"auto\"\u003eWhile PayPal is our payment processor, you do not need a PayPal account to complete your purchase. We accept all major credit and debit cards through the PayPal gateway, with no additional transaction fees from our side.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eSimply select the 'Pay with Debit or Credit Card' option on the PayPal checkout page. We proudly accept the following cards:\u003c/p\u003e\n\u003cul dir=\"auto\"\u003e\n\u003cli\u003ePayPal\u003c/li\u003e\n\u003cli\u003eAmerican Express\u003c/li\u003e\n\u003cli\u003eDiners Club\u003c/li\u003e\n\u003cli\u003eDiscover\u003c/li\u003e\n\u003cli\u003eMasterCard\u003c/li\u003e\n\u003cli\u003eVISA\u003c/li\u003e\n\u003c/ul\u003e",
                 "size": {
                   "height": "auto",
                   "width": "100%"
@@ -163,7 +163,7 @@
             "175757453781838ac891": {
               "type": "rich-text",
               "settings": {
-                "content": "\u003col\u003e\n\u003cli\u003eProceed to checkout with the items in your cart.\u003c/li\u003e\n\u003cli\u003eYou will be redirected to PayPal's secure payment page.\u003c/li\u003e\n\u003cli\u003eYou can either log in to your PayPal account OR select the option to 'Pay with Debit or Credit Card' to enter your card details as a guest.\u003c/li\u003e\n\u003cli\u003eComplete your purchase securely.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cbr\u003ePrivacy Guaranteed: We do not store your credit card details on our servers. Your payment information is handled directly by PayPal.If you have any questions about our payment process, please do not hesitate to contact our customer service team.",
+                "content": "\u003col dir=\"auto\"\u003e\n\u003cli\u003eProceed to checkout with the items in your cart.\u003c/li\u003e\n\u003cli\u003eYou will be redirected to PayPal's secure payment page.\u003c/li\u003e\n\u003cli\u003eYou can either log in to your PayPal account OR select the option to 'Pay with Debit or Credit Card' to enter your card details as a guest.\u003c/li\u003e\n\u003cli\u003eComplete your purchase securely.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003ePrivacy Guaranteed:\u003c/strong\u003e We do not store your credit card details on our servers. Your payment information is handled directly by PayPal. For more details on how PayPal protects your data, please refer to their \u003ca href=\"https://www.paypal.com/us/legalhub/privacy-full\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"\u003ePrivacy Policy\u003c/a\u003e.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eNote:\u003c/strong\u003e PayPal may apply standard fees for certain transactions (e.g., currency conversion), which are not controlled by us. We recommend reviewing PayPal's terms before checkout.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eIf you have any questions about our payment process, please contact our customer service team at \u003ca href=\"mailto:help@mudjean.com\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"\u003ehelp@mudjean.com\u003c/a\u003e or visit our \u003ca href=\"https://mudjean.com/contact\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"\u003eContact Us\u003c/a\u003e page for more options.\u003c/p\u003e",
                 "size": {
                   "height": "auto",
                   "width": "100%"
