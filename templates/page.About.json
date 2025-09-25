@@ -152,7 +152,9 @@
       "blocks": {
         "175732028466680db934": {
           "type": "$image",
-          "settings": {},
+          "settings": {
+            "image": "shopline://shop_images/Our Commitment to Safety \u0026 Quality.jpg"
+          },
           "disabled": false,
           "blocks": {}
         },
