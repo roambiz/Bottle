@@ -251,7 +251,7 @@
             "padding-block-start": "40px"
           },
           "padding-block-end": "5px",
-          "padding-block-start": "5px"
+          "padding-block-start": "60px"
         }
       },
       "disabled": false,
@@ -283,15 +283,15 @@
         },
         "spacing": {
           "@media (--mobile)": {
-            "padding-bottom": "24px",
-            "padding-left": "20px",
-            "padding-right": "20px",
-            "padding-top": "24px"
+            "padding-block-end": "24px",
+            "padding-block-start": "24px",
+            "padding-inline-end": "20px",
+            "padding-inline-start": "20px"
           },
-          "padding-bottom": "100px",
-          "padding-left": "30px",
-          "padding-right": "30px",
-          "padding-top": "100px"
+          "padding-block-end": "60px",
+          "padding-block-start": "60px",
+          "padding-inline-end": "30px",
+          "padding-inline-start": "30px"
         }
       },
       "disabled": false,
