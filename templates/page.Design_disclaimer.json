@@ -57,7 +57,7 @@
             "1757574278970389e843": {
               "type": "heading",
               "settings": {
-                "text": "Secure Payments Processed by PayPal",
+                "text": "Our Designs\n",
                 "text_align": "left",
                 "text_size": "title4"
               },
@@ -67,7 +67,7 @@
             "17575742954620848370": {
               "type": "rich-text",
               "settings": {
-                "content": "\u003cp dir=\"auto\"\u003eWe prioritize your security and convenience. We have streamlined our checkout process to ensure your payment is safe, secure, and simple. All of our online transactions are securely processed through PayPal, a leading payment gateway known for its robust encryption and data protection. This ensures that your financial details are handled safely at all times. You can shop with confidence knowing your data is protected.\u003c/p\u003e",
+                "content": "\u003cp\u003eEvery children's soccer kit at Mudjean is an \u003cstrong\u003eauthentic, original MUDJEAN design\u003c/strong\u003e. They are creative expressions inspired by the rich culture and passion surrounding international soccer, designed for fans who wish to celebrate their favorite teams and the spirit of the game.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003ePlease note:\u003c/strong\u003e These products are not official, licensed merchandise and are not licensed, sponsored, or endorsed by any official football association, national team, club, or other rights holder. Mudjean is an independent brand with no official affiliation to these entities.\u003c/p\u003e",
                 "size": {
                   "height": "auto",
                   "width": "100%"
@@ -110,7 +110,7 @@
             "1757574386618aff940d": {
               "type": "rich-text",
               "settings": {
-                "content": "\u003cp dir=\"auto\"\u003eWhile PayPal is our payment processor, you do not need a PayPal account to complete your purchase. We accept all major credit and debit cards through the PayPal gateway, with no additional transaction fees from our side.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eSimply select the 'Pay with Debit or Credit Card' option on the PayPal checkout page. We proudly accept the following cards:\u003c/p\u003e\n\u003cul dir=\"auto\"\u003e\n\u003cli\u003ePayPal\u003c/li\u003e\n\u003cli\u003eAmerican Express\u003c/li\u003e\n\u003cli\u003eDiners Club\u003c/li\u003e\n\u003cli\u003eDiscover\u003c/li\u003e\n\u003cli\u003eMasterCard\u003c/li\u003e\n\u003cli\u003eVISA\u003c/li\u003e\n\u003c/ul\u003e",
+                "content": "\u003cp\u003eMudjean respects the intellectual property rights of others. If you are a rights holder and believe that any product on our site infringes upon your copyright, trademark, or other intellectual property, please contact us directly.\u003c/p\u003e\n\u003cp\u003eTo submit a notice of infringement, please email our designated agent at \u003cstrong\u003eip@mudjean.com\u003c/strong\u003e with the following information:\u003c/p\u003e\n\u003col start=\"1\"\u003e\n\u003cli\u003e\n\u003cp\u003eIdentification of the intellectual property you claim has been infringed.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eProof of your ownership of the intellectual property.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eThe specific product URL on our site that you are referring to.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eUpon receipt of a valid notice, we will promptly investigate the matter and take appropriate action. Mudjean is committed to complying with all relevant intellectual property laws.\u003c/p\u003e",
                 "size": {
                   "height": "auto",
                   "width": "100%"
@@ -129,7 +129,7 @@
             "1757574386618b0497b7": {
               "type": "heading",
               "settings": {
-                "text": "Pay with Your Preferred Card — No PayPal Account Needed",
+                "text": "For Rights Holders",
                 "text_align": "left",
                 "text_size": "title4"
               },
@@ -141,65 +141,11 @@
             "1757574386618b0497b7",
             "1757574386618aff940d"
           ]
-        },
-        "17575745378182fdc5c2": {
-          "type": "group",
-          "settings": {
-            "layout": {
-              "align-items": "center",
-              "column-gap": "32px",
-              "flex-direction": "column",
-              "flex-wrap": "nowrap",
-              "justify-content": "center",
-              "row-gap": "32px"
-            },
-            "size": {
-              "height": "auto",
-              "width": "100%"
-            },
-            "spacing": {}
-          },
-          "blocks": {
-            "175757453781838ac891": {
-              "type": "rich-text",
-              "settings": {
-                "content": "\u003col dir=\"auto\"\u003e\n\u003cli\u003eProceed to checkout with the items in your cart.\u003c/li\u003e\n\u003cli\u003eYou will be redirected to PayPal's secure payment page.\u003c/li\u003e\n\u003cli\u003eYou can either log in to your PayPal account OR select the option to 'Pay with Debit or Credit Card' to enter your card details as a guest.\u003c/li\u003e\n\u003cli\u003eComplete your purchase securely.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003ePrivacy Guaranteed:\u003c/strong\u003e We do not store your credit card details on our servers. Your payment information is handled directly by PayPal. For more details on how PayPal protects your data, please refer to their \u003ca href=\"https://www.paypal.com/us/legalhub/privacy-full\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"\u003ePrivacy Policy\u003c/a\u003e.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eNote:\u003c/strong\u003e PayPal may apply standard fees for certain transactions (e.g., currency conversion), which are not controlled by us. We recommend reviewing PayPal's terms before checkout.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eIf you have any questions about our payment process, please contact our customer service team at \u003ca href=\"mailto:help@mudjean.com\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"\u003ehelp@mudjean.com\u003c/a\u003e or visit our \u003ca id=\"17587827247452\" href=\"/pages/contact\" target=\"_self\" data-link=\"{\u0026quot;pageType\u0026quot;:3,\u0026quot;value\u0026quot;:\u0026quot;contact\u0026quot;,\u0026quot;linkType\u0026quot;:\u0026quot;select\u0026quot;,\u0026quot;label\u0026quot;:\u0026quot;Contact\u0026quot;}\"\u003eContact Us\u003c/a\u003e\u003ca id=\"17587827246241\" href=\"/pages/contact\" target=\"_self\" data-link=\"{\u0026quot;pageType\u0026quot;:3,\u0026quot;value\u0026quot;:\u0026quot;contact\u0026quot;,\u0026quot;linkType\u0026quot;:\u0026quot;select\u0026quot;,\u0026quot;label\u0026quot;:\u0026quot;Contact\u0026quot;}\"\u003eContact Us\u003c/a\u003e\u0026nbsp;page for more options.\u003c/p\u003e",
-                "size": {
-                  "height": "auto",
-                  "width": "100%"
-                },
-                "spacing": {
-                  "padding-bottom": "0px",
-                  "padding-left": "0px",
-                  "padding-right": "0px",
-                  "padding-top": "0px"
-                },
-                "text_align": "left"
-              },
-              "blocks": {},
-              "block_order": []
-            },
-            "1757574537818d891e57": {
-              "type": "heading",
-              "settings": {
-                "text": "How It Works:",
-                "text_align": "left",
-                "text_size": "title4"
-              },
-              "blocks": {},
-              "block_order": []
-            }
-          },
-          "block_order": [
-            "1757574537818d891e57",
-            "175757453781838ac891"
-          ]
         }
       },
       "block_order": [
         "17575742718167accd31",
-        "17575743866185584248",
-        "17575745378182fdc5c2"
+        "17575743866185584248"
       ],
       "custom_css": [],
       "name": "t:sections.custom_section.presets.presets_0.name"
