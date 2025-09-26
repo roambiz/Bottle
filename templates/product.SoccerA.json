@@ -373,6 +373,18 @@
               "settings": {},
               "blocks": {}
             },
+            "17588694088075403a3b": {
+              "type": "product/detail-additional",
+              "settings": {
+                "custom_page": "",
+                "description": "\u003ca id=\"17588695386241\" href=\"/pages/design-disclaimer\" target=\"_self\" data-link=\"{\u0026quot;pageType\u0026quot;:3,\u0026quot;value\u0026quot;:\u0026quot;design-disclaimer\u0026quot;,\u0026quot;linkType\u0026quot;:\u0026quot;select\u0026quot;,\u0026quot;label\u0026quot;:\u0026quot;Design Disclaimer\u0026quot;}\"\u003eView Our Design Disclaimer\u003c/a\u003e",
+                "enabled_fold": true,
+                "icon": "faq",
+                "title": "Design Disclaimer"
+              },
+              "blocks": {},
+              "block_order": []
+            },
             "additional": {
               "type": "product/detail-additional",
               "settings": {
@@ -453,6 +465,7 @@
             "175558685649445de272",
             "17551608959438aad171",
             "additional",
+            "17588694088075403a3b",
             "share"
           ]
         },
