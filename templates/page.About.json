@@ -108,8 +108,7 @@
       "block_order": [
         "1756978566601829cc8b",
         "17569785666011d53194"
-      ],
-      "custom_css": []
+      ]
     },
     "175732028466647c19f3": {
       "type": "image-with-text",
@@ -178,7 +177,7 @@
             "175732028466605ee4ea": {
               "type": "$rich-text",
               "settings": {
-                "content": "Your child's well-being is our highest priority. That's why the core fabrics in our apparel are certified by \u003ca id=\"17587951184081\" href=\"https://cdn-files.myshopline.com/file/store/1754883979727/OEKO-TEX®-STANDARD-100-MUDJEAN.pdf\" target=\"_blank\" rel=\"noopener\" data-link=\"{\u0026quot;pageType\u0026quot;:-1,\u0026quot;value\u0026quot;:\u0026quot;https://cdn-files.myshopline.com/file/store/1754883979727/OEKO-TEX®-STANDARD-100-MUDJEAN.pdf\u0026quot;,\u0026quot;linkType\u0026quot;:\u0026quot;input\u0026quot;,\u0026quot;label\u0026quot;:\u0026quot;https://cdn-files.myshopline.com/file/store/1754883979727/OEKO-TEX®-STANDARD-100-MUDJEAN.pdf\u0026quot;}\"\u003eOEKO-TEX® STANDARD 100\u003c/a\u003e\u003cstrong\u003e,\u003c/strong\u003e one of the world's most trusted labels for textiles tested for harmful substances. This certification guarantees that every thread is safe for sensitive skin, giving you complete peace of mind.We combine this commitment to safety with high-performance materials, like our breathable bird's eye mesh polyester, to create durable and comfortable athletic gear for kids aged 2-14."
+                "content": "\u003cp dir=\"auto\"\u003eOur children's apparel uses core fabrics certified by \u003ca id=\"17587951184081\" href=\"https://cdn-files.myshopline.com/file/store/1754883979727/OEKO-TEX®-STANDARD-100-MUDJEAN.pdf\" target=\"_blank\" rel=\"noopener\" data-link=\"{\u0026quot;pageType\u0026quot;:-1,\u0026quot;value\u0026quot;:\u0026quot;https://cdn-files.myshopline.com/file/store/1754883979727/OEKO-TEX®-STANDARD-100-MUDJEAN.pdf\u0026quot;,\u0026quot;linkType\u0026quot;:\u0026quot;input\u0026quot;,\u0026quot;label\u0026quot;:\u0026quot;https://cdn-files.myshopline.com/file/store/1754883979727/OEKO-TEX®-STANDARD-100-MUDJEAN.pdf\u0026quot;}\"\u003eOEKO-TEX® STANDARD 100\u003c/a\u003e, a label for textiles tested for harmful substances. This certification indicates that the materials have been evaluated for safety. We incorporate these materials with breathable bird's eye mesh polyester to provide athletic gear for kids.\u003c/p\u003e"
               },
               "blocks": {}
             },
@@ -256,8 +255,6 @@
       },
       "disabled": false,
       "blocks": {},
-      "block_order": [],
-      "custom_css": [],
       "name": "t:sections.custom_html.presets.presets_0.name"
     },
     "1758794640607ac1ea11": {
@@ -317,7 +314,6 @@
         "1758794640608b10d8fc",
         "17587946406082148575"
       ],
-      "custom_css": [],
       "name": "t:sections.rich_text.presets.presets_0.name"
     },
     "main-page": {
