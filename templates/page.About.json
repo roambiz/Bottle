@@ -220,8 +220,7 @@
       "block_order": [
         "1757320284666e7fba91",
         "175732028466680db934"
-      ],
-      "custom_css": []
+      ]
     },
     "1758791355730399080e": {
       "type": "custom-html",
@@ -296,7 +295,7 @@
         "17587946406082148575": {
           "type": "rich-text",
           "settings": {
-            "content": "We are a vertically integrated manufacturer, \u003cstrong\u003eQUANZHOU MUJIANE COMMERCE CO., LTD.\u003c/strong\u003e, and Mudjean is our direct-to-consumer (DTC) brand. By managing our own production and selling directly to you, we can ensure you receive high-quality, factory-direct sportswear at a fair price."
+            "content": "We are a vertically integrated manufacturer, \u003cstrong\u003eQUANZHOU MUJIANE E-COMMERCE CO., LTD.\u003c/strong\u003e, and Mudjean is our direct-to-consumer (DTC) brand. By managing our own production and selling directly to you, we can ensure you receive high-quality, factory-direct sportswear at a fair price."
           },
           "blocks": {}
         },
@@ -314,6 +313,7 @@
         "1758794640608b10d8fc",
         "17587946406082148575"
       ],
+      "custom_css": [],
       "name": "t:sections.rich_text.presets.presets_0.name"
     },
     "main-page": {
