@@ -257,8 +257,7 @@
       "block_order": [
         "175516125711622ddd98",
         "17551612571161de69c8"
-      ],
-      "custom_css": []
+      ]
     },
     "17574075127353d1e8fc": {
       "type": "apps",
@@ -348,7 +347,7 @@
               "type": "product/detail-additional",
               "settings": {
                 "custom_page": "7124649019058450283",
-                "description": "\u003cstrong\u003e2-Piece Set\u003c/strong\u003e: \u003cbr\u003e\u003cem\u003e1 x Soccer Jersey\u003c/em\u003e\u003cbr\u003e\u003cem\u003e1 x Soccer Shorts\u003c/em\u003e\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003e3-Piece Set:\u003c/strong\u003e\u003cbr\u003e\u003cem\u003e1 x Soccer Jersey\u003c/em\u003e\u003cbr\u003e\u003cem\u003e1 x Soccer Shorts\u0026nbsp;\u003c/em\u003e\u003cbr\u003e\u003cem\u003e1 x Soccer Socks\u003c/em\u003e",
+                "description": "\u003cstrong\u003e{{#metafield_tag product | get_metafield(\"PRODUCT_fields\", \"product_bundle_details\") /}}\u003c/strong\u003e",
                 "enabled_fold": true,
                 "icon": "mudjean-shirt",
                 "title": "Bundle Details"
@@ -508,7 +507,8 @@
       "block_order": [
         "media-group",
         "info"
-      ]
+      ],
+      "custom_css": []
     },
     "recommended-product": {
       "type": "recommended-product",
