@@ -347,7 +347,7 @@
               "type": "product/detail-additional",
               "settings": {
                 "custom_page": "7124649019058450283",
-                "description": "\u003cstrong\u003e{{#metafield_tag product | get_metafield(\"PRODUCT_fields\", \"product_bundle_details\") /}}\u003c/strong\u003e",
+                "description": "{{#metafield_tag product | get_metafield(\"PRODUCT_fields\", \"product_bundle_details\") /}}",
                 "enabled_fold": true,
                 "icon": "mudjean-shirt",
                 "title": "Bundle Details"
