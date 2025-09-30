@@ -86,8 +86,7 @@
       "block_order": [
         "17556623737127ad4baf",
         "1755662373712f617b2a"
-      ],
-      "custom_css": []
+      ]
     },
     "175567074729343ab199": {
       "type": "image-with-text",
@@ -175,8 +174,7 @@
       "block_order": [
         "175567074729405b0618",
         "1755670747294b5b2550"
-      ],
-      "custom_css": []
+      ]
     },
     "17556719782265be18ab": {
       "type": "image-with-text",
@@ -264,8 +262,102 @@
       "block_order": [
         "17556719782262291fae",
         "17556719782265dee6e8"
+      ]
+    },
+    "1759221793857faaf173": {
+      "type": "blog",
+      "settings": {
+        "blog": "68db4b5c9311c153b405ea37",
+        "color_scheme": "scheme-3",
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "24px",
+            "row-gap": "24px"
+          },
+          "align-items": "center",
+          "column-gap": "60px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "60px"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-bottom": "24px",
+            "padding-top": "24px"
+          },
+          "padding-bottom": "60px",
+          "padding-top": "60px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "17592217938581f88e88": {
+          "type": "$articles",
+          "settings": {},
+          "blocks": {
+            "17592217938587e8b5e0": {
+              "type": "article/card",
+              "settings": {},
+              "blocks": {
+                "17592217938580c622f6": {
+                  "type": "article/cover",
+                  "settings": {},
+                  "blocks": {}
+                },
+                "1759221793858b111c5a": {
+                  "type": "article/info",
+                  "settings": {},
+                  "blocks": {
+                    "17592217938582cd5217": {
+                      "type": "article/excerpt",
+                      "settings": {},
+                      "blocks": {}
+                    },
+                    "175922179385888b906c": {
+                      "type": "article/title",
+                      "settings": {},
+                      "blocks": {}
+                    },
+                    "1759221793858b8b863a": {
+                      "type": "article/date_author",
+                      "settings": {},
+                      "blocks": {}
+                    }
+                  },
+                  "block_order": [
+                    "175922179385888b906c",
+                    "1759221793858b8b863a",
+                    "17592217938582cd5217"
+                  ]
+                }
+              },
+              "block_order": [
+                "17592217938580c622f6",
+                "1759221793858b111c5a"
+              ]
+            }
+          },
+          "block_order": [
+            "17592217938587e8b5e0"
+          ]
+        },
+        "175922179385835e1251": {
+          "type": "heading-with-link/heading-with-link",
+          "settings": {
+            "link_text": "View more",
+            "text": "Apparel Size System",
+            "text_size": "title4"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "175922179385835e1251",
+        "17592217938581f88e88"
       ],
-      "custom_css": []
+      "custom_css": [],
+      "name": "t:sections.blog.presets.presets_0.name"
     },
     "main-page": {
       "type": "main-page",
@@ -294,6 +386,7 @@
     "main-page",
     "1755662373711ee2900a",
     "17556719782265be18ab",
-    "175567074729343ab199"
+    "175567074729343ab199",
+    "1759221793857faaf173"
   ]
 }
