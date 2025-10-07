@@ -68,13 +68,13 @@
               "type": "$card",
               "settings": {
                 "button_text": "Shopping Now",
-                "link": "shopline://products/16071346176194290735290195"
+                "link": "shopline://products/16071230914312001326450195"
               },
               "blocks": {
                 "17561734459118ebef19": {
                   "type": "$image",
                   "settings": {
-                    "image": "shopline://shop_images/MEX-soccer-boy-model.jpeg"
+                    "image": "shopline://shop_images/迈阿密男带娃子.jpg"
                   },
                   "blocks": {}
                 }
