@@ -49,13 +49,13 @@
               "type": "$card",
               "settings": {
                 "button_text": "Shopping Now",
-                "link": "shopline://products/16071344848284019680100195"
+                "link": "shopline://products/16071432476948022297010195"
               },
               "blocks": {
                 "17561734459116bd67b3": {
                   "type": "$image",
                   "settings": {
-                    "image": "shopline://shop_images/US-soccer-girl-model.jpeg"
+                    "image": "shopline://shop_images/巴西10带袜子女.jpg"
                   },
                   "blocks": {}
                 }
