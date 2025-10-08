@@ -133,8 +133,6 @@
     }
   },
   "platform_customizations": {
-    "custom_css": [
-      ".facets-mobile__modals {background-color: black; color:white; margin-bottom:20px;}"
-    ]
+    "custom_css": []
   }
 }

@@ -211,7 +211,10 @@
       "block_order": [
         "main-collection-products__card"
       ],
-      "custom_css": []
+      "custom_css": [
+        ".facets-mobile__modals {background-color: black; color: white; margin-bottom: 20px; /* 添加触摸友好的样式 */ cursor: pointer; transition: background-color 0.3s ease;}",
+        ".facets-mobile__modals:hover,.facets-mobile__modals:active,.facets-mobile__modals:focus {background-color: green;}"
+      ]
     },
     "undefined": {
       "type": "",
