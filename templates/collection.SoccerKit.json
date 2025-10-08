@@ -91,8 +91,7 @@
       "block_order": [
         "1756785383388d9ac325",
         "1756785383389458b528"
-      ],
-      "custom_css": []
+      ]
     },
     "main-collection-cover": {
       "type": "main-collection-cover",
@@ -126,7 +125,8 @@
       "block_order": [
         "banner",
         "description"
-      ]
+      ],
+      "custom_css": []
     },
     "main-collection-products": {
       "type": "main-collection-products",
@@ -210,7 +210,14 @@
       },
       "block_order": [
         "main-collection-products__card"
-      ]
+      ],
+      "custom_css": []
+    },
+    "undefined": {
+      "type": "",
+      "settings": {},
+      "blocks": {},
+      "custom_css": []
     }
   },
   "order": [

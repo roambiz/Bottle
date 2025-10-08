@@ -6,7 +6,10 @@
         "color_scheme": "scheme-1",
         "layout": {
           "@media (--mobile)": {
+            "align-items": "center",
             "column-gap": "20px",
+            "flex-direction": "column",
+            "flex-wrap": "nowrap",
             "row-gap": "20px"
           },
           "align-items": "center",
