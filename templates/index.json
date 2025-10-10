@@ -939,7 +939,8 @@
       },
       "block_order": [
         "slideshow__image"
-      ]
+      ],
+      "custom_css": []
     },
     "text-columns-with-image": {
       "type": "text-columns-with-image",
@@ -1148,7 +1149,8 @@
         "video__heading",
         "video__video",
         "video__description"
-      ]
+      ],
+      "custom_css": []
     }
   },
   "order": [
