@@ -58,7 +58,7 @@
                 "17561734459116bd67b3": {
                   "type": "$image",
                   "settings": {
-                    "image": "shopline://shop_images/巴西10带袜子女.jpg"
+                    "image": "shopline://files/images/Home-Models-Showcase-01.jpg"
                   },
                   "blocks": {}
                 }
@@ -77,7 +77,7 @@
                 "17561734459118ebef19": {
                   "type": "$image",
                   "settings": {
-                    "image": "shopline://shop_images/迈阿密男带娃子.jpg"
+                    "image": "shopline://files/images/Home-Models-Showcase-02.jpg"
                   },
                   "blocks": {}
                 }
@@ -85,18 +85,59 @@
               "block_order": [
                 "17561734459118ebef19"
               ]
+            },
+            "1794476102921c6bdb63": {
+              "type": "$card",
+              "settings": {
+                "button_text": "Shopping Now",
+                "link": "shopline://products/16071230914312001326450195"
+              },
+              "blocks": {
+                "17944761029218c2541e": {
+                  "type": "$image",
+                  "settings": {
+                    "image": "shopline://files/images/Home-Models-Showcase-03.jpg"
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "17944761029218c2541e"
+              ]
+            },
+            "179447610632990d06ad": {
+              "type": "$card",
+              "settings": {
+                "button_text": "Shopping Now",
+                "link": "shopline://products/16071230914312001326450195"
+              },
+              "blocks": {
+                "1794476106329b53c195": {
+                  "type": "$image",
+                  "settings": {
+                    "image": "shopline://files/images/Home-Models-Showcase-04.jpg"
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "1794476106329b53c195"
+              ]
             }
           },
           "block_order": [
             "175617344591109b2363",
-            "17561734459111850105"
+            "17561734459111850105",
+            "1794476102921c6bdb63",
+            "179447610632990d06ad"
           ]
         }
       },
       "block_order": [
         "17561734459110f09f23",
         "17561734459114fa6453"
-      ]
+      ],
+      "custom_css": []
     },
     "featured-collection": {
       "type": "featured-collection",
