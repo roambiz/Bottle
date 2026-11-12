@@ -225,10 +225,11 @@
         "slideshow__image": {
           "type": "$image",
           "settings": {
-            "desktop_image": "shopline://shop_images/banner-for-hero-002.png",
-            "image_mask_opacity": 34,
+            "desktop_image": "shopline://files/images/BANNER2026-STYLE01.png",
+            "image_mask_opacity": 50,
             "mobile_image": "shopline://shop_images/banner-for-hero-002.png",
-            "show_text_mask": true
+            "show_text_mask": true,
+            "text_mask_color": "light"
           },
           "blocks": {
             "slideshow__image__group": {
@@ -300,7 +301,8 @@
       },
       "block_order": [
         "slideshow__image"
-      ]
+      ],
+      "custom_css": []
     },
     "video": {
       "type": "video",
