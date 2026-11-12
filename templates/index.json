@@ -52,7 +52,7 @@
               "type": "$card",
               "settings": {
                 "button_text": "Shopping Now",
-                "link": "shopline://products/16071432476948022297010195"
+                "link": "shopline://url/products/kids-usa-soccer-kits-style-b"
               },
               "blocks": {
                 "17561734459116bd67b3": {
@@ -71,7 +71,7 @@
               "type": "$card",
               "settings": {
                 "button_text": "Shopping Now",
-                "link": "shopline://products/16071230914312001326450195"
+                "link": "shopline://url/products/mexico-soccer-kits"
               },
               "blocks": {
                 "17561734459118ebef19": {
