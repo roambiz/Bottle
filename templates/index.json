@@ -90,7 +90,7 @@
               "type": "$card",
               "settings": {
                 "button_text": "Shopping Now",
-                "link": "shopline://products/16071230914312001326450195"
+                "link": "shopline://url/products/kids-portugal-soccer-kits-style-b"
               },
               "blocks": {
                 "17944761029218c2541e": {
@@ -109,7 +109,7 @@
               "type": "$card",
               "settings": {
                 "button_text": "Shopping Now",
-                "link": "shopline://products/16071230914312001326450195"
+                "link": "shopline://url/products/brazil-soccer-kits"
               },
               "blocks": {
                 "1794476106329b53c195": {
